@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="IS: RUV FHD">
-    <display-name lang="is">IS: RUV FHD</display-name>
+  <channel id="RUV.is">
+    <display-name lang="is">RUV HD</display-name>
     <url>http://www.ruv.is</url>
   </channel>
-  <channel id="IS: RUV 2 HD">
-    <display-name lang="is">IS: RUV 2 HD</display-name>
+  <channel id="RUV2.is">
+    <display-name lang="is">RUV 2 HD</display-name>
     <url>http://www.sjonvarp.is</url>
   </channel>
   <channel id="IS: Sjonvarp Simans HD">
@@ -254,32 +254,32 @@ Fjallað er um heilandi og nærandi eiginleika sveppa. Skoðuð er framleiðsla 
   <programme start="20250907235500 +0000" stop="20250908130000 +0000" channel="VIP IS: RUV FHD">
     <title lang="is">Dagskrárlok</title>
   </programme>
-  <programme start="20250908130000 +0000" stop="20250908132000 +0000" channel="IS: RUV FHD">
+  <programme start="20250908130000 +0000" stop="20250908132000 +0000" channel="RUV.is">
     <title lang="is">Fréttir (með táknmálstúlkun)</title>
     <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
   </programme>
-  <programme start="20250908132000 +0000" stop="20250908133000 +0000" channel="IS: RUV FHD">
+  <programme start="20250908132000 +0000" stop="20250908133000 +0000" channel="RUV.is">
     <title lang="is">Heimaleikfimi</title>
     <desc lang="is">Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.(n)</desc>
   </programme>
-  <programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="IS: RUV FHD">
+  <programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="RUV.is">
     <title lang="is">Útsvar 2013-2014</title>
     <desc lang="is">Spurningakeppni sveitarfélaga. Umsjónarmenn eru Sigmar Guðmundsson og Þóra Arnórsdóttir. Spurningahöfundur og dómari er Stefán Pálsson. Dagskrárgerð: Helgi Jóhannesson.(n)</desc>
   </programme>
-  <programme start="20250908143000 +0000" stop="20250908151500 +0000" channel="IS: RUV FHD">
+  <programme start="20250908143000 +0000" stop="20250908151500 +0000" channel="RUV.is">
     <title lang="is">Hatur</title>
     <desc lang="is">Nýir íslenskir heimildarþættir um uppgang hatursorðræðu á Íslandi og bakslagið sem orðið hefur í baráttu ýmissa minnihlutahópa á síðustu misserum. Leitast er við að svara spurningunni um hvernig bakslagið fór af stað, hvaðan hatrið stafar og hvaða leið er út úr þessari stöðu. Rætt er við sérfræðinga, stjórnmálafólk og þau sem hafa orðið fyrir barðinu á hatursorðræðu auk þess sem ljósi er varpað á aukið aðgengi ungs fólks að hatri í gegnum samfélagsmiðla. Umsjón: Ingileif Friðriksdóttir. Leikstjórn: Hrafn Jónsson. Framleiðsla: Ketchup Creative.(n)</desc>
   </programme>
-  <programme start="20250908151500 +0000" stop="20250908153500 +0000" channel="IS: RUV FHD">
+  <programme start="20250908151500 +0000" stop="20250908153500 +0000" channel="RUV.is">
     <title lang="is">Örlæti</title>
     <desc lang="is">Fróðlegir skemmtiþættir þar sem Sigtryggur Baldursson fjallar um örnefni á Íslandi frá ýmsum sjónarhornum. Dagskrárgerð: Guðlaugur Maggi Einarsson.(n)</desc>
   </programme>
-  <programme start="20250908153500 +0000" stop="20250908161500 +0000" channel="IS: RUV FHD">
+  <programme start="20250908153500 +0000" stop="20250908161500 +0000" channel="RUV.is">
     <title lang="is">Uppskriftabókin</title>
     <desc lang="is">Matreiðsluþættir þar sem Solla Eiríks heimsækir konur sem hafa áratugareynslu af matargerð. Hún kíkir í uppskriftabækur þeirra og lærir að elda rétti sem þær hafa matreitt á sinn einstaka hátt í fjölda ára. Í framhaldinu býður hún konunum heim til sín og endurgerir uppskriftirnar með aðstoð þeirra, en skiptir út dýraafurðum fyrir hráefni úr náttúrunni. Leikstjóri: Sunneva Ása Weisshappel. Framleiðsla: RVK Studios.
 Solla Eiríks heimsækir Ingu Backman sem kennir okkur að elda kindakæfu og rísmjölsgraut. Einnig hittir hún Öldu Lóu sápugerðarkonu sem kennir okkur að gera rósavatn.(n)</desc>
   </programme>
-  <programme start="20250908161500 +0000" stop="20250908171000 +0000" channel="IS: RUV FHD">
+  <programme start="20250908161500 +0000" stop="20250908171000 +0000" channel="RUV.is">
     <title lang="is">Hringfarinn - einn á hjóli í Afríku</title>
     <desc lang="is">Þriðja þáttaröðin um hringfarann Kristján Gíslason og ævintýraleg ferðalög hans um heiminn á mótorhjóli. Árið 2019 fór hann niður Afríku og á ferðalaginu fær hann að reyna allt frá borgarastríði til stórbrotinnar náttúru, kynnist einstökum ættbálkasamfélögum og kemst í kynni við einhver hættulegustu dýr heims.
 Í fjórða þætti fer Kristján Gíslason um Kibera, stærsta fátækrahverfi Afríku. Hann hittir líka Íslendinga sem hafa breytt lífi þúsunda afrískra barna til hins betra. Þá fer hann um stórbrotna náttúru Afríku og einhver mögnuðustu dýr heims verða á vegi hans.(n)</desc>
@@ -934,3 +934,4 @@ Uppgjör á úrslitaleik EM karla í körfubolta.(n)</desc>
   </programme>
 
 </tv>
+
