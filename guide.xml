@@ -1,0 +1,935 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VIP IS: RUV FHD">
+    <display-name lang="is">VIP IS: RUV FHD</display-name>
+    <url>http://www.ruv.is</url>
+  </channel>
+  <channel id="VIP IS: RUV 2 HD">
+    <display-name lang="is">VIP IS: RUV 2 HD</display-name>
+    <url>http://www.sjonvarp.is</url>
+  </channel>
+  <channel id="VIP IS: Sjonvarp Simans HD">
+    <display-name lang="is">VIP IS: Sjonvarp Simans HD</display-name>
+    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5f57ab054593623ffc94e75b_raekjawhite.png" />
+    <url>http://www.siminn.is</url>
+  </channel>
+  <channel id="VIP IS: Siminn Sport HD">
+    <display-name lang="is">VIP IS: Siminn Sport HD</display-name>
+    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f375755ac7fe8665996_Siminn-Sport.png" />
+    <url>http://www.siminn.is</url>
+  </channel>
+  <channel id="VIP IS: Siminn Sport 2 HD">
+    <display-name lang="is">VIP IS: Siminn Sport 2 HD</display-name>
+    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f24fbc3d7286abbeb4a_Siminn-Sport-2.png" />
+    <url>http://www.siminn.is</url>
+  </channel>
+  <channel id="VIP IS: Siminn Sport 3 HD">
+    <display-name lang="is">VIP IS: Siminn Sport 3 HD</display-name>
+    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f145755ac42ed665903_Siminn-Sport-3.png" />
+    <url>http://www.siminn.is</url>
+  </channel>
+  <channel id="VIP IS: Siminn Sport 4 HD">
+    <display-name lang="is">VIP IS: Siminn Sport 4 HD</display-name>
+    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f035755acfaee665751_Siminn-Sport-4.png" />
+    <url>http://www.siminn.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 HD">
+    <display-name lang="is">VIP IS: Stöð 2 HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Vísir HD">
+    <display-name lang="is">VIP IS: Stöð 2 Vísir HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Fjolskylda HD">
+    <display-name lang="is">VIP IS: Stöð 2 Fjolskylda HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport 2 HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport 2 HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport 3 HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport 3 HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport 4 HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport 4 HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport 5 HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport 5 HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 eSport HD">
+    <display-name lang="is">VIP IS: Stöð 2 eSport HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport Besta Deildin HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport Besta Deildin HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport Besta Deildin 2 HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport Besta Deildin 2 HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="VIP IS: Stöð 2 Sport Besta Deildin 3 HD">
+    <display-name lang="is">VIP IS: Stöð 2 Sport Besta Deildin 3 HD</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <programme start="20250907070000 +0000" stop="20250907070100 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">KrakkaRÚV</title>
+  </programme>
+  <programme start="20250907070100 +0000" stop="20250907071200 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Tillý og vinir</title>
+    <desc lang="is">Tillý býr í gulu húsi með fimm góðum vinum. Krókódíl, svíni, hænu, fíl og kanínu. Þau sýna og sanna að vináttan er það besta í heimi.(n)</desc>
+  </programme>
+  <programme start="20250907071200 +0000" stop="20250907072300 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Bubbi byggir</title>
+    <desc lang="is">Bubb byggir og félagar leysa vandamál og koma hlutum í verk með bros á vör. Getum við gert þetta? – Hvort við getum.(n)</desc>
+  </programme>
+  <programme start="20250907072300 +0000" stop="20250907073000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Fjölskyldufár</title>
+    <desc lang="is">Gamansamir þættir um strútapabbann Edda og áttburana hans. Eddi strútapabbi er fullkomnunarsinni og reynir að gera allt sem í hans valdi stendur til að vernda áttburana sína. Hann á fullt í fangi með það, enda eru ævintýrin hjá stórri fjölskyldu mörg og ímyndunaraflið mikið.
+Eddi Strútapabbi hefur áhyggjur af því að harða sælgætið muni brjóta tennurnar á sínu ástkæra barni!(n)</desc>
+  </programme>
+  <programme start="20250907073000 +0000" stop="20250907073500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Tölukubbar</title>
+    <desc lang="is">Lærið um tölustafina með Tölukubbunum!(n)</desc>
+  </programme>
+  <programme start="20250907073500 +0000" stop="20250907074000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Rán - Rún</title>
+    <desc lang="is">Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.(n)</desc>
+  </programme>
+  <programme start="20250907074000 +0000" stop="20250907074700 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Hæ Sámur IV</title>
+    <desc lang="is">Fjórða þáttaröðin um vinalega hundinn Sám og krílin sem vinna sér inn merki á leikskólanum hans.(n)</desc>
+  </programme>
+  <programme start="20250907074700 +0000" stop="20250907075800 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Veistu hvað ég elska þig mikið?</title>
+    <desc lang="is">Teiknimyndaþættir fyrir börn byggðir á samnefndri breskri barnabók frá árinu 1994 eftir Sam McBratney, með myndskreytingum eftir Anitu Jeram. Bókin hefur verið gefin út á yfir 53 tungumálum og selst í yfir 28 milljónum eintaka.(n)</desc>
+  </programme>
+  <programme start="20250907075800 +0000" stop="20250907081000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Vinabær Danna tígurs</title>
+    <desc lang="is">Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagreind og sjálfsvirðingu sem og virðingu fyrir öðrum.(n)</desc>
+  </programme>
+  <programme start="20250907081000 +0000" stop="20250907081700 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Hrúturinn Hreinn V</title>
+    <desc lang="is">Fimmta þáttaröð um hrútinn Hrein. Hreinn leiðir hinar kindurnar í alls kyns vandræði og raskar ró friðsæls dals með uppátækjasemi sinni.(n)</desc>
+  </programme>
+  <programme start="20250907081700 +0000" stop="20250907082800 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Monsurnar II</title>
+    <desc lang="is">Önnur þáttaröð af Monsunum Kára, Villa og Hönnu sem lenda í alls kyns ævintýrum og þurfa að standa saman til að takast á við illmennið Ívar.(n)</desc>
+  </programme>
+  <programme start="20250907082800 +0000" stop="20250907085000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Drónarar II</title>
+    <desc lang="is">Kortó, Mýsla og Eik eru álveðin að sigra Hvalabikarkeppnina, drónaflugkeppni sem leiða á í ljós hver verður arftaki vistfræðisnillingsins Hvals Hvíta og þar af leiðandi fá aðgang að nýjustu vistvísindunum til geta forðað því að eyjan þeirra hverfi í hafið.(n)</desc>
+  </programme>
+  <programme start="20250907085000 +0000" stop="20250907090200 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Strumparnir II</title>
+    <desc lang="is">Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.(n)</desc>
+  </programme>
+  <programme start="20250907090200 +0000" stop="20250907092400 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Sögur úr Andabæ</title>
+    <desc lang="is">Teiknimyndaþættir um moldríku öndina Jóakim aðalönd, seinheppna frænda hans, Andrés önd, og félaga þeirra í Andabæ.(n)</desc>
+  </programme>
+  <programme start="20250907092400 +0000" stop="20250907094700 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Úmísúmí</title>
+    <desc lang="is">Stærðfræðiofurhetjurnar Millý, Geó og Bói hjálpa krökkum að læra tölur, form og mynstur.(n)</desc>
+  </programme>
+  <programme start="20250907094700 +0000" stop="20250907100000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Eysteinn og Salóme</title>
+    <desc lang="is">Fallegir teiknimyndaþættir um óvenjulega vináttu bjarnarins Ernests og músarinnar Célestine.(n)</desc>
+  </programme>
+  <programme start="20250907100000 +0000" stop="20250907112500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Aladdín</title>
+    <desc lang="is">Talsett Disney-teiknimynd frá 1992 um götustrákinn Aladdín sem verður ástfanginn af prinsessunni Jasmín en getur ekki beðið hennar því hann er ekki prins. Þegar hann kemst yfir töfralampa sem getur látið óskir hans rætast breytist allt.(n)</desc>
+  </programme>
+  <programme start="20250907112500 +0000" stop="20250907120500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Með okkar augum</title>
+    <desc lang="is">Fimmtánda þáttaröð þessara margverðlaunuðu þátta sem vakið hafa athygli fyrir nýstárleg og frumleg efnistök. Fólk með þroskahömlun vinnur þættina með fagfólki í sjónvarpsgerð og miðlar þannig fjölbreytileika íslensks samfélags. Umsjón: Andri Freyr Hilmarsson, Ásgeir Tómas Arnarson, Elva Björg Gunnarsdóttir, Katrín Guðrún Tryggvadóttir, Magnús Orri Arnarson og Steinunn Ása Þorvaldsdóttir. Dagskrárgerð: Elín Sveinsdóttir.(n)</desc>
+  </programme>
+  <programme start="20250907120500 +0000" stop="20250907141000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Frakkland - Georgía</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur Frakklands og Georgíu í 16-liða úrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250907141000 +0000" stop="20250907143000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Fréttir (með táknmálstúlkun)</title>
+    <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
+  </programme>
+  <programme start="20250907143000 +0000" stop="20250907150500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Fangar Breta</title>
+    <desc lang="is">Heimildarþættir frá 2023. Í seinni heimsstyrjöldinni handtóku Bretar tæplega fimmtíu Íslendinga, fluttu þá til Englands og lokuðu þá inni mánuðum og árum saman án dóms og laga. Þáttaröðin Fangar Breta segir sögu þessa fólks á fróðlegan hátt.
+Bretar sökuðu tíu Íslendinga um að vera njósnarar Þjóðverja og settu þá í leynilegt fangelsi. Tveir þeirra gerðust gagnnjósnarar Breta.(n)</desc>
+  </programme>
+  <programme start="20250907150500 +0000" stop="20250907152000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Besti karríréttur heims</title>
+    <desc lang="is">Sænskir matreiðsluþættir frá 2023. Grínistinn David Batra og fréttakonan Malin Mendel ætla að opna veitingastað á Indlandi. Þau ákveða hvað verður á matseðlinum með því að prófa sig áfram í að elda klassíska indverska rétti og gamlar fjölskylduuppskriftir.(n)</desc>
+  </programme>
+  <programme start="20250907152000 +0000" stop="20250907172500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Ítalía - Slóvenía</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur Ítalíu og Slóveníu í 16-liða úrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250907172500 +0000" stop="20250907173000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Sumarlandabrot</title>
+    <desc lang="is">Stutt umfjöllun Sumarlandans sem var á flakki sumarið 2021 og hitti landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring. Umsjónarmenn: Gísli Einarsson, Guðríður Helgadóttir, Hafsteinn Vilhelmsson, Helga Margrét Höskuldsdóttir, Þórhildur Þorkelsdóttir og fleiri.(n)</desc>
+  </programme>
+  <programme start="20250907173000 +0000" stop="20250907173100 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">KrakkaRÚV</title>
+  </programme>
+  <programme start="20250907173100 +0000" stop="20250907175000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Stundin okkar - Tökum á loft I</title>
+    <desc lang="is">Loft hefur svifið um loftin blá frá örófi alda án þess að lenda nokkurn tímann á jörðu. Það kynnist ævintýralegri tilvist mannsbarna í gegnum sjónaukann sinn og endurspeglar sjálft sig í þeim.
+Loftfarið hefur hrapað, krakkarnir eru týndir og enginn veit með vísu hvort og hvenær þau komast aftur heim.(n)</desc>
+  </programme>
+  <programme start="20250907175000 +0000" stop="20250907175600 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Dagvistun fyrir hunda</title>
+    <desc lang="is">Þegar sex börn reka dagvistun fyrir hunda, þá getur sko allt gerst! Búðu þig undir ofur krúttlega sjónvarpsþætti, sem fá alla til að brosa.(n)</desc>
+  </programme>
+  <programme start="20250907175600 +0000" stop="20250907180500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Björgunarhundurinn Bessí</title>
+    <desc lang="is">Anne Dorothea á mjög sérstakan besta vin, björgunarhundinn Bessa!(n)</desc>
+  </programme>
+  <programme start="20250907180500 +0000" stop="20250907181000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Tölukubbar</title>
+    <desc lang="is">Lærið um tölustafina með Tölukubbunum!
+Talan Einn kynnir sig.(n)</desc>
+  </programme>
+  <programme start="20250907181000 +0000" stop="20250907181400 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Undraveröld villtu dýranna</title>
+    <desc lang="is">Dýralífsþættir sem gefa okkur dásamlega innsýn inn í undraveröld villtu dýranna.(n)</desc>
+  </programme>
+  <programme start="20250907181400 +0000" stop="20250907182000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Stundin rokkar</title>
+    <desc lang="is">Fjórir krakkar í rokkhljómsveit æfa þekkt íslenskt rokklag og semja eigið lag. Í leiðinni fræðumst við um hljóðfærin í hljómsveitinni og rokktónlistarsöguna.
+Hilmir gítarleikari útskýrir hvað það er að ,,túra" og hljómsveitin fær til sín góðan gest sem spilar á saxafón. Saman æfa þau og flytja lagið Vor í Vaglaskógi. Hljómsveitarmeðlimir: Aldís María Sigursveinsdóttir, Fatíma Rós Joof, Hilmir Þór Snæland Hafsteinsson og Sigurður Ingvar Þórisson. Saxófón leikari: Birkir Blær Ingólfsson. Tónlistarstjóri: Sigurður Ingi Einarsson.(n)</desc>
+  </programme>
+  <programme start="20250907182000 +0000" stop="20250907182500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">KrakkaRÚV - Tónlist</title>
+    <desc lang="is">Allskonar skemmtileg lög fyrir yngri kynslóðina.
+Pabbi minn er ríkari en pabbi þinn 
+Flytjendur: Bogomil Font, Halldóra Geirharðsdóttir, Saga Garðarsdóttir, Sigurður Guðmundsson 
+Lag og texti: Bragi Valdimar Skúlason.(n)</desc>
+  </programme>
+  <programme start="20250907182500 +0000" stop="20250907190000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Ímynd</title>
+    <desc lang="is">Heimildarþáttaröð í sex þáttum þar sem íslensk ljósmyndun er skoðuð út frá sjónarhorni lista, landslags, samtímans, skrásetningar, fréttaflutnings, fortíðar og framtíðar. Umsjón: Anna Gyða Sigurgísladóttir og Katrín Ásmundsdóttir. Stjórn upptöku og framleiðsla: Hrafnhildur Gunnarsdóttir.
+Í þættinum er fjallað um myndlistarljósmyndun. Löngum hefur verið dregið í efa að ljósmyndun geti verið list og þar sem einfalt er að fjölfalda ljósmyndir hefur verðmæti þeirra verið umdeilt. Nokkrir ljósmyndarar á Íslandi hafa þó skapað sér þá sérstöðu að selja myndir sínar sem list og eru jafnvel á mála hjá listagalleríum.(n)</desc>
+  </programme>
+  <programme start="20250907190000 +0000" stop="20250907192500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Fréttir</title>
+    <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
+  </programme>
+  <programme start="20250907192500 +0000" stop="20250907193500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Íþróttir</title>
+    <desc lang="is">Íþróttafréttir.(n)</desc>
+  </programme>
+  <programme start="20250907193500 +0000" stop="20250907194500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Veður</title>
+    <desc lang="is">Veðurfréttir.(n)</desc>
+  </programme>
+  <programme start="20250907194500 +0000" stop="20250907201500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Svepparíkið</title>
+    <desc lang="is">Heimildarþáttaröð þar sem sveppir á Íslandi eru skoðaðir frá sjónarhorni vísinda, menningar, fagurfræði og sjálfbærni. Dagskrárgerð: Anna Þóra Steinþórsdóttir. Umsjón: Erna Kanema Mashinkila.
+Fjallað er um heilandi og nærandi eiginleika sveppa. Skoðuð er framleiðsla á drykknum Kombucha þar sem samlífsform gersveppa og gerla kemur við sögu. Rætt er við Önnu Rósu Róbertsdóttur grasalækni um ólíka eiginleika sveppa til lækninga og heilsubótar. Þá er fjallað um hugvíkkandi efni sem finnast í vissum tegundum sveppa, t.d. trjónupeðlu.(n)</desc>
+  </programme>
+  <programme start="20250907201500 +0000" stop="20250907211000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Einstakt ferðalag</title>
+    <desc lang="is">Íslensk heimildarmynd um Ægi Þór, 9 ára dreng frá Höfn í Hornafirði sem er með sjaldgæfan vöðvasjúkdóm, Duchenne muscular dystrophy, sem skerðir hreyfigetu hans. Í myndinni ferðast Ægir Þór um Ísland og hittir önnur börn með sjaldgæfa sjúkdóma. Þau deila sögum sínum, áskorunum og vonum og mynda einstakt tengslanet. Leikstjóri: Ágústa Fanney Snorradóttir. Framleiðsla: Mission.(n)</desc>
+  </programme>
+  <programme start="20250907211000 +0000" stop="20250907220500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Ólgandi heimur I</title>
+    <desc lang="is">Breskir spennuþættir sem gerast á tímum seinni heimsstyjaldarinnar. Stríðið hafði mikil áhirf á daglegt líf venjulegs fólks í Bretlandi, Póllandi, Frakklandi, Þýskalandi og Bandaríkjunum. Handritshöfundur: Peter Bowker. Meðal aðalleikara eru Jonah Hauer-King, Julia Brown og Helen Hunt. Þættirnir eru ekki við hæfi barna yngri en 16 ára.(n)</desc>
+  </programme>
+  <programme start="20250907220500 +0000" stop="20250907235500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Bændurnir</title>
+    <desc lang="is">Pólsk kvikmynd frá 2023 byggð á samnefndri skáldsögu eftir Władysław Reymont sem hlaut Nóbelsverðlaunin í bókmenntum. Jagna er ung sveitastúlka á 19. öld sem er staðráðin í að fara sínar eigin leiðir í samfélagi sem nærist á gróusögum og deilum. Hver rammi í myndinni er handmálaður með olíumálningu og er hún samstarfsverk yfir 100 myndlistarmanna. Leikstjórn: DK Welchman og Hugh Welchman. Myndin er ekki við hæfi barna yngri en 12 ára.(n)</desc>
+  </programme>
+  <programme start="20250907235500 +0000" stop="20250908130000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Dagskrárlok</title>
+  </programme>
+  <programme start="20250908130000 +0000" stop="20250908132000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Fréttir (með táknmálstúlkun)</title>
+    <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
+  </programme>
+  <programme start="20250908132000 +0000" stop="20250908133000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Heimaleikfimi</title>
+    <desc lang="is">Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.(n)</desc>
+  </programme>
+  <programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Útsvar 2013-2014</title>
+    <desc lang="is">Spurningakeppni sveitarfélaga. Umsjónarmenn eru Sigmar Guðmundsson og Þóra Arnórsdóttir. Spurningahöfundur og dómari er Stefán Pálsson. Dagskrárgerð: Helgi Jóhannesson.(n)</desc>
+  </programme>
+  <programme start="20250908143000 +0000" stop="20250908151500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Hatur</title>
+    <desc lang="is">Nýir íslenskir heimildarþættir um uppgang hatursorðræðu á Íslandi og bakslagið sem orðið hefur í baráttu ýmissa minnihlutahópa á síðustu misserum. Leitast er við að svara spurningunni um hvernig bakslagið fór af stað, hvaðan hatrið stafar og hvaða leið er út úr þessari stöðu. Rætt er við sérfræðinga, stjórnmálafólk og þau sem hafa orðið fyrir barðinu á hatursorðræðu auk þess sem ljósi er varpað á aukið aðgengi ungs fólks að hatri í gegnum samfélagsmiðla. Umsjón: Ingileif Friðriksdóttir. Leikstjórn: Hrafn Jónsson. Framleiðsla: Ketchup Creative.(n)</desc>
+  </programme>
+  <programme start="20250908151500 +0000" stop="20250908153500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Örlæti</title>
+    <desc lang="is">Fróðlegir skemmtiþættir þar sem Sigtryggur Baldursson fjallar um örnefni á Íslandi frá ýmsum sjónarhornum. Dagskrárgerð: Guðlaugur Maggi Einarsson.(n)</desc>
+  </programme>
+  <programme start="20250908153500 +0000" stop="20250908161500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Uppskriftabókin</title>
+    <desc lang="is">Matreiðsluþættir þar sem Solla Eiríks heimsækir konur sem hafa áratugareynslu af matargerð. Hún kíkir í uppskriftabækur þeirra og lærir að elda rétti sem þær hafa matreitt á sinn einstaka hátt í fjölda ára. Í framhaldinu býður hún konunum heim til sín og endurgerir uppskriftirnar með aðstoð þeirra, en skiptir út dýraafurðum fyrir hráefni úr náttúrunni. Leikstjóri: Sunneva Ása Weisshappel. Framleiðsla: RVK Studios.
+Solla Eiríks heimsækir Ingu Backman sem kennir okkur að elda kindakæfu og rísmjölsgraut. Einnig hittir hún Öldu Lóu sápugerðarkonu sem kennir okkur að gera rósavatn.(n)</desc>
+  </programme>
+  <programme start="20250908161500 +0000" stop="20250908171000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Hringfarinn - einn á hjóli í Afríku</title>
+    <desc lang="is">Þriðja þáttaröðin um hringfarann Kristján Gíslason og ævintýraleg ferðalög hans um heiminn á mótorhjóli. Árið 2019 fór hann niður Afríku og á ferðalaginu fær hann að reyna allt frá borgarastríði til stórbrotinnar náttúru, kynnist einstökum ættbálkasamfélögum og kemst í kynni við einhver hættulegustu dýr heims.
+Í fjórða þætti fer Kristján Gíslason um Kibera, stærsta fátækrahverfi Afríku. Hann hittir líka Íslendinga sem hafa breytt lífi þúsunda afrískra barna til hins betra. Þá fer hann um stórbrotna náttúru Afríku og einhver mögnuðustu dýr heims verða á vegi hans.(n)</desc>
+  </programme>
+  <programme start="20250908171000 +0000" stop="20250908173000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Móðurmál</title>
+    <desc lang="is">Þættir um börn og ungmenni sem eiga annað móðurmál en íslensku og hafa hlotið Íslenskuverðlaun unga fólksins. Dagskrárgerð og umsjón: Hafsteinn Vilhelmsson.
+Anya fæddist á Íslandi árið 2009. Hún ólst upp í Vesturbæ Reykjavíkur hjá foreldrum sínum og yngri bróður. Hún lærði hindí og íslensku á sama tíma og því er óhætt að segja að hún eigi þau bæði að móðurmáli. Anya segir að það sé mikilvægt að læra íslensku. Hún segir okkur líka frá alþjóðadeildinni í Landakotsskóla og stærðfræðivalinu.(n)</desc>
+  </programme>
+  <programme start="20250908173000 +0000" stop="20250908173100 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">KrakkaRÚV</title>
+  </programme>
+  <programme start="20250908173100 +0000" stop="20250908173800 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Litla Ló</title>
+    <desc lang="is">Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.(n)</desc>
+  </programme>
+  <programme start="20250908173800 +0000" stop="20250908174300 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Molang V</title>
+    <desc lang="is">Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.(n)</desc>
+  </programme>
+  <programme start="20250908174300 +0000" stop="20250908174400 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Jasmín &amp; Jómbi - Tónverksmiðjan I</title>
+    <desc lang="is">Stutt innslög frá þeim Jasmín og Jómba þar sem þau tala um tónlist og tónfræði.(n)</desc>
+  </programme>
+  <programme start="20250908174400 +0000" stop="20250908175700 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Vinabær Danna tígurs</title>
+    <desc lang="is">Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagreind og sjálfsvirðingu sem og virðingu fyrir öðrum.(n)</desc>
+  </programme>
+  <programme start="20250908175700 +0000" stop="20250908180800 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Veistu hvað ég elska þig mikið?</title>
+    <desc lang="is">Teiknimyndaþættir fyrir börn byggðir á samnefndri breskri barnabók frá árinu 1994 eftir Sam McBratney, með myndskreytingum eftir Anitu Jeram. Bókin hefur verið gefin út á yfir 53 tungumálum og selst í yfir 28 milljónum eintaka.(n)</desc>
+  </programme>
+  <programme start="20250908180800 +0000" stop="20250908181500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Hæ Sámur IV</title>
+    <desc lang="is">Fjórða þáttaröðin um vinalega hundinn Sám og krílin sem vinna sér inn merki á leikskólanum hans.(n)</desc>
+  </programme>
+  <programme start="20250908181500 +0000" stop="20250908182000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Refurinn Pablo</title>
+    <desc lang="is">Hugrakki og uppátækjasami refurinn Pablo flyst úr sveit í borg ásamt systkinum sínum.(n)</desc>
+  </programme>
+  <programme start="20250908182000 +0000" stop="20250908182500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
+    <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. Umsjón: Ari Páll Karlsson, Embla Bachmann, Gunnar Hrafn Kristjánsson og Kolbrún María Másdóttir. Handrit og ritstjórn: Ari Páll Karlsson.(n)</desc>
+  </programme>
+  <programme start="20250908182500 +0000" stop="20250908183000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Lag dagsins</title>
+    <desc lang="is">Íslensk tónlistarmyndbönd.
+Lag: Esjan
+Flytjandi: Bríet
+Lag og texti: Bríet Ísis Elfar og Pálmi Ragnar Ásgeirsson.(n)</desc>
+  </programme>
+  <programme start="20250908183000 +0000" stop="20250908190000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Náttúran mín</title>
+    <desc lang="is">Íslensk heimildarþáttaröð í fjórum þáttum. Þótt meirihluti landsmanna búi í þéttbýli býr sumt fólk á stöðum þar sem náttúran hefur meiri áhrif á líf þess en gengur og gerist. Í þessari þáttaröð greinir fólk frá ýmsum stöðum á landinu frá ástríðu sinni fyrir því, hvers vegna það kýs að búa utan þéttbýlis og hvað veldur því að það vill hvergi annars staðar búa. Dagskrárgerð: Magnús Atli Magnússon og Lára Ómarsdóttir.
+Baldur Rafnsson var orðinn leiður á lífinu í höfuðborginni og langaði að verja meiri tíma með fjölskyldunni. Þegar færi gafst festi hann ásamt konu sinni kaup á jörðinni Vattarnesi og fjölskyldan fluttist þangað búferlum. Innan um fugla, fiska, sauðfé og náttúrudýrð Skrúðs líður honum vel. Skrúður er griðastaður hans, eyjan hans.(n)</desc>
+  </programme>
+  <programme start="20250908190000 +0000" stop="20250908193000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Fréttir</title>
+    <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
+  </programme>
+  <programme start="20250908193000 +0000" stop="20250908193500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Íþróttir</title>
+    <desc lang="is">Íþróttafréttir.(n)</desc>
+  </programme>
+  <programme start="20250908193500 +0000" stop="20250908194500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Veður</title>
+    <desc lang="is">Veðurfréttir.(n)</desc>
+  </programme>
+  <programme start="20250908194500 +0000" stop="20250908201500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Kastljós</title>
+    <desc lang="is">Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Baldvin Þór Bergsson, Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Óðinn Svan Óðinsson, Urður Örlygsdóttir og Viktoría Hermannsdóttir.(n)</desc>
+  </programme>
+  <programme start="20250908201500 +0000" stop="20250908210500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Silfrið</title>
+    <desc lang="is">Sigríður Hagalín Björnsdóttir, Valgeir Örn Ragnarsson og Bergsteinn Sigurðsson fá til sín gesti til að kryfja með sér atburði liðinnar viku og pólitískt landslag hverju sinni.(n)</desc>
+  </programme>
+  <programme start="20250908210500 +0000" stop="20250908215000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Nýtt líf</title>
+    <desc lang="is">Þýsk leikin þáttaröð um líf og starf ljósmæðranna Nalan, Önnu og Gretu sem takast á við óvæntar aðstæður á hverjum degi. Aðalhlutverk: Mariam Hage, Anna Schudt og Lydia Lehmann. Þættirnir eru ekki við hæfi barna yngri en 12 ára.(n)</desc>
+  </programme>
+  <programme start="20250908215000 +0000" stop="20250908231500 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Nýjar óbyggðir</title>
+    <desc lang="is">Heimildarmynd um parið Mariu og Nik sem lifa sjálfbæru lífi ásamt börnum sínum fjórum á sveitabæ í óbyggðum Noregs þar sem frelsið ræður ríkjum. Veröld þeirra hrynur Þegar Maria fellur frá. Nik og börnin neyðast til að flytja og reyna að aðlagast kröfum nútímasamfélags. Leikstjóri: Silje Evensmo Jacobsen.(n)</desc>
+  </programme>
+  <programme start="20250908231500 +0000" stop="20250909000000 +0000" channel="VIP IS: RUV FHD">
+    <title lang="is">Vertu sæl, Marianne</title>
+    <desc lang="is">Norsk leikin þáttaröð frá 2024 um ástarsamband kanadíska tónlistarmannsins Leonards Cohen og hinnar norsku Marianne Ihlen á sjöunda áratug síðustu aldar. Aðalhlutverk: Alex Wolff, Thea Sofie Loch Næss og Anna Torv. Þættirnir eru ekki við hæfi barna yngri en 12 ára.(n)</desc>
+  </programme>
+  <programme start="20250907085000 +0000" stop="20250907183500 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Pólland - Bosnía og Hersegóvína</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur Póllands og Bosníu og Hersegóvínu í 16-liða úrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250907184500 +0000" stop="20250907190000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Krakkafréttir</title>
+    <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. Umsjón: Ari Páll Karlsson, Embla Bachmann, Gunnar Hrafn Kristjánsson og Kolbrún María Másdóttir. Handrit og ritstjórn: Ari Páll Karlsson.(n)</desc>
+  </programme>
+  <programme start="20250907190000 +0000" stop="20250908135000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Fréttir (með táknmálstúlkun)</title>
+    <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
+  </programme>
+  <programme start="20250907183500 +0000" stop="20250907204000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Grikkland - Ísrael</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur Grikklands og Ísrael í 16-liða úrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250908135000 +0000" stop="20250908175000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">8-liða úrslit</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur í 8-liða úrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Undanúrslit</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur í undanúrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250908184500 +0000" stop="20250908190000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Krakkafréttir</title>
+    <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. Umsjón: Ari Páll Karlsson, Embla Bachmann, Gunnar Hrafn Kristjánsson og Kolbrún María Másdóttir. Handrit og ritstjórn: Ari Páll Karlsson.(n)</desc>
+  </programme>
+  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">8-liða úrslit</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur í 8-liða úrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">8-liða úrslit</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Leikur í 8-liða úrslitum á EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250908195500 +0000" stop="20250909090000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Fréttir (með táknmálstúlkun)</title>
+    <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
+  </programme>
+  <programme start="20250909090000 +0000" stop="20250909190000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">HM í frjálsíþróttum</title>
+    <desc lang="is">Úrslit á HM í frjálsíþróttum í Japan.(n)</desc>
+  </programme>
+  <programme start="20250909190000 +0000" stop="20250910093000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Fréttir (með táknmálstúlkun)</title>
+    <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
+  </programme>
+  <programme start="20250910093000 +0000" stop="20250910173000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">HM í frjálsíþróttum</title>
+    <desc lang="is">Úrslit á HM í frjálsíþróttum í Japan.(n)</desc>
+  </programme>
+  <programme start="20250910173000 +0000" stop="20250910175000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Stofan</title>
+    <desc lang="is">Umfjallanir um leiki á EM karla í körfubolta.
+Upphitun fyrir úrslitaleik EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250910175000 +0000" stop="20250910195000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Úrslit</title>
+    <desc lang="is">Leikir á EM karla í körfubolta.
+Úrslitaleikur EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250910195000 +0000" stop="20250910204000 +0000" channel="VIP IS: RUV 2 HD">
+    <title lang="is">Stofan</title>
+    <desc lang="is">Umfjallanir um leiki á EM karla í körfubolta.
+Uppgjör á úrslitaleik EM karla í körfubolta.(n)</desc>
+  </programme>
+  <programme start="20250907004500 +0000" stop="20250907023000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Hurricane Heist</title>
+    <desc lang="is">Spennymynd frá 2018 sem fjallar um hóp þjófa sem skipuleggur viðamikið peningarán en um leið nálgast kraftmesti fellibylur allra tíma ránsstaðinn og ógnar bæði þeim og lögreglunni. Það er ekki nóg með að miskunnarlaust þjófagengið ætli sér að ræna 600 milljón dollurum úr sjálfum fjárgeymslum ríkisins og fremja þar með eitt stærsta rán í sögunni heldur er stormurinn sem nálgast einnig sá stærsti sem sögur fara af.(n)</desc>
+  </programme>
+  <programme start="20250907023000 +0000" stop="20250907040000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Mile 22</title>
+    <desc lang="is">Spennutryllir frá 2018 með Mark Wahlberg í aðalhlutverki. Hér segir frá sérsveitarmanninum James Silva sem fær það erfiða og vandasama verkefni að smygla asískum lögreglumanni úr landi sínu, en sá hafði leitað til bandaríska sendiráðsins um vernd þar sem hann býr yfir leynilegum upplýsingum sem tengjast eiturvopnaframleiðslu og höfðu aflað honum dauðadóms hjá eigin stjórnvöldum. Verkefnið virðist nánast óframkvæmanlegt og til að það heppnist má James ekki gera ein einustu mistök ...(n)</desc>
+  </programme>
+  <programme start="20250907040000 +0000" stop="20250907060000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250907060000 +0000" stop="20250907160500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250907160500 +0000" stop="20250907165000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Love Island</title>
+    <sub-title lang="is">Episode 19</sub-title>
+    <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
+  </programme>
+  <programme start="20250907165000 +0000" stop="20250907171500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The King of Queens</title>
+    <sub-title lang="is">No Retreat</sub-title>
+    <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.(n)</desc>
+  </programme>
+  <programme start="20250907171500 +0000" stop="20250907174000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Unicorn</title>
+    <sub-title lang="is">No Small Parts</sub-title>
+    <desc lang="is">Gamanþáttaröð um mann sem er ekkill og einstæður faðir tveggja dætra. Ári eftir andlát eiginkonunnar fer hann að prófa stefnumót á nýjan leik.(n)</desc>
+  </programme>
+  <programme start="20250907174000 +0000" stop="20250907182500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tough As Nails</title>
+    <sub-title lang="is">Pour Your Heart Out</sub-title>
+    <desc lang="is">Phil Keoghan úr Amazing Race stýrir spennandi keppni þar sem hversdagslegar hetjur keppa í raunverulegum aðstæðum.(n)</desc>
+  </programme>
+  <programme start="20250907182500 +0000" stop="20250907190000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Colin from Accounts</title>
+    <sub-title lang="is">Heavy</sub-title>
+    <desc lang="is">Gamanþáttaröð um fyndnasta haltu mér, slepptu mér parið í sjónvarpi í dag og slasaðan hund.(n)</desc>
+  </programme>
+  <programme start="20250907190000 +0000" stop="20250907200000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Block</title>
+    <sub-title lang="is">Living Room And Dining Room Week (3)</sub-title>
+    <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
+  </programme>
+  <programme start="20250907200000 +0000" stop="20250907210000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Top Chef</title>
+    <sub-title lang="is">Best Served Cold</sub-title>
+    <desc lang="is">Stórskemmtilegir bandarískir raunveruleikaþættir þar sem leitað er að næsta meistarakokki.(n)</desc>
+  </programme>
+  <programme start="20250907210000 +0000" stop="20250907215000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Reykjavík 112</title>
+    <sub-title lang="is">Sporlaust</sub-title>
+    <desc lang="is">Kona er myrt á hrottalegan hátt fyrir framan barnunga dóttur sína sem er eina vitnið. Rannsóknarlögreglumaðurinn Huldar fær barnasálfræðinginn Freyju til liðs við sig, en þau eiga sér flókna fortíð. Saman reyna þau að raða saman brotakenndum vísbendingum áður en morðinginn þaggar niður í stúlkunni.(n)</desc>
+  </programme>
+  <programme start="20250907215000 +0000" stop="20250907224000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Sweetpea</title>
+    <sub-title lang="is">Black Spots in the Garage</sub-title>
+    <desc lang="is">Bresk spennuþáttaröð um Rhiannon Lewis, skrifstofustúlku sem lítið fer fyrir og fáir taka eftir. Einn daginn fær hún nóg og byrjar að myrða fólkið sem hefur komið illa fram við hana.(n)</desc>
+  </programme>
+  <programme start="20250907224000 +0000" stop="20250907234000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Chi</title>
+    <sub-title lang="is">Mother’s Day</sub-title>
+    <desc lang="is">Bandarísk þáttaröð frá Emmy-verðlaunahafanum Lena Waithe. Lífið í suðurhluta Chicago tekur á sig ýmsar myndir. Þættir sem hafa hlotið mikið lof gagnrýnenda.(n)</desc>
+  </programme>
+  <programme start="20250907234000 +0000" stop="20250908002500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">NCIS</title>
+    <sub-title lang="is">Bridges</sub-title>
+    <desc lang="is">Bandarísk sakamálasería sem fjallar um rannsóknarsveit bandaríska sjóhersins. Aðalhlutverkið leikur Mark Harmon.(n)</desc>
+  </programme>
+  <programme start="20250908002500 +0000" stop="20250908011000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">FBI</title>
+    <sub-title lang="is">Identity Crisis</sub-title>
+    <desc lang="is">Bandarískur spennuþáttur um liðsmenn bandarísku alríkislögreglunnar, FBI, í New York. Frábær þáttaröð frá Dick Wolf, framleiðanda Law &amp; Order og Chicago þáttaraðanna.(n)</desc>
+  </programme>
+  <programme start="20250908011000 +0000" stop="20250908015500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Matlock</title>
+    <sub-title lang="is">A Traitor in Thine Own House</sub-title>
+    <desc lang="is">Skemmtilegir þættir um Madeline Matlock, lögfræðing sem snýr aftur til starfa eftir þó nokkurt hlé.(n)</desc>
+  </programme>
+  <programme start="20250908015500 +0000" stop="20250908025000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">School Spirits</title>
+    <sub-title lang="is">Fire, Talk To Me</sub-title>
+    <desc lang="is">Dramatískir þættir um unglingsstúlkuna Maddie sem er föst milli tveggja heima ásamt hópi af öðrum krökkum. Hún er að rannsaka eigið hvarf en þeim mun nær sem hún kemst sannleikanum því fleiri leyndarmál uppgötvar hún.(n)</desc>
+  </programme>
+  <programme start="20250908025000 +0000" stop="20250908033500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Cobra</title>
+    <sub-title lang="is">Episode 2</sub-title>
+    <desc lang="is">Hörkupennandi bresk þáttaröð. Óvænt hætta ógnar heiminum og breska ríkisstjórnin setur saman teymi sérfræðinga til að reyna að bjarga því sem bjargað verður.(n)</desc>
+  </programme>
+  <programme start="20250908033500 +0000" stop="20250908060000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250908060000 +0000" stop="20250908161000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250908161000 +0000" stop="20250908165500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Love Island</title>
+    <sub-title lang="is">Unseen Bits #3</sub-title>
+    <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
+  </programme>
+  <programme start="20250908165500 +0000" stop="20250908172000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The King of Queens</title>
+    <sub-title lang="is">Ticker Treat</sub-title>
+    <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.(n)</desc>
+  </programme>
+  <programme start="20250908172000 +0000" stop="20250908174500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Unicorn</title>
+    <sub-title lang="is">Three Men Out</sub-title>
+    <desc lang="is">Gamanþáttaröð um mann sem er ekkill og einstæður faðir tveggja dætra. Ári eftir andlát eiginkonunnar fer hann að prófa stefnumót á nýjan leik.(n)</desc>
+  </programme>
+  <programme start="20250908174500 +0000" stop="20250908184500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Comedy Store</title>
+    <sub-title lang="is">Joe Rogan Returns</sub-title>
+    <desc lang="is">Heimildaþættir sem fjalla um sögu The Comedy Store í Los Angeles þar sem margar stórstjörnur tóku sín fyrstu skref.(n)</desc>
+  </programme>
+  <programme start="20250908184500 +0000" stop="20250908191000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Ghosts</title>
+    <sub-title lang="is">His Girl Shiki</sub-title>
+    <desc lang="is">Samantha og Jay ákveða að breyta stórum, niðurníddum sveitabæ sem þau hafa erft í gistiheimili - bara til að komast að því að það er búið mörgum anda þeirra sem bjuggu þar áður.(n)</desc>
+  </programme>
+  <programme start="20250908191000 +0000" stop="20250908201000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Block</title>
+    <sub-title lang="is">Living Room And Dining Room Week Reveal</sub-title>
+    <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
+  </programme>
+  <programme start="20250908201000 +0000" stop="20250908210000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Handboltahöllin BEINT</title>
+    <title lang="en">Handboltahöllin</title>
+    <sub-title lang="is">Þáttur 02</sub-title>
+    <desc lang="is">Hörður Magnússon stýrir þætti um íslenskan handbolta. Farið er yfir nýjustu leikina og fjallað um liðin og leikmenn deildanna. Hörður verður með handboltasérfræðinga sér til halds og trausts auk þess sem góðir gestir kíkja í heimsókn.(n)</desc>
+  </programme>
+  <programme start="20250908210000 +0000" stop="20250908215000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Rookie</title>
+    <sub-title lang="is">The Shot</sub-title>
+    <desc lang="is">Það er ekki auðvelt að byrja upp á nýtt, sérstaklega fyrir John Nolan sem er að elta draum sinn um að verða LAPD liðsforingi. Sem elsti nýliðinn í hópnum hefur hann mætt tortryggni frá þeim sem líta á hann sem gangandi miðaldarkreppu.(n)</desc>
+  </programme>
+  <programme start="20250908215000 +0000" stop="20250908224000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Matlock</title>
+    <sub-title lang="is">This is That Moment</sub-title>
+    <desc lang="is">Skemmtilegir þættir um Madeline Matlock, lögfræðing sem snýr aftur til starfa eftir þó nokkurt hlé.(n)</desc>
+  </programme>
+  <programme start="20250908224000 +0000" stop="20250908232500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Cobra</title>
+    <sub-title lang="is">Episode 3</sub-title>
+    <desc lang="is">Hörkupennandi bresk þáttaröð. Óvænt hætta ógnar heiminum og breska ríkisstjórnin setur saman teymi sérfræðinga til að reyna að bjarga því sem bjargað verður.(n)</desc>
+  </programme>
+  <programme start="20250908232500 +0000" stop="20250909001500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Billions</title>
+    <sub-title lang="is">The Gulag Archipelago</sub-title>
+    <desc lang="is">Mögnuð þáttaröð um milljónamæringinn Bobby “Axe” Axelrod sem hefur byggt upp stórveldi í kringum vogurnarsjóð og er grunaður um ólöglega starfshætti. Saksóknarinn Chuck Rhoades er staðráðinn í að koma honum á bak við lás og slá og er tilbúinn að beita öllum tiltækum ráðum. Aðalhlutverkin leika Damian Lewis og Paul Giamatti.(n)</desc>
+  </programme>
+  <programme start="20250909001500 +0000" stop="20250909010000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">NCIS</title>
+    <sub-title lang="is">Big Rig</sub-title>
+    <desc lang="is">Bandarísk sakamálasería sem fjallar um rannsóknarsveit bandaríska sjóhersins. Aðalhlutverkið leikur Mark Harmon.(n)</desc>
+  </programme>
+  <programme start="20250909010000 +0000" stop="20250909014500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">FBI</title>
+    <sub-title lang="is">A New Dawn</sub-title>
+    <desc lang="is">Bandarískur spennuþáttur um liðsmenn bandarísku alríkislögreglunnar, FBI, í New York. Frábær þáttaröð frá Dick Wolf, framleiðanda Law &amp; Order og Chicago þáttaraðanna.(n)</desc>
+  </programme>
+  <programme start="20250909014500 +0000" stop="20250909023000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Lioness</title>
+    <sub-title lang="is">The Compass Points Home</sub-title>
+    <desc lang="is">Hryðjuverkaógn steðjar að Bandaríkjunum! Það er í verkahring Lioness hópsins innan CIA að berjast gegn hættulegum samtökum. Magnaðir spennuþættir með Nicole Kidman og Morgan Freeman.(n)</desc>
+  </programme>
+  <programme start="20250909023000 +0000" stop="20250909031500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Resident Alien</title>
+    <sub-title lang="is">Homecoming</sub-title>
+    <desc lang="is">Bandarískir gamanþættir um geimveruna Harry, sem er strönduð á jörðinni í afskekktum smábæ. Hann reynir að falla inn í hópinn og tekur sér dulargervi læknis. Hlutirnir flækjast hins vegar þegar hann er beðinn um að aðstoða við morðrannsókn.(n)</desc>
+  </programme>
+  <programme start="20250909031500 +0000" stop="20250909040500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Ray Donovan</title>
+    <sub-title lang="is">Walk this Way</sub-title>
+    <desc lang="is">Vandaðir þættir um harðhausinn Ray Donovan sem reynir að beygja lög og reglur sem stundum vilja brotna. Aðalhlutverkin leika Liev Schreiber og Jon Voight.(n)</desc>
+  </programme>
+  <programme start="20250909040500 +0000" stop="20250909060000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250909060000 +0000" stop="20250909162500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250909162500 +0000" stop="20250909171500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Love Island</title>
+    <sub-title lang="is">Episode 21</sub-title>
+    <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
+  </programme>
+  <programme start="20250909171500 +0000" stop="20250909174000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The King of Queens</title>
+    <sub-title lang="is">Lyin' Hearted</sub-title>
+    <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.(n)</desc>
+  </programme>
+  <programme start="20250909174000 +0000" stop="20250909184000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Real Love Boat Australia</title>
+    <sub-title lang="is">Episode 3</sub-title>
+    <desc lang="is">Skemmtilegur stefnumótaþáttur þar sem ástleitnir einstaklingar fá tækifæri til að finna stóru ástina með því að taka þátt í skemmtilegum leik um borð í skemmtiferðaskipi.(n)</desc>
+  </programme>
+  <programme start="20250909184000 +0000" stop="20250909191000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Heil og sæl?</title>
+    <sub-title lang="is">Vegferð að góðu ævikvöldi</sub-title>
+    <desc lang="is">Léttir, skemmtilegir og fræðandi þættir um heilsu og lífsstíl íslenskra kvenna.(n)</desc>
+  </programme>
+  <programme start="20250909191000 +0000" stop="20250909201000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Block</title>
+    <sub-title lang="is">Hallway, Laundry &amp; Powder Room Week (1)</sub-title>
+    <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
+  </programme>
+  <programme start="20250909201000 +0000" stop="20250909210000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Heartland</title>
+    <sub-title lang="is">Into the Unknown</sub-title>
+    <desc lang="is">Dramatísk þáttaröð sem segir frá fjölskyldu sem býr á búgarði í Alberta fylkinu í Kanada og lífi þeirra saman í gegnum súrt og sætt.(n)</desc>
+  </programme>
+  <programme start="20250909210000 +0000" stop="20250909215000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Elsbeth</title>
+    <sub-title lang="is">Subscription to Murder</sub-title>
+    <desc lang="is">Spennuþættir um lögfræðinginn Elsbeth Tascioni úr þáttunum The Good Wife og The Good Fight. Elsbeth er flutt til New York og aðstoðar lögregluna við að leysa sakamál.(n)</desc>
+  </programme>
+  <programme start="20250909215000 +0000" stop="20250909224000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">NCIS: Origins</title>
+    <sub-title lang="is">Enter Sandman (1)</sub-title>
+    <desc lang="is">Spennandi þáttaröð sem fjallar um ungan Leroy Jethro Gibbs og upphaf ferils hans hjá NCIS.(n)</desc>
+  </programme>
+  <programme start="20250909224000 +0000" stop="20250909233000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Ray Donovan</title>
+    <sub-title lang="is">Sunny</sub-title>
+    <desc lang="is">Vandaðir þættir um harðhausinn Ray Donovan sem reynir að beygja lög og reglur sem stundum vilja brotna. Aðalhlutverkin leika Liev Schreiber og Jon Voight.(n)</desc>
+  </programme>
+  <programme start="20250909233000 +0000" stop="20250910002000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Handboltahöllin</title>
+    <sub-title lang="is">Þáttur 02</sub-title>
+    <desc lang="is">Hörður Magnússon stýrir þætti um íslenskan handbolta. Farið er yfir nýjustu leikina og fjallað um liðin og leikmenn deildanna. Hörður verður með handboltasérfræðinga sér til halds og trausts auk þess sem góðir gestir kíkja í heimsókn.(n)</desc>
+  </programme>
+  <programme start="20250910002000 +0000" stop="20250910010500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Halo</title>
+    <sub-title lang="is">Transcendence</sub-title>
+    <desc lang="is">Spennandi þáttaröð úr smiðju Steven Spielberg þar sem persónulegar sögur, spenna og hasar tvinnast saman.(n)</desc>
+  </programme>
+  <programme start="20250910010500 +0000" stop="20250910015000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">NCIS</title>
+    <sub-title lang="is">Evil Eye</sub-title>
+    <desc lang="is">Bandarísk sakamálasería sem fjallar um rannsóknarsveit bandaríska sjóhersins. Aðalhlutverkið leikur Mark Harmon.(n)</desc>
+  </programme>
+  <programme start="20250910015000 +0000" stop="20250910023500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">FBI</title>
+    <sub-title lang="is">Partners in Crime</sub-title>
+    <desc lang="is">Bandarískur spennuþáttur um liðsmenn bandarísku alríkislögreglunnar, FBI, í New York. Frábær þáttaröð frá Dick Wolf, framleiðanda Law &amp; Order og Chicago þáttaraðanna.(n)</desc>
+  </programme>
+  <programme start="20250910023500 +0000" stop="20250910032000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Chicago Med</title>
+    <sub-title lang="is">Bad Habits</sub-title>
+    <desc lang="is">Dramatísk þáttaröð úr smiðju Dick Wolf sem m.a. gerði Law &amp; Order seríurnar. Þetta er þriðja Chicago-serían en Chicago Fire og Chicago PD hafa notið mikilla vinsælda á RÚV. Sögusviðið í Chicago Med er sjúkrahús í Chicago þar sem læknar og hjúkrunarfólk leggur allt í sölurnar til að bjarga mannslífum.(n)</desc>
+  </programme>
+  <programme start="20250910032000 +0000" stop="20250910040500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Fire Country</title>
+    <sub-title lang="is">Keep Your Cool</sub-title>
+  </programme>
+  <programme start="20250910040500 +0000" stop="20250910045000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Star Trek: Discovery</title>
+    <sub-title lang="is">Through the Valley of Shadows</sub-title>
+    <desc lang="is">Bandarísk þáttaröð um áhafnarmeðlimi í geimskipinu USS Discovery sem leita að nýjum plánetum og lífi úti í geimnum.(n)</desc>
+  </programme>
+  <programme start="20250910045000 +0000" stop="20250910060000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250910060000 +0000" stop="20250910162500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250910162500 +0000" stop="20250910171000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Love Island</title>
+    <sub-title lang="is">Episode 22</sub-title>
+    <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
+  </programme>
+  <programme start="20250910171000 +0000" stop="20250910173500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The King of Queens</title>
+    <sub-title lang="is">Life Sentence</sub-title>
+    <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.(n)</desc>
+  </programme>
+  <programme start="20250910173500 +0000" stop="20250910180000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Unicorn</title>
+    <sub-title lang="is">Wade Delayed</sub-title>
+    <desc lang="is">Gamanþáttaröð um mann sem er ekkill og einstæður faðir tveggja dætra. Ári eftir andlát eiginkonunnar fer hann að prófa stefnumót á nýjan leik.(n)</desc>
+  </programme>
+  <programme start="20250910180000 +0000" stop="20250910185000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Handboltahöllin</title>
+    <sub-title lang="is">Þáttur 02</sub-title>
+    <desc lang="is">Hörður Magnússon stýrir þætti um íslenskan handbolta. Farið er yfir nýjustu leikina og fjallað um liðin og leikmenn deildanna. Hörður verður með handboltasérfræðinga sér til halds og trausts auk þess sem góðir gestir kíkja í heimsókn.(n)</desc>
+  </programme>
+  <programme start="20250910185000 +0000" stop="20250910195000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Block</title>
+    <sub-title lang="is">Hallway, Laundry &amp; Powder Room Week (2)</sub-title>
+    <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
+  </programme>
+  <programme start="20250910195000 +0000" stop="20250910201500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Poppa’s House</title>
+    <sub-title lang="is">Graduation</sub-title>
+    <desc lang="is">Gamanþáttur með Wayans feðgum í aðalhlutverki um fúllynda útvarpsmanninn Poppa og fullorðinn son hans, sem reynir að elta drauma sína á sama tíma og hann sinnir fjölskyldunni.(n)</desc>
+  </programme>
+  <programme start="20250910201500 +0000" stop="20250910210000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Missir</title>
+    <sub-title lang="is">Af hverju tölum við ekki um dauðann?</sub-title>
+    <desc lang="is">Missir hlaut Edduverðlaunin sem besti mannlífsþáttur ársins 2021. Áhrifamikil og vönduð íslensk þáttaröð. Sorg er viðbrögð við missi og ef við ætlum að elska verðum við að syrgja. Í þáttaröðinni hittum við fyrir fólk sem hefur gengið í gegnum sorg og missi. Lært að lifa með sorginni, unnið sig í gegnum áfallið og eignast gott og hamingjusamt líf.(n)</desc>
+  </programme>
+  <programme start="20250910210000 +0000" stop="20250910215000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Chicago Med</title>
+    <sub-title lang="is">Forget Me Not</sub-title>
+    <desc lang="is">Dramatísk þáttaröð úr smiðju Dick Wolf sem m.a. gerði Law &amp; Order seríurnar. Þetta er þriðja Chicago-serían en Chicago Fire og Chicago PD hafa notið mikilla vinsælda á RÚV. Sögusviðið í Chicago Med er sjúkrahús í Chicago þar sem læknar og hjúkrunarfólk leggur allt í sölurnar til að bjarga mannslífum.(n)</desc>
+  </programme>
+  <programme start="20250910215000 +0000" stop="20250910224000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Fire Country</title>
+    <sub-title lang="is">Edgewater's About to Get Real Cozy</sub-title>
+  </programme>
+  <programme start="20250910224000 +0000" stop="20250910232500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Star Trek: Discovery</title>
+    <sub-title lang="is">Such Sweet Sorrow (1)</sub-title>
+    <desc lang="is">Bandarísk þáttaröð um áhafnarmeðlimi í geimskipinu USS Discovery sem leita að nýjum plánetum og lífi úti í geimnum.(n)</desc>
+  </programme>
+  <programme start="20250910232500 +0000" stop="20250911001500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Alienist</title>
+    <sub-title lang="is">Memento Mori</sub-title>
+    <desc lang="is">Spennandi þáttaröð um blaðamann og sálfræðing sem hjálpast að við að rannsaka röð morða á götubörnum á nítjándu öld.(n)</desc>
+  </programme>
+  <programme start="20250911001500 +0000" stop="20250911010000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">NCIS</title>
+    <sub-title lang="is">Old Wounds</sub-title>
+    <desc lang="is">Bandarísk sakamálasería sem fjallar um rannsóknarsveit bandaríska sjóhersins. Aðalhlutverkið leikur Mark Harmon.(n)</desc>
+  </programme>
+  <programme start="20250911010000 +0000" stop="20250911014500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">FBI</title>
+    <sub-title lang="is">Exposed</sub-title>
+    <desc lang="is">Bandarískur spennuþáttur um liðsmenn bandarísku alríkislögreglunnar, FBI, í New York. Frábær þáttaröð frá Dick Wolf, framleiðanda Law &amp; Order og Chicago þáttaraðanna.(n)</desc>
+  </programme>
+  <programme start="20250911014500 +0000" stop="20250911023000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">9-1-1</title>
+    <sub-title lang="is">Seismic Shifts</sub-title>
+    <desc lang="is">Dramatísk þáttaröð um fólkið sem sent er á vettvang þegar hringt er í neyðarlínuna. Lögregla, sjúkraliðar og slökkviðliðsmenn sem leggja líf sitt að veði til að hjálpa öðrum en þurfa á sama tíma að finna jafnvægi milli vinnu og einkalífs. Aðalhlutverkin leika Angela Bassett, Connie Britton og Peter Krause.(n)</desc>
+  </programme>
+  <programme start="20250911023000 +0000" stop="20250911032000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Six Silent Killings: Ireland's Vanishing Triangle</title>
+    <sub-title lang="is">Episode 2</sub-title>
+    <desc lang="is">Heimildaþættir sem fjalla um dularfullt hvarf fimm kvenna nálægt Dublin á Írlandi. Allar fimm konurnar hurfu sporlaust á árunum 1993 til 1998 og hefur ekkert spurst til þeirra síðan. Rætt er við ættingja kvennanna og aðra aðila sem komu að rannsókninni á sínum tíma.(n)</desc>
+  </programme>
+  <programme start="20250911032000 +0000" stop="20250911040500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Dimma</title>
+    <sub-title lang="is">All That Is Hidden</sub-title>
+    <desc lang="is">Lögreglufulltrúinn Hulda rannsakar dauða ungs hælisleitanda í sínu síðasta máli. Leyndarmál, svik og banvæn mistök setja allt í hættu – hverjum getur hún treyst þegar enginn segir sannleikann?(n)</desc>
+  </programme>
+  <programme start="20250911040500 +0000" stop="20250911060000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250911060000 +0000" stop="20250911161000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250911161000 +0000" stop="20250911165500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Love Island</title>
+    <sub-title lang="is">Episode 23</sub-title>
+    <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
+  </programme>
+  <programme start="20250911165500 +0000" stop="20250911172000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The King of Queens</title>
+    <sub-title lang="is">Veiled Threat</sub-title>
+    <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.(n)</desc>
+  </programme>
+  <programme start="20250911172000 +0000" stop="20250911174500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Unicorn</title>
+    <sub-title lang="is">Turkeys and Traditions</sub-title>
+    <desc lang="is">Gamanþáttaröð um mann sem er ekkill og einstæður faðir tveggja dætra. Ári eftir andlát eiginkonunnar fer hann að prófa stefnumót á nýjan leik.(n)</desc>
+  </programme>
+  <programme start="20250911174500 +0000" stop="20250911181500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Elska Noreg</title>
+    <sub-title lang="is">Þáttur 02</sub-title>
+    <desc lang="is">Vinkonurnar Rakel Garðars og Nína Dögg fara í ferðalag um Noreg en þar ólst Rakel upp. Tilgangur ferðalagsins er að svara einni spurningu: Er Noregur besta land í heimi?(n)</desc>
+  </programme>
+  <programme start="20250911181500 +0000" stop="20250911191500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Block</title>
+    <sub-title lang="is">Hallway, Laundry &amp; Powder Room Week (3)</sub-title>
+    <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
+  </programme>
+  <programme start="20250911191500 +0000" stop="20250911210000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Olís deild karla</title>
+    <sub-title lang="is">Valur - FH BEINT</sub-title>
+    <desc lang="is">Bein útsending frá leik Vals og FH í Olís deild karla."},"availability":{},"blacklist":false,"images":[{"type":"landscape.(n)</desc>
+  </programme>
+  <programme start="20250911210000 +0000" stop="20250911215000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Law &amp; Order</title>
+    <sub-title lang="is">Catch and Kill</sub-title>
+    <desc lang="is">Spennandi þættir um harðsnúna lögreglumenn og slynga saksóknara í New York borg, þar sem hverjum þætti fylgir dramatísk glæpasaga, óvæntar vendingar og eltingarleikir.(n)</desc>
+  </programme>
+  <programme start="20250911215000 +0000" stop="20250911224000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="is">Fractured</sub-title>
+    <desc lang="is">Mögnuð sakamálasería um sérsveit innan lögreglunnar í New York sem rannsakar morðmál þar sem kynferðisglæpir koma við sögu. Sögurnar eru oft byggðar á sönnum sakamálum sem hafa vakið mikla athygli í fjölmiðlum. Útkoma málanna er þó oft önnur í þáttunum en í málunum sem sögurnar eru byggðar á.(n)</desc>
+  </programme>
+  <programme start="20250911224000 +0000" stop="20250911232500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Reykjavík 112</title>
+    <sub-title lang="is">Sporlaust</sub-title>
+    <desc lang="is">Kona er myrt á hrottalegan hátt fyrir framan barnunga dóttur sína sem er eina vitnið. Rannsóknarlögreglumaðurinn Huldar fær barnasálfræðinginn Freyju til liðs við sig, en þau eiga sér flókna fortíð. Saman reyna þau að raða saman brotakenndum vísbendingum áður en morðinginn þaggar niður í stúlkunni.(n)</desc>
+  </programme>
+  <programme start="20250911232500 +0000" stop="20250912001000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Dimma</title>
+    <sub-title lang="is">So Eden Sank To Grief</sub-title>
+    <desc lang="is">Lögreglufulltrúinn Hulda rannsakar dauða ungs hælisleitanda í sínu síðasta máli. Leyndarmál, svik og banvæn mistök setja allt í hættu – hverjum getur hún treyst þegar enginn segir sannleikann?(n)</desc>
+  </programme>
+  <programme start="20250912001000 +0000" stop="20250912005500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Station 19</title>
+    <sub-title lang="is">All These Things That I've Done</sub-title>
+    <desc lang="is">Dramatísk þáttaröð um slökkviliðsmenn og konur í Seattle sem leggja líf sitt að veði til að bjarga mannslífum á sama tíma og það gengur á ýmsu í einkalífnu. Þættirnir eru frá þeim sömu og framleiða Grey's Anatomy.(n)</desc>
+  </programme>
+  <programme start="20250912005500 +0000" stop="20250912014000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">NCIS</title>
+    <sub-title lang="is">Unusual Suspects</sub-title>
+    <desc lang="is">Bandarísk sakamálasería sem fjallar um rannsóknarsveit bandaríska sjóhersins. Aðalhlutverkið leikur Mark Harmon.(n)</desc>
+  </programme>
+  <programme start="20250912014000 +0000" stop="20250912022500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">FBI</title>
+    <sub-title lang="is">Scorched Earth</sub-title>
+    <desc lang="is">Bandarískur spennuþáttur um liðsmenn bandarísku alríkislögreglunnar, FBI, í New York. Frábær þáttaröð frá Dick Wolf, framleiðanda Law &amp; Order og Chicago þáttaraðanna.(n)</desc>
+  </programme>
+  <programme start="20250912022500 +0000" stop="20250912031000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Sweetpea</title>
+    <sub-title lang="is">Black Spots in the Garage</sub-title>
+    <desc lang="is">Bresk spennuþáttaröð um Rhiannon Lewis, skrifstofustúlku sem lítið fer fyrir og fáir taka eftir. Einn daginn fær hún nóg og byrjar að myrða fólkið sem hefur komið illa fram við hana.(n)</desc>
+  </programme>
+  <programme start="20250912031000 +0000" stop="20250912041000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Chi</title>
+    <sub-title lang="is">Mother’s Day</sub-title>
+    <desc lang="is">Bandarísk þáttaröð frá Emmy-verðlaunahafanum Lena Waithe. Lífið í suðurhluta Chicago tekur á sig ýmsar myndir. Þættir sem hafa hlotið mikið lof gagnrýnenda.(n)</desc>
+  </programme>
+  <programme start="20250912041000 +0000" stop="20250912060000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250912060000 +0000" stop="20250912163500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+  <programme start="20250912163500 +0000" stop="20250912172500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Love Island</title>
+    <sub-title lang="is">Episode 24</sub-title>
+    <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
+  </programme>
+  <programme start="20250912172500 +0000" stop="20250912175000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The King of Queens</title>
+    <sub-title lang="is">Oxy Moron</sub-title>
+    <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.(n)</desc>
+  </programme>
+  <programme start="20250912175000 +0000" stop="20250912181500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Unicorn</title>
+    <sub-title lang="is">No Pressure</sub-title>
+    <desc lang="is">Gamanþáttaröð um mann sem er ekkill og einstæður faðir tveggja dætra. Ári eftir andlát eiginkonunnar fer hann að prófa stefnumót á nýjan leik.(n)</desc>
+  </programme>
+  <programme start="20250912181500 +0000" stop="20250912190000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Secret Celebrity Renovation</title>
+    <sub-title lang="is">Kandi Burruss</sub-title>
+    <desc lang="is">Skemmtilegir þættir þar sem þekktir einstaklingar aðstoða við endurbætur á heimilum fólks sem þarf á því að halda.(n)</desc>
+  </programme>
+  <programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Block</title>
+    <sub-title lang="is">Hallway, Laundry &amp; Powder Room Week Reveal</sub-title>
+    <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
+  </programme>
+  <programme start="20250912200000 +0000" stop="20250912212500 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Bachelor in Paradise</title>
+    <sub-title lang="is">Week 4</sub-title>
+    <desc lang="is">Bandarísk raunveruleikasería þar sem fyrrum þáttakendur í The Bachelor og The Bachelorette fá annað tækifæri til að finna ástina og kanna ný ástarsambönd.(n)</desc>
+  </programme>
+  <programme start="20250912212500 +0000" stop="20250912232000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Electrical Life of Louis Wain</title>
+    <desc lang="is">Benedict Cumberbatch er hér í hlutverki enska myndlistarmannsins Louis Wain sem sló í gegn undir lok 19. aldarinnar fyrir kynleg kattamálverk sín sem virtust endurspegla versnandi andlegt ástand hans sjálfs. Hin skynörvandi verk breyttu sýn fólks á köttum til frambúðar.(n)</desc>
+  </programme>
+  <programme start="20250912232000 +0000" stop="20250913010000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">The Duff</title>
+    <desc lang="is">Miðskólanemi hristir upp í goggunarröðinni í félagslífinu eftir að hún kemst að því að hún hefur fengið á sig stimpilinn Duff ( Designated Ugly Fat Friend) af fallegri og vinsælli vinum sínum. Bianca hefur aldrei gert sér háar hugmyndir um sjálfa sig heldur bara reynt að vera góð persóna sem gerir rétt bæði gagnvart sjálfri sér og öðrum. Kvöld eitt er hún að tala við aðalgæjann í skólanum, hinn afar myndarlega Wesley, sem segir henni þá skoðun sína að ástæðan fyrir því að vinkonur hennar umbera hana sé að hún lætur þær líta betur út. Við þessi orð reiðist Bianca, en um leið fer hún að velta því fyrir sér hvort verið gæti að Wesley hafi rétt fyrir sér. Hún hefur því að rannsaka málið og hvað hún geti gert til að þvo af sér stimpilinn, en kemst fljótlega að því að svo einfalt er málið ekki ...(n)</desc>
+  </programme>
+  <programme start="20250913010000 +0000" stop="20250913040000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Chappaquiddick</title>
+    <desc lang="is">Mögnuð mynd byggð á sönnum atburðum. Skömmu eftir miðnætti, aðfaranótt 19. júlí árið 1969, ók þingmaður Massachusetts og verðandi forsetaframbjóðandi demókrata, Edward Kennedy, fram af einbreiðri brú á Chappaquiddick-eyju með þeim afleiðingum að ung kona sem var farþegi í bílnum, Mary Jo Kopechne, lét lífið. Sjálfur komst Edward út úr bílnum en stakk af og lét ekki vita af slysinu næstu tíu tímana. Chappaquiddick-slysið hefur frá upphafi verið sveipað leyndarhjúp og þeir eru margir sem telja að í raun hafi aldrei verið sýnt fram á hvað gerðist í raun og veru. Edward neitaði ætíð að hafa verið undir áhrifum eða hafa átt í \"ósiðlegu\" sambandi við Mary (hann var kvæntur) en gat aldrei útskýrt af hverju hann stakk af í stað þess að hringja á lögreglu. Í þessari mynd er farið í saumana á þessu máli.(n)</desc>
+  </programme>
+  <programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="VIP IS: Sjonvarp Simans HD">
+    <title lang="is">Tónlist</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  </programme>
+</tv>
