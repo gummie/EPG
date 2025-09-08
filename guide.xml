@@ -5,7 +5,7 @@
     <url>http://www.ruv.is</url>
   </channel>
   <channel id="RUV2.is">
-    <display-name lang="is">RUV 2 HD</display-name>
+    <display-name lang="is">IS: RUV 2 HD</display-name>
     <url>http://www.sjonvarp.is</url>
   </channel>
   <channel id="IS: Sjonvarp Simans HD">
@@ -386,35 +386,35 @@ Leikur Póllands og Bosníu og Hersegóvínu í 16-liða úrslitum á EM karla �
     <desc lang="is">Leikir á EM karla í körfubolta.
 Leikur Grikklands og Ísrael í 16-liða úrslitum á EM karla í körfubolta.(n)</desc>
   </programme>
-  <programme start="20250908135000 +0000" stop="20250908175000 +0000" channel="VIP IS: RUV 2 HD">
+  <programme start="20250908135000 +0000" stop="20250908175000 +0000" channel="IS: RUV 2 HD">
     <title lang="is">8-liða úrslit</title>
     <desc lang="is">Leikir á EM karla í körfubolta.
 Leikur í 8-liða úrslitum á EM karla í körfubolta.(n)</desc>
   </programme>
-  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="VIP IS: RUV 2 HD">
+  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="IS: RUV 2 HD">
     <title lang="is">Undanúrslit</title>
     <desc lang="is">Leikir á EM karla í körfubolta.
 Leikur í undanúrslitum á EM karla í körfubolta.(n)</desc>
   </programme>
-  <programme start="20250908184500 +0000" stop="20250908190000 +0000" channel="VIP IS: RUV 2 HD">
+  <programme start="20250908184500 +0000" stop="20250908190000 +0000" channel="IS: RUV 2 HD">
     <title lang="is">Krakkafréttir</title>
     <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. Umsjón: Ari Páll Karlsson, Embla Bachmann, Gunnar Hrafn Kristjánsson og Kolbrún María Másdóttir. Handrit og ritstjórn: Ari Páll Karlsson.(n)</desc>
   </programme>
-  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="VIP IS: RUV 2 HD">
+  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="IS: RUV 2 HD">
     <title lang="is">8-liða úrslit</title>
     <desc lang="is">Leikir á EM karla í körfubolta.
 Leikur í 8-liða úrslitum á EM karla í körfubolta.(n)</desc>
   </programme>
-  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="VIP IS: RUV 2 HD">
+  <programme start="20250908175000 +0000" stop="20250908195500 +0000" channel="IS: RUV 2 HD">
     <title lang="is">8-liða úrslit</title>
     <desc lang="is">Leikir á EM karla í körfubolta.
 Leikur í 8-liða úrslitum á EM karla í körfubolta.(n)</desc>
   </programme>
-  <programme start="20250908195500 +0000" stop="20250909090000 +0000" channel="VIP IS: RUV 2 HD">
+  <programme start="20250908195500 +0000" stop="20250909090000 +0000" channel="IS: RUV 2 HD">
     <title lang="is">Fréttir (með táknmálstúlkun)</title>
     <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
   </programme>
-  <programme start="20250909090000 +0000" stop="20250909190000 +0000" channel="VIP IS: RUV 2 HD">
+  <programme start="20250909090000 +0000" stop="20250909190000 +0000" channel="IS: RUV 2 HD">
     <title lang="is">HM í frjálsíþróttum</title>
     <desc lang="is">Úrslit á HM í frjálsíþróttum í Japan.(n)</desc>
   </programme>
@@ -934,4 +934,5 @@ Uppgjör á úrslitaleik EM karla í körfubolta.(n)</desc>
   </programme>
 
 </tv>
+
 
