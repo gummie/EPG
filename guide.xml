@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="VIP IS: RUV FHD">
-    <display-name lang="is">VIP IS: RUV FHD</display-name>
+  <channel id="IS: RUV FHD">
+    <display-name lang="is">IS: RUV FHD</display-name>
     <url>http://www.ruv.is</url>
   </channel>
-  <channel id="VIP IS: RUV 2 HD">
-    <display-name lang="is">VIP IS: RUV 2 HD</display-name>
+  <channel id="IS: RUV 2 HD">
+    <display-name lang="is">IS: RUV 2 HD</display-name>
     <url>http://www.sjonvarp.is</url>
   </channel>
-  <channel id="VIP IS: Sjonvarp Simans HD">
-    <display-name lang="is">VIP IS: Sjonvarp Simans HD</display-name>
+  <channel id="IS: Sjonvarp Simans HD">
+    <display-name lang="is">IS: Sjonvarp Simans HD</display-name>
     <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5f57ab054593623ffc94e75b_raekjawhite.png" />
     <url>http://www.siminn.is</url>
   </channel>
@@ -254,77 +254,77 @@ Fjallað er um heilandi og nærandi eiginleika sveppa. Skoðuð er framleiðsla 
   <programme start="20250907235500 +0000" stop="20250908130000 +0000" channel="VIP IS: RUV FHD">
     <title lang="is">Dagskrárlok</title>
   </programme>
-  <programme start="20250908130000 +0000" stop="20250908132000 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908130000 +0000" stop="20250908132000 +0000" channel="IS: RUV FHD">
     <title lang="is">Fréttir (með táknmálstúlkun)</title>
     <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
   </programme>
-  <programme start="20250908132000 +0000" stop="20250908133000 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908132000 +0000" stop="20250908133000 +0000" channel="IS: RUV FHD">
     <title lang="is">Heimaleikfimi</title>
     <desc lang="is">Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.(n)</desc>
   </programme>
-  <programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="IS: RUV FHD">
     <title lang="is">Útsvar 2013-2014</title>
     <desc lang="is">Spurningakeppni sveitarfélaga. Umsjónarmenn eru Sigmar Guðmundsson og Þóra Arnórsdóttir. Spurningahöfundur og dómari er Stefán Pálsson. Dagskrárgerð: Helgi Jóhannesson.(n)</desc>
   </programme>
-  <programme start="20250908143000 +0000" stop="20250908151500 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908143000 +0000" stop="20250908151500 +0000" channel="IS: RUV FHD">
     <title lang="is">Hatur</title>
     <desc lang="is">Nýir íslenskir heimildarþættir um uppgang hatursorðræðu á Íslandi og bakslagið sem orðið hefur í baráttu ýmissa minnihlutahópa á síðustu misserum. Leitast er við að svara spurningunni um hvernig bakslagið fór af stað, hvaðan hatrið stafar og hvaða leið er út úr þessari stöðu. Rætt er við sérfræðinga, stjórnmálafólk og þau sem hafa orðið fyrir barðinu á hatursorðræðu auk þess sem ljósi er varpað á aukið aðgengi ungs fólks að hatri í gegnum samfélagsmiðla. Umsjón: Ingileif Friðriksdóttir. Leikstjórn: Hrafn Jónsson. Framleiðsla: Ketchup Creative.(n)</desc>
   </programme>
-  <programme start="20250908151500 +0000" stop="20250908153500 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908151500 +0000" stop="20250908153500 +0000" channel="IS: RUV FHD">
     <title lang="is">Örlæti</title>
     <desc lang="is">Fróðlegir skemmtiþættir þar sem Sigtryggur Baldursson fjallar um örnefni á Íslandi frá ýmsum sjónarhornum. Dagskrárgerð: Guðlaugur Maggi Einarsson.(n)</desc>
   </programme>
-  <programme start="20250908153500 +0000" stop="20250908161500 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908153500 +0000" stop="20250908161500 +0000" channel="IS: RUV FHD">
     <title lang="is">Uppskriftabókin</title>
     <desc lang="is">Matreiðsluþættir þar sem Solla Eiríks heimsækir konur sem hafa áratugareynslu af matargerð. Hún kíkir í uppskriftabækur þeirra og lærir að elda rétti sem þær hafa matreitt á sinn einstaka hátt í fjölda ára. Í framhaldinu býður hún konunum heim til sín og endurgerir uppskriftirnar með aðstoð þeirra, en skiptir út dýraafurðum fyrir hráefni úr náttúrunni. Leikstjóri: Sunneva Ása Weisshappel. Framleiðsla: RVK Studios.
 Solla Eiríks heimsækir Ingu Backman sem kennir okkur að elda kindakæfu og rísmjölsgraut. Einnig hittir hún Öldu Lóu sápugerðarkonu sem kennir okkur að gera rósavatn.(n)</desc>
   </programme>
-  <programme start="20250908161500 +0000" stop="20250908171000 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908161500 +0000" stop="20250908171000 +0000" channel="IS: RUV FHD">
     <title lang="is">Hringfarinn - einn á hjóli í Afríku</title>
     <desc lang="is">Þriðja þáttaröðin um hringfarann Kristján Gíslason og ævintýraleg ferðalög hans um heiminn á mótorhjóli. Árið 2019 fór hann niður Afríku og á ferðalaginu fær hann að reyna allt frá borgarastríði til stórbrotinnar náttúru, kynnist einstökum ættbálkasamfélögum og kemst í kynni við einhver hættulegustu dýr heims.
 Í fjórða þætti fer Kristján Gíslason um Kibera, stærsta fátækrahverfi Afríku. Hann hittir líka Íslendinga sem hafa breytt lífi þúsunda afrískra barna til hins betra. Þá fer hann um stórbrotna náttúru Afríku og einhver mögnuðustu dýr heims verða á vegi hans.(n)</desc>
   </programme>
-  <programme start="20250908171000 +0000" stop="20250908173000 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908171000 +0000" stop="20250908173000 +0000" channel="IS: RUV FHD">
     <title lang="is">Móðurmál</title>
     <desc lang="is">Þættir um börn og ungmenni sem eiga annað móðurmál en íslensku og hafa hlotið Íslenskuverðlaun unga fólksins. Dagskrárgerð og umsjón: Hafsteinn Vilhelmsson.
 Anya fæddist á Íslandi árið 2009. Hún ólst upp í Vesturbæ Reykjavíkur hjá foreldrum sínum og yngri bróður. Hún lærði hindí og íslensku á sama tíma og því er óhætt að segja að hún eigi þau bæði að móðurmáli. Anya segir að það sé mikilvægt að læra íslensku. Hún segir okkur líka frá alþjóðadeildinni í Landakotsskóla og stærðfræðivalinu.(n)</desc>
   </programme>
-  <programme start="20250908173000 +0000" stop="20250908173100 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908173000 +0000" stop="20250908173100 +0000" channel="IS: RUV FHD">
     <title lang="is">KrakkaRÚV</title>
   </programme>
-  <programme start="20250908173100 +0000" stop="20250908173800 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908173100 +0000" stop="20250908173800 +0000" channel="IS: RUV FHD">
     <title lang="is">Litla Ló</title>
     <desc lang="is">Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.(n)</desc>
   </programme>
-  <programme start="20250908173800 +0000" stop="20250908174300 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908173800 +0000" stop="20250908174300 +0000" channel="IS: RUV FHD">
     <title lang="is">Molang V</title>
     <desc lang="is">Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.(n)</desc>
   </programme>
-  <programme start="20250908174300 +0000" stop="20250908174400 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908174300 +0000" stop="20250908174400 +0000" channel="IS: RUV FHD">
     <title lang="is">Jasmín &amp; Jómbi - Tónverksmiðjan I</title>
     <desc lang="is">Stutt innslög frá þeim Jasmín og Jómba þar sem þau tala um tónlist og tónfræði.(n)</desc>
   </programme>
-  <programme start="20250908174400 +0000" stop="20250908175700 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908174400 +0000" stop="20250908175700 +0000" channel="IS: RUV FHD">
     <title lang="is">Vinabær Danna tígurs</title>
     <desc lang="is">Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagreind og sjálfsvirðingu sem og virðingu fyrir öðrum.(n)</desc>
   </programme>
-  <programme start="20250908175700 +0000" stop="20250908180800 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908175700 +0000" stop="20250908180800 +0000" channel="IS: RUV FHD">
     <title lang="is">Veistu hvað ég elska þig mikið?</title>
     <desc lang="is">Teiknimyndaþættir fyrir börn byggðir á samnefndri breskri barnabók frá árinu 1994 eftir Sam McBratney, með myndskreytingum eftir Anitu Jeram. Bókin hefur verið gefin út á yfir 53 tungumálum og selst í yfir 28 milljónum eintaka.(n)</desc>
   </programme>
-  <programme start="20250908180800 +0000" stop="20250908181500 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908180800 +0000" stop="20250908181500 +0000" channel="IS: RUV FHD">
     <title lang="is">Hæ Sámur IV</title>
     <desc lang="is">Fjórða þáttaröðin um vinalega hundinn Sám og krílin sem vinna sér inn merki á leikskólanum hans.(n)</desc>
   </programme>
-  <programme start="20250908181500 +0000" stop="20250908182000 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908181500 +0000" stop="20250908182000 +0000" channel="IS: RUV FHD">
     <title lang="is">Refurinn Pablo</title>
     <desc lang="is">Hugrakki og uppátækjasami refurinn Pablo flyst úr sveit í borg ásamt systkinum sínum.(n)</desc>
   </programme>
-  <programme start="20250908182000 +0000" stop="20250908182500 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908182000 +0000" stop="20250908182500 +0000" channel="IS: RUV FHD">
     <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
     <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. Umsjón: Ari Páll Karlsson, Embla Bachmann, Gunnar Hrafn Kristjánsson og Kolbrún María Másdóttir. Handrit og ritstjórn: Ari Páll Karlsson.(n)</desc>
   </programme>
-  <programme start="20250908182500 +0000" stop="20250908183000 +0000" channel="VIP IS: RUV FHD">
+  <programme start="20250908182500 +0000" stop="20250908183000 +0000" channel="IS: RUV FHD">
     <title lang="is">Lag dagsins</title>
     <desc lang="is">Íslensk tónlistarmyndbönd.
 Lag: Esjan
@@ -932,4 +932,5 @@ Uppgjör á úrslitaleik EM karla í körfubolta.(n)</desc>
     <title lang="is">Tónlist</title>
     <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
   </programme>
+
 </tv>
