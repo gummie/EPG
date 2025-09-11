@@ -1,161 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Sjónvarp Símans">
-    <display-name lang="is">Sjónvarp Símans</display-name>
-    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5f57ab054593623ffc94e75b_raekjawhite.png" />
-    <url>http://www.siminn.is</url>
-  </channel>
-  <channel id="Síminn Sport">
-    <display-name lang="is">Síminn Sport</display-name>
-    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f375755ac7fe8665996_Siminn-Sport.png" />
-    <url>http://www.siminn.is</url>
-  </channel>
-  <channel id="Síminn Sport2">
-    <display-name lang="is">Síminn Sport2</display-name>
-    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f24fbc3d7286abbeb4a_Siminn-Sport-2.png" />
-    <url>http://www.siminn.is</url>
-  </channel>
-  <channel id="Síminn Sport 3">
-    <display-name lang="is">Síminn Sport 3</display-name>
-    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f145755ac42ed665903_Siminn-Sport-3.png" />
-    <url>http://www.siminn.is</url>
-  </channel>
-  <channel id="Síminn Sport 4">
-    <display-name lang="is">Síminn Sport 4</display-name>
-    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5de67f035755acfaee665751_Siminn-Sport-4.png" />
-    <url>http://www.siminn.is</url>
-  </channel>
-  <channel id="Síminn Sport UHD">
-    <display-name lang="is">Síminn Sport UHD</display-name>
-    <icon src="https://assets-global.website-files.com/5b166d1e29d11e18b5b907b4/5dee2d82cd17302aeaa53f49_SiminnSPortUHDhite.png" />
-    <url>http://www.siminn.is</url>
-  </channel>
-  <programme start="20231130010000 +0000" stop="20231130014000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">NCIS: Los Angeles</title>
-    <desc lang="is">Bandarísk sakamálasería sem fjallar um rannsóknarsveit bandaríska sjóhersins í Los Angles. Aðalhlutverkin leika Chris O‘Donnell og LL Cool J.(n)</desc>
-  </programme>
-  <programme start="20231130014000 +0000" stop="20231130022000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">The Golden Bachelor</title>
-    <desc lang="is">Silfurrefurinn Gerry Turner leitar að ástinni í föngulegum hópi kvenna með heyrnartækið að vopni.(n)</desc>
-  </programme>
-  <programme start="20231130022000 +0000" stop="20231130030000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Law &amp; Order: Organized Crime</title>
-    <desc lang="is">Spennandi sakamálasería um rannsóknarlögreglumanninn Elliot Stabler sem snýr aftur til New York og fer fyrir sérsveit lögreglunnar gegn skipulagðri glæpastarfsemi.(n)</desc>
-  </programme>
-  <programme start="20231130030000 +0000" stop="20231130034000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Walker</title>
-    <desc lang="is">Bandarísk þáttaröð um lögreglumanninn Cordell Walker sem starfar sem Texas Ranger, sérsveit ríkislögreglunnar í Texas. Hann er ekkjumaður og þarf að fara að sinna börnum sínum tveimur betur á sama tíma og hann eltir uppi hættulega glæpamenn.(n)</desc>
-  </programme>
-  <programme start="20231130034000 +0000" stop="20231130060000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Tónlist</title>
-  </programme>
-  <programme start="20231130060000 +0000" stop="20231130120000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Tónlist</title>
-  </programme>
-  <programme start="20231130120000 +0000" stop="20231130130000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">The Block</title>
-    <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
-  </programme>
-  <programme start="20231130130000 +0000" stop="20231130142500 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Bachelor in Paradise</title>
-    <desc lang="is">Bandarísk raunveruleikasería þar sem fyrrum þáttakendur í The Bachelor og The Bachelorette fá annað tækifæri til að finna ástina og kanna ný ástarsambönd.(n)</desc>
-  </programme>
-  <programme start="20231130142500 +0000" stop="20231130152500 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Gordon Ramsay's Future Food Stars</title>
-    <desc lang="is">Bresk þáttaröð þar sem meistarakokkurinn Gordon Ramsey leitar að einstaklingum sem hann telur að muni ná langt í veitingabransanum. Keppendurnir eru athafnafólk á sviði matar og drykkja og Gordon ætlar að fjárfesta í fyrirtæki þess sem sendur sig best.(n)</desc>
-  </programme>
-  <programme start="20231130152500 +0000" stop="20231130161000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Heartland</title>
-    <desc lang="is">Dramatísk þáttaröð sem segir frá fjölskyldu sem býr á búgarði í Alberta fylkinu í Kanada og líf þeirra saman í gegnum súrt og sætt.(n)</desc>
-  </programme>
-  <programme start="20231130161000 +0000" stop="20231130174000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">The Christmas Doctor</title>
-    <desc lang="is">Rómantísk jólamynd frá 2020 um lækni sem finnur ástina þegar hún kemur til starfa í smábænum Willowbrook.(n)</desc>
-  </programme>
-  <programme start="20231130174000 +0000" stop="20231130180500 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Everybody Hates Chris</title>
-    <desc lang="is">Chris has to do a school assignment during the holiday break.  He decides to do a good deed and helps Kill Moves find his estranged mother.  Meanwhile, Julius decides that the family should celebrate Kwanzaa instead of Christmas because it's less expensive.(n)</desc>
-  </programme>
-  <programme start="20231130180500 +0000" stop="20231130182500 +0000" channel="Sjónvarp Símans">
-    <title lang="is">The King of Queens</title>
-    <desc lang="is">The Heffernans are again thinking about getting pregnant, just four months after Carrie's miscarriage. But there's one problem: Arthur. Now that his last friend from the senior center has moved away, Arthur naps all day. By the time Doug and Carrie get home, Arthur is full of energy and has no one but them to unleash it on. Quality time alone for the couple is impossible. That is, until Doug hires an attractive dog walker to occupy an unsuspecting Arthur: she takes him for a stroll three times a week, under the guise that she's a student interested in learning about his World War II experiences.(n)</desc>
-  </programme>
-  <programme start="20231130182500 +0000" stop="20231130185000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">The Millers</title>
-    <desc lang="is">Bandarísk gamanþáttaröð um nýfráskilinn sjónvarpsfréttamann sem lendir í því að móðir hans flytur inn til hans, honum til mikillar óhamingju. Aðalhlutverkið leikur Will Arnett.(n)</desc>
-  </programme>
-  <programme start="20231130185000 +0000" stop="20231130192500 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Venjulegt fólk</title>
-    <desc lang="is">Gamansöm þáttaröð um dramað sem fylgir lífsgæðakapphlaupi tveggja vinkvenna. Að upplifa frægð og frama er ekki bara dans á rósum heldur hefur það ófyrirsjáanlegar afleiðingar fyrir þær, fjölskyldu og vini.(n)</desc>
-  </programme>
-  <programme start="20231130192500 +0000" stop="20231130210000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Grótta - Selfoss BEINT</title>
-    <desc lang="is">Bein útsending frá leik Gróttu og Selfoss í Olís-deild karla í handbolta.(n)</desc>
-  </programme>
-  <programme start="20231130210000 +0000" stop="20231130215000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">The Golden Bachelor</title>
-    <desc lang="is">Silfurrefurinn Gerry Turner leitar að ástinni í föngulegum hópi kvenna með heyrnartækið að vopni.(n)</desc>
-  </programme>
-  <programme start="20231130215000 +0000" stop="20231130224000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Law &amp; Order: Organized Crime</title>
-    <desc lang="is">Spennandi sakamálasería um rannsóknarlögreglumanninn Elliot Stabler sem snýr aftur til New York og fer fyrir sérsveit lögreglunnar gegn skipulagðri glæpastarfsemi.(n)</desc>
-  </programme>
-  <programme start="20231130224000 +0000" stop="20231130232500 +0000" channel="Sjónvarp Símans">
-    <title lang="is">Walker</title>
-    <desc lang="is">Bandarísk þáttaröð um lögreglumanninn Cordell Walker sem starfar sem Texas Ranger, sérsveit ríkislögreglunnar í Texas. Hann er ekkjumaður og þarf að fara að sinna börnum sínum tveimur betur á sama tíma og hann eltir uppi hættulega glæpamenn.(n)</desc>
-  </programme>
-  <programme start="20231130232500 +0000" stop="20231201002000 +0000" channel="Sjónvarp Símans">
-    <title lang="is">The Affair</title>
-    <desc lang="is">Ögrandi verðlaunaþáttaröð um áhrifin sem framhjáhald hefur á tvö hjónabönd. Sagan er sögð frá fjórum sjónarhornum. Aðalhlutverkin leika Dominic West, Ruth Wilson, Maura Tierney og Joshua Jackson.(n)</desc>
-  </programme>
-  <programme start="20231130000000 +0000" stop="20231130060000 +0000" channel="Síminn Sport">
-    <title lang="is">Óstöðvandi fótbolti</title>
-  </programme>
-  <programme start="20231130060000 +0000" stop="20231130120000 +0000" channel="Síminn Sport">
-    <title lang="is">Óstöðvandi fótbolti</title>
-  </programme>
-  <programme start="20231130120000 +0000" stop="20231130130000 +0000" channel="Síminn Sport">
-    <title lang="is">Premier League Review</title>
-    <desc lang="is">Mörkin og helstu atvikin í leikjunum í ensku úrvalsdeildinni.(n)</desc>
-  </programme>
-  <programme start="20231130130000 +0000" stop="20231130145000 +0000" channel="Síminn Sport">
-    <title lang="is">Nottingham Forest - Brighton</title>
-    <desc lang="is">Útsending frá leik Nottingham Forest og Brighton &amp; Hove Albion í ensku úrvalsdeildinni.(n)</desc>
-  </programme>
-  <programme start="20231130145000 +0000" stop="20231130164000 +0000" channel="Síminn Sport">
-    <title lang="is">Luton - Crystal Palace</title>
-    <desc lang="is">Útsending frá leik Luton Town og Crystal Palace í ensku úrvalsdeildinni.(n)</desc>
-  </programme>
-  <programme start="20231130164000 +0000" stop="20231130183000 +0000" channel="Síminn Sport">
-    <title lang="is">Sheff. Utd. - Bournemouth</title>
-    <desc lang="is">Útsending frá leik Sheffield United og AFC Bournemouth í ensku úrvalsdeildinni.(n)</desc>
-  </programme>
-  <programme start="20231130183000 +0000" stop="20231130193000 +0000" channel="Síminn Sport">
-    <title lang="is">Völlurinn</title>
-    <desc lang="is">Tómas Þór fær til sín góða gesti á Völlinn á sunnudögum þar sem farið er yfir stóru málin í enska boltanum. Meðal sérfræðinga þáttarins eru Bjarni Þór Viðarsson, Eiður Smári Guðjohnsen og Margrét Lára Viðarsdóttir.(n)</desc>
-  </programme>
-  <programme start="20231130193000 +0000" stop="20231130212000 +0000" channel="Síminn Sport">
-    <title lang="is">Tottenham - Aston Villa</title>
-    <desc lang="is">Útsending frá leik Tottenham Hotspur og Aston Villa í ensku úrvalsdeildinni.(n)</desc>
-  </programme>
-  <programme start="20231130212000 +0000" stop="20231130230000 +0000" channel="Síminn Sport">
-    <title lang="is">Everton - Man. Utd.</title>
-    <desc lang="is">Útsending frá leik Everton og Manchester United í ensku úrvalsdeildinni.(n)</desc>
-  </programme>
-  <programme start="20231130230000 +0000" stop="20231201000000 +0000" channel="Síminn Sport">
-    <title lang="is">Premier League Review</title>
-    <desc lang="is">Mörkin og helstu atvikin í leikjunum í ensku úrvalsdeildinni.(n)</desc>
-  </programme>
-  <programme start="20231130060000 +0000" stop="20231201060000 +0000" channel="Síminn Sport2">
-    <title lang="is">Óstöðvandi fótbolti</title>
-  </programme>
-  <programme start="20231130060000 +0000" stop="20231201060000 +0000" channel="Síminn Sport 3">
-    <title lang="is">Óstöðvandi fótbolti</title>
-  </programme>
-  <programme start="20231130060000 +0000" stop="20231201060000 +0000" channel="Síminn Sport 4">
-    <title lang="is">Óstöðvandi fótbolti</title>
-  </programme>
-  <programme start="20231130060000 +0000" stop="20231201060000 +0000" channel="Síminn Sport UHD">
-    <title lang="is">Óstöðvandi fótbolti</title>
-  </programme>
+<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="GRE">
+ <channel id="VIP IS: RUV FHD">
+  <display-name>VIP IS: RUV FHD</display-name>
+  <icon src="https://gudmein.com/iptv/icon/ruv.png" />
+ </channel>
+ <channel id="VIP IS: RUV 2 HD">
+  <display-name>VIP IS: RUV 2 HD</display-name>
+  <icon src="https://gudmein.com/iptv/icon/ruv2.png" />
+ </channel>
+ <programme start="20250909125000 +0000" stop="20250909131700 +0000" channel="VIP IS: RUV FHD">
+  <title>Fréttir (með táknmálstúlkun)</title>
+  <sub-title />
+  <desc />
+  <episode-num episode-num="1/1" />
+  <category>Fréttaefni</category>
+  <date />
+  <rating>
+   <value />
+  </rating>
+  <icon src="" />
+ </programme>
 </tv>
