@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="GRE">
- <channel id="VIP IS: RUV FHD">
-  <display-name>VIP IS: RUV FHD</display-name>
+ <channel id="Ruv.is">
+  <display-name>RUV FHD</display-name>
   <icon src="https://gudmein.com/iptv/icon/ruv.png" />
  </channel>
  <channel id="VIP IS: RUV 2 HD">
   <display-name>VIP IS: RUV 2 HD</display-name>
   <icon src="https://gudmein.com/iptv/icon/ruv2.png" />
  </channel>
- <programme start="20250909125000 +0000" stop="20250909131700 +0000" channel="VIP IS: RUV FHD">
+ <programme start="20250909125000 +0000" stop="20250909131700 +0000" channel="Ruv.is">
   <title>Fréttir (með táknmálstúlkun)</title>
   <sub-title />
   <desc />
-  <episode-num episode-num="1/1" />
   <category>Fréttaefni</category>
   <date />
   <rating>
