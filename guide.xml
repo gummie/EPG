@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="GRE">
- <channel id="RUV.is">
+ <channel ID="RUV.is">
   <display-name>RUV.is</display-name>
  </channel>
- <channel id="RUV2.is">
+ <channel ID="RUV2.is">
   <display-name>RUV2.is</display-name>
  </channel>
  <programme start="20250912124000 +0000" stop="20250912130701 +0000" channel="RUV.is">
