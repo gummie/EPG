@@ -7,7 +7,6 @@
  </channel>
  <programme start="20250912124000 +0000" stop="20250912130701 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250912131000 +0000" stop="20250912131935 +0000" channel="RUV.is">
@@ -19,31 +18,26 @@
  <programme start="20250912132000 +0000" stop="20250912134413 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
   <sub-title lang="is">Umbætur hjá Strætó, Íslenski draumurinn, Listasafn Akureyrar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250912135000 +0000" stop="20250912154000 +0000" channel="RUV.is">
   <title lang="is">Þýskaland - Finnland</title>
   <sub-title lang="is">EM karla í körfubolta</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250912155500 +0000" stop="20250912165053 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Skagafjörður - Fljótsdalshérað</title>
   <sub-title lang="is">Skagafjörður - Fljótsdalshérað</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/53tv30-2tg04g.jpg" />
  </programme>
  <programme start="20250912165000 +0000" stop="20250912171410 +0000" channel="RUV.is">
   <title lang="is">Spaugstofan</title>
   <desc lang="is">Karl Ágúst, Pálmi, Sigurður og Örn bregða á leik sprellfjörugir að vanda í vinsælasta sjónvarpsþætti á Íslandi. Stjórn upptöku: Björn Emilsson. e.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Gullkistan</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/12ltig-cefdso.jpg" />
  </programme>
  <programme start="20250912171500 +0000" stop="20250912172714 +0000" channel="RUV.is">
   <title lang="is">Besti karríréttur heims - Palak paneer</title>
   <sub-title lang="is">Världens bästa curry</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/aiem12-q1cdko.jpg" />
  </programme>
@@ -71,14 +65,12 @@
  <programme start="20250912180600 +0000" stop="20250912181546 +0000" channel="RUV.is">
   <title lang="is">Aftur í tímann - Aftur í tímann</title>
   <sub-title lang="is">Sögur - Stuttmyndir</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/8h9n91-ia74v0.jpg" />
  </programme>
  <programme start="20250912181500 +0000" stop="20250912182021 +0000" channel="RUV.is">
   <title lang="is">Íþróttastund II</title>
   <sub-title lang="is">Hjólaskautaat</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250912182000 +0000" stop="20250912182420 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins - Of Monsters and Men - Kings and Lionheart</title>
@@ -90,24 +82,20 @@
  <programme start="20250912182500 +0000" stop="20250912185423 +0000" channel="RUV.is">
   <title lang="is">Fjölskyldan í forgrunni</title>
   <sub-title lang="is">Here We Go</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/akp4r0-j9c498.jpg" />
  </programme>
  <programme start="20250912190000 +0000" stop="20250912192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250912193000 +0000" stop="20250912193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250912193500 +0000" stop="20250912194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250912194500 +0000" stop="20250912194831 +0000" channel="RUV.is">
@@ -118,24 +106,20 @@
  <programme start="20250912195000 +0000" stop="20250912212017 +0000" channel="RUV.is">
   <title lang="is">Hin hugrakka</title>
   <sub-title lang="is">Brave</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250912212000 +0000" stop="20250912212406 +0000" channel="RUV.is">
   <title lang="is">Stúdíó RÚV - brot - Inspector Spacetime - Smástund</title>
   <sub-title lang="is">Inspector Spacetime - Smástund</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250912213000 +0000" stop="20250912221346 +0000" channel="RUV.is">
   <title lang="is">Séra Brown</title>
   <sub-title lang="is">Father Brown X</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/akoha0-at1veg.jpg" />
  </programme>
  <programme start="20250912221500 +0000" stop="20250912234122 +0000" channel="RUV.is">
   <title lang="is">Karen Pirie: Gamlar syndir</title>
   <sub-title lang="is">Karen Pirie</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -152,7 +136,6 @@
  </programme>
  <programme start="20250913004000 +0000" stop="20250913004010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913070000 +0000" stop="20250913100000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
@@ -177,25 +160,21 @@
  <programme start="20250913071600 +0000" stop="20250913072614 +0000" channel="RUV.is">
   <title lang="is">Háværa ljónið Urri - Uppáhalds hljóð Urra</title>
   <sub-title lang="is">Raa Raa the Noisy Lion</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a6hgog-tk9bo8.jpg" />
  </programme>
  <programme start="20250913072600 +0000" stop="20250913072925 +0000" channel="RUV.is">
   <title lang="is">Bursti I - Við leikum hársnyrta</title>
   <sub-title lang="is">Við leikum hársnyrta</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a6t3rg-s7k8a0.jpg" />
  </programme>
  <programme start="20250913072900 +0000" stop="20250913073400 +0000" channel="RUV.is">
   <title lang="is">Molang IV</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913073400 +0000" stop="20250913073924 +0000" channel="RUV.is">
   <title lang="is">Símon</title>
   <sub-title lang="is">Simon</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a47bo5-7sp1jg.jpg" />
  </programme>
@@ -238,7 +217,6 @@
  <programme start="20250913084400 +0000" stop="20250913085105 +0000" channel="RUV.is">
   <title lang="is">Blæja III</title>
   <sub-title lang="is">Bluey</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913085100 +0000" stop="20250913090205 +0000" channel="RUV.is">
   <title lang="is">Skrímslasjúkir snillingar</title>
@@ -281,63 +259,52 @@
  <programme start="20250913100000 +0000" stop="20250913113017 +0000" channel="RUV.is">
   <title lang="is">Hin hugrakka</title>
   <sub-title lang="is">Brave</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913113000 +0000" stop="20250913113450 +0000" channel="RUV.is">
   <title lang="is">Landakort - Allt í öllu á Vopnafirði</title>
   <sub-title lang="is">Allt í öllu á Vopnafirði</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/af4pbg-28i2kg.jpg" />
  </programme>
  <programme start="20250913114000 +0000" stop="20250913133000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913133000 +0000" stop="20250913135700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250913140000 +0000" stop="20250913142858 +0000" channel="RUV.is">
   <title lang="is">Tveir feður og börn - Venskabet vokser</title>
   <sub-title lang="is">Far, far, børn</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913143000 +0000" stop="20250913150756 +0000" channel="RUV.is">
   <title lang="is">Hatur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913151000 +0000" stop="20250913160105 +0000" channel="RUV.is">
   <title lang="is">Íslendingar - Sigurður Demetz</title>
   <sub-title lang="is">Sigurður Demetz</sub-title>
   <desc lang="is">Fjallað er um Íslendinga sem settu svip sinn á íslenskt samfélag um sína daga með margvíslegum hætti. Þættirnir spegla jafnframt sögu þjóðarinnar og samtíð á ýmsum tímum, menningu, listir, stjórnmál og fleira. Þeir eru byggðir á efni úr safni Rúv á nærfellt hálfrar aldar tímabili. Umsjón og dagskrárgerð: Andrés Indriðason.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/5kg214-2lt2mg.jpg" />
  </programme>
  <programme start="20250913160500 +0000" stop="20250913164439 +0000" channel="RUV.is">
   <title lang="is">Uppskriftabókin</title>
   <sub-title lang="is">Plokkfiskur, þari og möndlumjólk</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913164500 +0000" stop="20250913165744 +0000" channel="RUV.is">
   <title lang="is">Poppkorn - sagan á bak við myndbandið - Risaeðlan - Hope</title>
   <sub-title lang="is">Risaeðlan - Hope</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/8ln0om-47fr28.jpg" />
  </programme>
  <programme start="20250913170000 +0000" stop="20250913172905 +0000" channel="RUV.is">
   <title lang="is">Innlit til arkitekta - Johnny Andersson</title>
   <sub-title lang="is">Hemma hos arkitekten II</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/95st16-ot0jeo.jpg" />
  </programme>
  <programme start="20250913173000 +0000" stop="20250913182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -358,7 +325,6 @@
  <programme start="20250913181100 +0000" stop="20250913181347 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV - Tónlist - Blóm vináttunnar - Elín Ey</title>
   <sub-title lang="is">Blóm vináttunnar - Elín Ey</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9ra0sr-tebgi0.jpg" />
  </programme>
@@ -372,7 +338,6 @@
  <programme start="20250913182000 +0000" stop="20250913184845 +0000" channel="RUV.is">
   <title lang="is">Svepparíkið</title>
   <sub-title lang="is">Lækningarmátturinn</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913185200 +0000" stop="20250913185520 +0000" channel="RUV.is">
   <title lang="is">Lottó</title>
@@ -380,17 +345,14 @@
  </programme>
  <programme start="20250913190000 +0000" stop="20250913192000 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250913192500 +0000" stop="20250913193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913193500 +0000" stop="20250913194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250913194500 +0000" stop="20250913194959 +0000" channel="RUV.is">
@@ -401,29 +363,24 @@
  <programme start="20250913195000 +0000" stop="20250913211124 +0000" channel="RUV.is">
   <title lang="is">Fríða og dýrið</title>
   <sub-title lang="is">Beauty and the Beast</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913211000 +0000" stop="20250913211458 +0000" channel="RUV.is">
   <title lang="is">Stúdíó RÚV - brot - Soffía -  Redwing</title>
   <sub-title lang="is">Soffía - Redwing</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913212000 +0000" stop="20250913225732 +0000" channel="RUV.is">
   <title lang="is">Johnny English snýr aftur</title>
   <sub-title lang="is">Johnny English Reborn</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250913230000 +0000" stop="20250914005002 +0000" channel="RUV.is">
   <title lang="is">Síðasta ferðin</title>
   <sub-title lang="is">Paradise Highway</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>16</value>
   </rating>
  </programme>
  <programme start="20250914005000 +0000" stop="20250914005010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250914070000 +0000" stop="20250914100000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
@@ -525,38 +482,31 @@
  <programme start="20250914100000 +0000" stop="20250914112124 +0000" channel="RUV.is">
   <title lang="is">Fríða og dýrið</title>
   <sub-title lang="is">Beauty and the Beast</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250914112000 +0000" stop="20250914112703 +0000" channel="RUV.is">
   <title lang="is">Vísindahorn Ævars - Salt í vatnskassa</title>
   <sub-title lang="is">Salt í vatnskassa</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/7fbjdg-ahk4dg.jpg" />
  </programme>
  <programme start="20250914113000 +0000" stop="20250914113501 +0000" channel="RUV.is">
   <title lang="is">Landakort - Ólafíustofa í Osló</title>
   <sub-title lang="is">Ólafíustofa í Osló</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/an7ijg-bnv80.jpg" />
  </programme>
  <programme start="20250914114000 +0000" stop="20250914132500 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250914132500 +0000" stop="20250914134500 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250914135000 +0000" stop="20250914154000 +0000" channel="RUV.is">
   <title lang="is">Bronsleikur</title>
   <sub-title lang="is">EM karla í körfubolta</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250914155500 +0000" stop="20250914162810 +0000" channel="RUV.is">
   <title lang="is">Lifun - hlustun með Magga Kjartans og Gunna Þórðar</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Menning</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9d7si0-496rq0.jpg" />
  </programme>
@@ -575,13 +525,11 @@
  </programme>
  <programme start="20250914173000 +0000" stop="20250914182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
  <programme start="20250914173100 +0000" stop="20250914180245 +0000" channel="RUV.is">
   <title lang="is">Sögufólk framtíðarinnar</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9n4l90-rkmcjo.jpg" />
  </programme>
@@ -601,7 +549,6 @@
  <programme start="20250914181400 +0000" stop="20250914181503 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV - Tónlist - Þorri og Þura syngja um sig</title>
   <sub-title lang="is">Þorri og Þura syngja um sig</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9ra0rn-t4519g.jpg" />
  </programme>
@@ -615,7 +562,6 @@
  <programme start="20250914182000 +0000" stop="20250914182454 +0000" channel="RUV.is">
   <title lang="is">Smíðað með Óskari</title>
   <sub-title lang="is">Snickra med Oskar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9a3pe0-nfj6lg.jpg" />
  </programme>
@@ -628,32 +574,26 @@
  </programme>
  <programme start="20250914190000 +0000" stop="20250914192000 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250914192500 +0000" stop="20250914193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250914193500 +0000" stop="20250914194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250914194500 +0000" stop="20250914201345 +0000" channel="RUV.is">
   <title lang="is">Svepparíkið</title>
   <sub-title lang="is">Tækifærin</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250914202000 +0000" stop="20250914205040 +0000" channel="RUV.is">
   <title lang="is">Hinn stóri samhljómur sandsins</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250914210000 +0000" stop="20250914215603 +0000" channel="RUV.is">
   <title lang="is">Ólgandi heimur II</title>
   <sub-title lang="is">World on Fire II</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -661,7 +601,6 @@
  <programme start="20250914220000 +0000" stop="20250914233642 +0000" channel="RUV.is">
   <title lang="is">Undir sandinum</title>
   <sub-title lang="is">Under sandet</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -669,24 +608,19 @@
  <programme start="20250914234000 +0000" stop="20250915002805 +0000" channel="RUV.is">
   <title lang="is">The Who: Gerð plötunnar Sell Out</title>
   <sub-title lang="is">The Who - Sell Out</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915003000 +0000" stop="20250915003010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915103000 +0000" stop="20250915133000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915133000 +0000" stop="20250915135000 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250915135000 +0000" stop="20250915135844 +0000" channel="RUV.is">
   <title lang="is">Heimaleikfimi</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/91pvig-3p3hig.jpg" />
  </programme>
@@ -713,7 +647,6 @@
  <programme start="20250915161000 +0000" stop="20250915170031 +0000" channel="RUV.is">
   <title lang="is">Hringfarinn - einn á hjóli í Afríku - Malaví - Suður Afríka</title>
   <sub-title lang="is">Malaví - Suður Afríka</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9qgma5-e4jsc0.jpg" />
  </programme>
@@ -726,7 +659,6 @@
  </programme>
  <programme start="20250915173000 +0000" stop="20250915182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -744,7 +676,6 @@
  <programme start="20250915174900 +0000" stop="20250915175400 +0000" channel="RUV.is">
   <title lang="is">Molang V</title>
   <sub-title lang="is">Molang V</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915175400 +0000" stop="20250915175508 +0000" channel="RUV.is">
   <title lang="is">Jasmín &amp; Jómbi - Tónverksmiðjan I</title>
@@ -765,11 +696,9 @@
  </programme>
  <programme start="20250915181500 +0000" stop="20250915182006 +0000" channel="RUV.is">
   <title lang="is">Refurinn Pablo</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915182000 +0000" stop="20250915182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915182500 +0000" stop="20250915185230 +0000" channel="RUV.is">
   <title lang="is">Náttúran mín - Eyjafjöll</title>
@@ -780,32 +709,26 @@
  </programme>
  <programme start="20250915190000 +0000" stop="20250915192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250915193000 +0000" stop="20250915193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250915193500 +0000" stop="20250915194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250915194500 +0000" stop="20250915201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915201500 +0000" stop="20250915210000 +0000" channel="RUV.is">
   <title lang="is">Silfrið</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915210500 +0000" stop="20250915214728 +0000" channel="RUV.is">
   <title lang="is">Nýtt líf</title>
   <sub-title lang="is">Push</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -813,73 +736,60 @@
  <programme start="20250915215000 +0000" stop="20250915232356 +0000" channel="RUV.is">
   <title lang="is">Kýr</title>
   <sub-title lang="is">Cow</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250915232500 +0000" stop="20250916001147 +0000" channel="RUV.is">
   <title lang="is">Vertu sæl, Marianne</title>
   <sub-title lang="is">So Long Marianne</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
  </programme>
  <programme start="20250916001000 +0000" stop="20250916001010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916103000 +0000" stop="20250916133000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916133000 +0000" stop="20250916135700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250916140000 +0000" stop="20250916140953 +0000" channel="RUV.is">
   <title lang="is">Heimaleikfimi</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/91pvig-3p3hig.jpg" />
  </programme>
  <programme start="20250916141000 +0000" stop="20250916143500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916143500 +0000" stop="20250916153646 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Sandgerði - Tálknafjarðarhreppur</title>
   <sub-title lang="is">Sandgerði - Tálknafjarðarhreppur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/53tv30-2tg04g.jpg" />
  </programme>
  <programme start="20250916154000 +0000" stop="20250916162500 +0000" channel="RUV.is">
   <title lang="is">Silfrið</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916162500 +0000" stop="20250916164616 +0000" channel="RUV.is">
   <title lang="is">Spaugstofan</title>
   <desc lang="is">Karl Ágúst, Pálmi, Sigurður og Örn bregða á leik sprellfjörugir að vanda í vinsælasta sjónvarpsþætti á Íslandi. Stjórn upptöku: Björn Emilsson. e.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Gullkistan</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/12ltig-cefdso.jpg" />
  </programme>
  <programme start="20250916165000 +0000" stop="20250916172206 +0000" channel="RUV.is">
   <title lang="is">Vesturfarar</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/4rs34m-7t8qfo.jpg" />
  </programme>
  <programme start="20250916172000 +0000" stop="20250916172651 +0000" channel="RUV.is">
   <title lang="is">Myndavélar</title>
   <sub-title lang="is">Kamera</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/8067o0-bbnrio.jpg" />
  </programme>
  <programme start="20250916173000 +0000" stop="20250916182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -921,12 +831,10 @@
  </programme>
  <programme start="20250916182000 +0000" stop="20250916182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916182500 +0000" stop="20250916182910 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins</title>
   <sub-title lang="is">SEXY LAZER - 50's</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Menning</category>
  </programme>
  <programme start="20250916183000 +0000" stop="20250916185108 +0000" channel="RUV.is">
@@ -938,37 +846,30 @@
  </programme>
  <programme start="20250916190000 +0000" stop="20250916192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250916193000 +0000" stop="20250916193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250916193500 +0000" stop="20250916194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250916194500 +0000" stop="20250916201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916201500 +0000" stop="20250916204338 +0000" channel="RUV.is">
   <title lang="is">Hatur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916205000 +0000" stop="20250916210445 +0000" channel="RUV.is">
   <title lang="is">Draumagufubaðið</title>
   <sub-title lang="is">Bastudrömmar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916210500 +0000" stop="20250916220349 +0000" channel="RUV.is">
   <title lang="is">Morðin í Port Talbot</title>
   <sub-title lang="is">Steeltown Murders</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -976,7 +877,6 @@
  <programme start="20250916220500 +0000" stop="20250916235213 +0000" channel="RUV.is">
   <title lang="is">Vofa Richards Harris</title>
   <sub-title lang="is">The Ghost of Richard Harris</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250916235000 +0000" stop="20250917004456 +0000" channel="RUV.is">
   <title lang="is">Babýlon Berlín IV</title>
@@ -990,31 +890,25 @@
  </programme>
  <programme start="20250917004500 +0000" stop="20250917004510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917103000 +0000" stop="20250917133000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917133000 +0000" stop="20250917135700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250917140000 +0000" stop="20250917141002 +0000" channel="RUV.is">
   <title lang="is">Heimaleikfimi</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/91pvig-3p3hig.jpg" />
  </programme>
  <programme start="20250917141000 +0000" stop="20250917143500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917143500 +0000" stop="20250917153739 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Ísafjarðarbær - Fjallabyggð</title>
   <sub-title lang="is">Ísafjarðarbær - Fjallabyggð</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/53tv30-2tg04g.jpg" />
  </programme>
@@ -1028,7 +922,6 @@
  <programme start="20250917163500 +0000" stop="20250917164131 +0000" channel="RUV.is">
   <title lang="is">Landakort - Snjóflóðahundanámskeið</title>
   <sub-title lang="is">Snjóflóðahundanámskeið</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/an7ijg-bnv80.jpg" />
  </programme>
  <programme start="20250917164500 +0000" stop="20250917172828 +0000" channel="RUV.is">
@@ -1039,14 +932,12 @@
  </programme>
  <programme start="20250917173000 +0000" stop="20250917182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
  <programme start="20250917173100 +0000" stop="20250917174213 +0000" channel="RUV.is">
   <title lang="is">Monsurnar II</title>
   <sub-title lang="is">Tónlistarkristallinn</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917174200 +0000" stop="20250917180624 +0000" channel="RUV.is">
   <title lang="is">Klassísku Strumparnir - Lati Strumpur &amp; Töfraorðið hræðilega</title>
@@ -1057,13 +948,11 @@
  <programme start="20250917180600 +0000" stop="20250917181300 +0000" channel="RUV.is">
   <title lang="is">Fjölskyldufár</title>
   <sub-title lang="is">Veislan</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/amhjfg-dqft60.jpg" />
  </programme>
  <programme start="20250917181300 +0000" stop="20250917181800 +0000" channel="RUV.is">
   <title lang="is">Svaðilfarir Marra</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917181800 +0000" stop="20250917182040 +0000" channel="RUV.is">
   <title lang="is">Hryllingssögur - Óttinn</title>
@@ -1074,7 +963,6 @@
  </programme>
  <programme start="20250917182000 +0000" stop="20250917182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917182500 +0000" stop="20250917185057 +0000" channel="RUV.is">
   <title lang="is">Fílalag - 2. Þrek og tár - Erla og Haukur</title>
@@ -1089,27 +977,22 @@
  </programme>
  <programme start="20250917190000 +0000" stop="20250917192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250917193000 +0000" stop="20250917193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250917193500 +0000" stop="20250917194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250917194500 +0000" stop="20250917201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917201500 +0000" stop="20250917205032 +0000" channel="RUV.is">
   <title lang="is">Með okkar augum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917205500 +0000" stop="20250917215328 +0000" channel="RUV.is">
   <title lang="is">Tveir feður og börn - Dobbelt lykke</title>
@@ -1119,47 +1002,38 @@
  <programme start="20250917215500 +0000" stop="20250917223818 +0000" channel="RUV.is">
   <title lang="is">Ótryggð</title>
   <sub-title lang="is">Trolösa</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917224000 +0000" stop="20250917233225 +0000" channel="RUV.is">
   <title lang="is">Stríð á norðurslóðum II</title>
   <sub-title lang="is">Untold Arctic Wars II</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250917233500 +0000" stop="20250918001820 +0000" channel="RUV.is">
   <title lang="is">Ísalög</title>
   <sub-title lang="is">Tunn is</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/8gq57g-9sg3jg.jpg" />
  </programme>
  <programme start="20250918002000 +0000" stop="20250918002010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250918100000 +0000" stop="20250918133000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250918133000 +0000" stop="20250918135700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250918140000 +0000" stop="20250918140848 +0000" channel="RUV.is">
   <title lang="is">Heimaleikfimi</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/91pvig-3p3hig.jpg" />
  </programme>
  <programme start="20250918141000 +0000" stop="20250918143500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250918143500 +0000" stop="20250918152608 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Kópavogur - Rangárþing eystra</title>
   <sub-title lang="is">Kópavogur - Rangárþing eystra</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/53tv30-2tg04g.jpg" />
  </programme>
@@ -1213,11 +1087,9 @@
  </programme>
  <programme start="20250918182000 +0000" stop="20250918182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250918182500 +0000" stop="20250918182857 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Menning</category>
  </programme>
  <programme start="20250918183000 +0000" stop="20250918185312 +0000" channel="RUV.is">
@@ -1229,39 +1101,32 @@
  </programme>
  <programme start="20250918190000 +0000" stop="20250918192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250918193000 +0000" stop="20250918193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250918193500 +0000" stop="20250918194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250918194500 +0000" stop="20250918201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250918201500 +0000" stop="20250918205536 +0000" channel="RUV.is">
   <title lang="is">Uppskriftabókin</title>
   <sub-title lang="is">Brauðterta, lífræn ræktun og reyktar gulrætur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250918210000 +0000" stop="20250918215824 +0000" channel="RUV.is">
   <title lang="is">Draumahúsið</title>
   <sub-title lang="is">Husdrömmar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
  </programme>
  <programme start="20250918220000 +0000" stop="20250918222500 +0000" channel="RUV.is">
   <title lang="is">Úr viðjum</title>
   <sub-title lang="is">Flus</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>16</value>
   </rating>
@@ -1269,7 +1134,6 @@
  <programme start="20250918223000 +0000" stop="20250918231306 +0000" channel="RUV.is">
   <title lang="is">Kennarinn III</title>
   <sub-title lang="is">Belfer III</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>16</value>
   </rating>
@@ -1283,49 +1147,40 @@
  </programme>
  <programme start="20250919000500 +0000" stop="20250919000510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250919110000 +0000" stop="20250919133000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250919133000 +0000" stop="20250919135700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250919140000 +0000" stop="20250919140902 +0000" channel="RUV.is">
   <title lang="is">Heimaleikfimi</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/91pvig-3p3hig.jpg" />
  </programme>
  <programme start="20250919141000 +0000" stop="20250919143500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250919143500 +0000" stop="20250919153034 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Garðabær - Reykjanesbær</title>
   <sub-title lang="is">Garðabær - Reykjanesbær</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/53tv30-2tg04g.jpg" />
  </programme>
  <programme start="20250919153000 +0000" stop="20250919155422 +0000" channel="RUV.is">
   <title lang="is">Spaugstofan</title>
   <desc lang="is">Karl Ágúst, Pálmi, Sigurður og Örn bregða á leik sprellfjörugir að vanda í vinsælasta sjónvarpsþætti á Íslandi. Stjórn upptöku: Björn Emilsson. e.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Gullkistan</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/12ltig-cefdso.jpg" />
  </programme>
  <programme start="20250919155500 +0000" stop="20250919165405 +0000" channel="RUV.is">
   <title lang="is">Vísindin á bakvið Sögu Svíþjóðar</title>
   <sub-title lang="is">Vetenskapen bakom Historien om Sverige</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250919165500 +0000" stop="20250919172540 +0000" channel="RUV.is">
   <title lang="is">Hinn stóri samhljómur sandsins</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250919173000 +0000" stop="20250919182500 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
@@ -1353,7 +1208,6 @@
  <programme start="20250919181700 +0000" stop="20250919182349 +0000" channel="RUV.is">
   <title lang="is">Heimilisfræði I - Tortillur</title>
   <sub-title lang="is">Tortillur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a4rq0n-bnskvo.jpg" />
  </programme>
@@ -1366,18 +1220,15 @@
  </programme>
  <programme start="20250919190000 +0000" stop="20250919192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250919193000 +0000" stop="20250919193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250919193500 +0000" stop="20250919194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250919194500 +0000" stop="20250919200719 +0000" channel="RUV.is">
@@ -1387,12 +1238,10 @@
  </programme>
  <programme start="20250919201500 +0000" stop="20250919211000 +0000" channel="RUV.is">
   <title lang="is">Vikan með Gísla Marteini</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250919211500 +0000" stop="20250919215944 +0000" channel="RUV.is">
   <title lang="is">Séra Brown</title>
   <sub-title lang="is">Father Brown X</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/akoha0-at1veg.jpg" />
  </programme>
@@ -1407,11 +1256,9 @@
  <programme start="20250919233000 +0000" stop="20250920010745 +0000" channel="RUV.is">
   <title lang="is">Ég heiti Zlatan</title>
   <sub-title lang="is">Jag är Zlatan</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920010500 +0000" stop="20250920010510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920070000 +0000" stop="20250920095500 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
@@ -1426,7 +1273,6 @@
  </programme>
  <programme start="20250920070600 +0000" stop="20250920071100 +0000" channel="RUV.is">
   <title lang="is">Svaðilfarir Marra</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920071100 +0000" stop="20250920071606 +0000" channel="RUV.is">
   <title lang="is">Broddi og Oddlaug</title>
@@ -1436,25 +1282,21 @@
  <programme start="20250920071600 +0000" stop="20250920072600 +0000" channel="RUV.is">
   <title lang="is">Háværa ljónið Urri - úúú úúú gerir mistök</title>
   <sub-title lang="is">Raa Raa the Noisy Lion</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a6hgog-tk9bo8.jpg" />
  </programme>
  <programme start="20250920072600 +0000" stop="20250920072928 +0000" channel="RUV.is">
   <title lang="is">Bursti I - Bursti byggir greni</title>
   <sub-title lang="is">Bursti byggir greni</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a6t3sg-i9ksvg.jpg" />
  </programme>
  <programme start="20250920072900 +0000" stop="20250920073400 +0000" channel="RUV.is">
   <title lang="is">Molang IV</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920073400 +0000" stop="20250920073925 +0000" channel="RUV.is">
   <title lang="is">Símon</title>
   <sub-title lang="is">Simon</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a47bo7-kl063o.jpg" />
  </programme>
@@ -1497,7 +1339,6 @@
  <programme start="20250920084400 +0000" stop="20250920085104 +0000" channel="RUV.is">
   <title lang="is">Blæja III</title>
   <sub-title lang="is">Bluey</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920085100 +0000" stop="20250920090205 +0000" channel="RUV.is">
   <title lang="is">Skrímslasjúkir snillingar</title>
@@ -1507,12 +1348,10 @@
  </programme>
  <programme start="20250920090200 +0000" stop="20250920091340 +0000" channel="RUV.is">
   <title lang="is">Töfratú</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920091400 +0000" stop="20250920092410 +0000" channel="RUV.is">
   <title lang="is">Sammi brunavörður XI</title>
   <sub-title lang="is">Skrímslaæðið</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920092400 +0000" stop="20250920093118 +0000" channel="RUV.is">
   <title lang="is">Karla og Regnbogaskólinn</title>
@@ -1533,25 +1372,20 @@
  <programme start="20250920095500 +0000" stop="20250920095941 +0000" channel="RUV.is">
   <title lang="is">Landakort - Hjalti sjampóstrákur</title>
   <sub-title lang="is">Hjalti sjampóstrákur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/an7ijg-bnv80.jpg" />
  </programme>
  <programme start="20250920100000 +0000" stop="20250920133000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920133000 +0000" stop="20250920135700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250920140000 +0000" stop="20250920145500 +0000" channel="RUV.is">
   <title lang="is">Vikan með Gísla Marteini</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920145500 +0000" stop="20250920152338 +0000" channel="RUV.is">
   <title lang="is">Hatur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920152500 +0000" stop="20250920155205 +0000" channel="RUV.is">
   <title lang="is">Reimleikar</title>
@@ -1562,7 +1396,6 @@
  <programme start="20250920155500 +0000" stop="20250920163536 +0000" channel="RUV.is">
   <title lang="is">Uppskriftabókin</title>
   <sub-title lang="is">Brauðterta, lífræn ræktun og reyktar gulrætur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920163500 +0000" stop="20250920172654 +0000" channel="RUV.is">
   <title lang="is">Útúrdúr - Vetrarferðin</title>
@@ -1573,7 +1406,6 @@
  </programme>
  <programme start="20250920173000 +0000" stop="20250920182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -1601,7 +1433,6 @@
  <programme start="20250920182000 +0000" stop="20250920184845 +0000" channel="RUV.is">
   <title lang="is">Svepparíkið</title>
   <sub-title lang="is">Tækifærin</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920185200 +0000" stop="20250920185520 +0000" channel="RUV.is">
   <title lang="is">Lottó</title>
@@ -1609,38 +1440,31 @@
  </programme>
  <programme start="20250920190000 +0000" stop="20250920192000 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250920192500 +0000" stop="20250920193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920193500 +0000" stop="20250920194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250920194500 +0000" stop="20250920205717 +0000" channel="RUV.is">
   <title lang="is">Kappsmál</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920210000 +0000" stop="20250920224831 +0000" channel="RUV.is">
   <title lang="is">Undur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250920225000 +0000" stop="20250921011323 +0000" channel="RUV.is">
   <title lang="is">Píanóleikarinn</title>
   <sub-title lang="is">The Pianist</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>16</value>
   </rating>
  </programme>
  <programme start="20250921011000 +0000" stop="20250921011010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250921070000 +0000" stop="20250921100000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
@@ -1742,13 +1566,11 @@
  <programme start="20250921100000 +0000" stop="20250921101807 +0000" channel="RUV.is">
   <title lang="is">Sætt og gott</title>
   <sub-title lang="is">Det søde liv</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/5tab60-8k5vdo.jpg" />
  </programme>
  <programme start="20250921102500 +0000" stop="20250921123000 +0000" channel="RUV.is">
   <title lang="is">HM í frjálsíþróttum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250921123000 +0000" stop="20250921130532 +0000" channel="RUV.is">
   <title lang="is">Með okkar augum</title>
@@ -1756,12 +1578,10 @@
  </programme>
  <programme start="20250921131000 +0000" stop="20250921133000 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250921133000 +0000" stop="20250921144217 +0000" channel="RUV.is">
   <title lang="is">Kappsmál</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250921144500 +0000" stop="20250921154317 +0000" channel="RUV.is">
   <title lang="is">Inn í óminnið</title>
@@ -1773,7 +1593,6 @@
  <programme start="20250921154500 +0000" stop="20250921164324 +0000" channel="RUV.is">
   <title lang="is">Draumahúsið</title>
   <sub-title lang="is">Husdrömmar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
  </programme>
  <programme start="20250921164500 +0000" stop="20250921172640 +0000" channel="RUV.is">
@@ -1784,14 +1603,12 @@
  </programme>
  <programme start="20250921173000 +0000" stop="20250921182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
  <programme start="20250921173100 +0000" stop="20250921180119 +0000" channel="RUV.is">
   <title lang="is">Sögufólk framtíðarinnar</title>
   <sub-title lang="is">Sögufólk framtíðarinnar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250921180100 +0000" stop="20250921180653 +0000" channel="RUV.is">
   <title lang="is">Dagvistun fyrir hunda - Afmælisdagur Krútta</title>
@@ -1814,7 +1631,6 @@
  <programme start="20250921182000 +0000" stop="20250921182308 +0000" channel="RUV.is">
   <title lang="is">Bækur og staðir 2015 - Búðardalur</title>
   <sub-title lang="is">Búðardalur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Menning</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/64dmig-49arno.jpg" />
  </programme>
@@ -1827,27 +1643,22 @@
  </programme>
  <programme start="20250921190000 +0000" stop="20250921192000 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250921192500 +0000" stop="20250921193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250921193500 +0000" stop="20250921194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250921194500 +0000" stop="20250921205018 +0000" channel="RUV.is">
   <title lang="is">Strengur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250921210000 +0000" stop="20250921215635 +0000" channel="RUV.is">
   <title lang="is">Ólgandi heimur II</title>
   <sub-title lang="is">World on Fire II</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -1855,7 +1666,6 @@
  <programme start="20250921220000 +0000" stop="20250921225733 +0000" channel="RUV.is">
   <title lang="is">Dægurflugur</title>
   <sub-title lang="is">Mayflies</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -1863,23 +1673,19 @@
  <programme start="20250921230000 +0000" stop="20250922004446 +0000" channel="RUV.is">
   <title lang="is">Uppstigning</title>
   <sub-title lang="is">Voskhozhdenie</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
  </programme>
  <programme start="20250922004500 +0000" stop="20250922004510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250922130000 +0000" stop="20250922132000 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250922132000 +0000" stop="20250922132900 +0000" channel="RUV.is">
   <title lang="is">Heimaleikfimi</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/91pvig-3p3hig.jpg" />
  </programme>
@@ -1906,7 +1712,6 @@
  <programme start="20250922153500 +0000" stop="20250922163328 +0000" channel="RUV.is">
   <title lang="is">Tveir feður og börn - Dobbelt lykke</title>
   <sub-title lang="is">Far, far, børn</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250922163500 +0000" stop="20250922170318 +0000" channel="RUV.is">
   <title lang="is">Húsið okkar á Sikiley</title>
@@ -1924,7 +1729,6 @@
  </programme>
  <programme start="20250922173000 +0000" stop="20250922182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -1936,7 +1740,6 @@
  <programme start="20250922173800 +0000" stop="20250922174300 +0000" channel="RUV.is">
   <title lang="is">Molang V</title>
   <sub-title lang="is">Molang V</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250922174300 +0000" stop="20250922174422 +0000" channel="RUV.is">
   <title lang="is">Jasmín &amp; Jómbi - Tónverksmiðjan I</title>
@@ -1967,7 +1770,6 @@
  </programme>
  <programme start="20250922182000 +0000" stop="20250922182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250922182500 +0000" stop="20250922182821 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins - Dísa - Temptation</title>
@@ -1985,32 +1787,26 @@
  </programme>
  <programme start="20250922190000 +0000" stop="20250922192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250922193000 +0000" stop="20250922193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250922193500 +0000" stop="20250922194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250922194500 +0000" stop="20250922201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250922201500 +0000" stop="20250922210000 +0000" channel="RUV.is">
   <title lang="is">Silfrið</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250922210500 +0000" stop="20250922214855 +0000" channel="RUV.is">
   <title lang="is">Nýtt líf</title>
   <sub-title lang="is">Push</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -2018,23 +1814,19 @@
  <programme start="20250922215000 +0000" stop="20250922231705 +0000" channel="RUV.is">
   <title lang="is">Finnast fleiri eins og ég?</title>
   <sub-title lang="is">Is There Anybody Out There?</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250922232000 +0000" stop="20250923000244 +0000" channel="RUV.is">
   <title lang="is">Vertu sæl, Marianne</title>
   <sub-title lang="is">So Long Marianne</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
  </programme>
  <programme start="20250923000500 +0000" stop="20250923000510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250923130000 +0000" stop="20250923132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250923133000 +0000" stop="20250923134024 +0000" channel="RUV.is">
@@ -2045,7 +1837,6 @@
  </programme>
  <programme start="20250923134000 +0000" stop="20250923140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250923140500 +0000" stop="20250923150220 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Reykjavík - Fljótsdalshérað</title>
@@ -2056,12 +1847,10 @@
  </programme>
  <programme start="20250923150500 +0000" stop="20250923155000 +0000" channel="RUV.is">
   <title lang="is">Silfrið</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250923160000 +0000" stop="20250923162031 +0000" channel="RUV.is">
   <title lang="is">Spaugstofan</title>
   <desc lang="is">Karl Ágúst, Pálmi, Sigurður og Örn bregða á leik sprellfjörugir að vanda í vinsælasta sjónvarpsþætti á Íslandi. Stjórn upptöku: Björn Emilsson. e.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Gullkistan</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/12ltig-cefdso.jpg" />
  </programme>
@@ -2080,7 +1869,6 @@
  </programme>
  <programme start="20250923173000 +0000" stop="20250923182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -2122,7 +1910,6 @@
  </programme>
  <programme start="20250923182000 +0000" stop="20250923182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250923182500 +0000" stop="20250923182950 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins - Jónas Sig - Höldum áfram</title>
@@ -2140,36 +1927,29 @@
  </programme>
  <programme start="20250923190000 +0000" stop="20250923192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250923193000 +0000" stop="20250923193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250923193500 +0000" stop="20250923194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250923194500 +0000" stop="20250923201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250923201500 +0000" stop="20250923204800 +0000" channel="RUV.is">
   <title lang="is">Kveikur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250923205000 +0000" stop="20250923212400 +0000" channel="RUV.is">
   <title lang="is">Hatur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250923212500 +0000" stop="20250923222315 +0000" channel="RUV.is">
   <title lang="is">Morðin í Port Talbot</title>
   <sub-title lang="is">Steeltown Murders</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -2177,15 +1957,12 @@
  <programme start="20250923222500 +0000" stop="20250924000111 +0000" channel="RUV.is">
   <title lang="is">Tískan endurhugsuð</title>
   <sub-title lang="is">Fashion Reimagined</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924000000 +0000" stop="20250924000010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924130000 +0000" stop="20250924132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250924133000 +0000" stop="20250924133825 +0000" channel="RUV.is">
@@ -2196,7 +1973,6 @@
  </programme>
  <programme start="20250924134000 +0000" stop="20250924140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924140500 +0000" stop="20250924150212 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Akranes - Reykjanesbær</title>
@@ -2215,7 +1991,6 @@
  <programme start="20250924155500 +0000" stop="20250924163810 +0000" channel="RUV.is">
   <title lang="is">Pricebræður þræða Norðurlöndin - Finnland - seinni hluti</title>
   <sub-title lang="is">Spise med Price: Nordisk Odyssé</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
  </programme>
  <programme start="20250924164000 +0000" stop="20250924172644 +0000" channel="RUV.is">
@@ -2225,14 +2000,12 @@
  </programme>
  <programme start="20250924173000 +0000" stop="20250924182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
  <programme start="20250924173100 +0000" stop="20250924174213 +0000" channel="RUV.is">
   <title lang="is">Monsurnar II</title>
   <sub-title lang="is">Snælduóða safavélin</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924174200 +0000" stop="20250924174909 +0000" channel="RUV.is">
   <title lang="is">Ævintýri Tulipop</title>
@@ -2250,7 +2023,6 @@
  </programme>
  <programme start="20250924180600 +0000" stop="20250924181100 +0000" channel="RUV.is">
   <title lang="is">Svaðilfarir Marra</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924181100 +0000" stop="20250924181800 +0000" channel="RUV.is">
   <title lang="is">Fjölskyldufár</title>
@@ -2268,7 +2040,6 @@
  </programme>
  <programme start="20250924182000 +0000" stop="20250924182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924182500 +0000" stop="20250924184740 +0000" channel="RUV.is">
   <title lang="is">Fílalag - 3. Fingur - Írafár</title>
@@ -2283,56 +2054,45 @@
  </programme>
  <programme start="20250924190000 +0000" stop="20250924192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250924193000 +0000" stop="20250924193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250924193500 +0000" stop="20250924194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250924194500 +0000" stop="20250924201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924201500 +0000" stop="20250924205011 +0000" channel="RUV.is">
   <title lang="is">Með okkar augum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924205000 +0000" stop="20250924213500 +0000" channel="RUV.is">
   <title lang="is">Kiljan</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924214000 +0000" stop="20250924222450 +0000" channel="RUV.is">
   <title lang="is">Ótryggð</title>
   <sub-title lang="is">Trolösa</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924222500 +0000" stop="20250924231718 +0000" channel="RUV.is">
   <title lang="is">Stríð á norðurslóðum II</title>
   <sub-title lang="is">Untold Arctic Wars II</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250924232000 +0000" stop="20250925000240 +0000" channel="RUV.is">
   <title lang="is">Ísalög</title>
   <sub-title lang="is">Tunn is</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/8gq57g-9sg3jg.jpg" />
  </programme>
  <programme start="20250925000500 +0000" stop="20250925000510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250925130000 +0000" stop="20250925132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250925133000 +0000" stop="20250925134018 +0000" channel="RUV.is">
@@ -2343,7 +2103,6 @@
  </programme>
  <programme start="20250925134000 +0000" stop="20250925140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250925140500 +0000" stop="20250925150508 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Borgarbyggð - Seltjarnarnes</title>
@@ -2395,70 +2154,58 @@
  <programme start="20250925180700 +0000" stop="20250925180934 +0000" channel="RUV.is">
   <title lang="is">Jógastund - Þríhyrningur og tré</title>
   <sub-title lang="is">Þríhyrningur og tré</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/96thui-5l6qg0.jpg" />
  </programme>
  <programme start="20250925181000 +0000" stop="20250925181711 +0000" channel="RUV.is">
   <title lang="is">Jasmín &amp; Jómbi - Ósýnilegu hljóðfærin</title>
   <sub-title lang="is">Jasmine &amp; Jómbi</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a2p945-j7jin0.jpg" />
  </programme>
  <programme start="20250925181800 +0000" stop="20250925181947 +0000" channel="RUV.is">
   <title lang="is">Krakkalist - dans - Kári, Logi og Máni dansa breikdans</title>
   <sub-title lang="is">Kári, Logi og Máni dansa breikdans</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/7r5d9i-dm81h0.jpg" />
  </programme>
  <programme start="20250925182000 +0000" stop="20250925182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250925182500 +0000" stop="20250925185341 +0000" channel="RUV.is">
   <title lang="is">Kúpull 16 - Villtir hestar</title>
   <sub-title lang="is">Kuppel 16</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/anvcag-l2oe08.jpg" />
  </programme>
  <programme start="20250925190000 +0000" stop="20250925192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250925193000 +0000" stop="20250925193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250925193500 +0000" stop="20250925194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250925194500 +0000" stop="20250925201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250925201500 +0000" stop="20250925205752 +0000" channel="RUV.is">
   <title lang="is">Uppskriftabókin</title>
   <sub-title lang="is">Lifrapylsa, gerjað korn og kasjúhnetukrem</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250925210000 +0000" stop="20250925215823 +0000" channel="RUV.is">
   <title lang="is">Draumahúsið</title>
   <sub-title lang="is">Husdrömmar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
  </programme>
  <programme start="20250925220000 +0000" stop="20250925223243 +0000" channel="RUV.is">
   <title lang="is">Úr viðjum</title>
   <sub-title lang="is">Flus</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>16</value>
   </rating>
@@ -2466,7 +2213,6 @@
  <programme start="20250925223500 +0000" stop="20250925231000 +0000" channel="RUV.is">
   <title lang="is">Þau sem ekki fóru</title>
   <sub-title lang="is">Those Who Stayed</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -2480,11 +2226,9 @@
  </programme>
  <programme start="20250926000000 +0000" stop="20250926000010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250926130000 +0000" stop="20250926132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250926133000 +0000" stop="20250926133942 +0000" channel="RUV.is">
@@ -2495,7 +2239,6 @@
  </programme>
  <programme start="20250926134000 +0000" stop="20250926140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250926140500 +0000" stop="20250926150924 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Fjarðabyggð - Grindavíkurbær</title>
@@ -2552,7 +2295,6 @@
  <programme start="20250926181700 +0000" stop="20250926182536 +0000" channel="RUV.is">
   <title lang="is">Heimilisfræði I - Sushi - Japan</title>
   <sub-title lang="is">Sushi - Japan</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a4rq0j-1kpv38.jpg" />
  </programme>
@@ -2565,18 +2307,15 @@
  </programme>
  <programme start="20250926190000 +0000" stop="20250926192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250926193000 +0000" stop="20250926193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250926193500 +0000" stop="20250926194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250926194500 +0000" stop="20250926200653 +0000" channel="RUV.is">
@@ -2586,12 +2325,10 @@
  </programme>
  <programme start="20250926201500 +0000" stop="20250926211000 +0000" channel="RUV.is">
   <title lang="is">Vikan með Gísla Marteini</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250926211500 +0000" stop="20250926215846 +0000" channel="RUV.is">
   <title lang="is">Séra Brown</title>
   <sub-title lang="is">Father Brown X</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/akoha0-at1veg.jpg" />
  </programme>
@@ -2606,13 +2343,11 @@
  <programme start="20250926233000 +0000" stop="20250927005417 +0000" channel="RUV.is">
   <title lang="is">Sálgreinir í Túnis</title>
   <sub-title lang="is">Un divan á Tunis</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Kvikmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/acopn0-lte5b0.jpg" />
  </programme>
  <programme start="20250927005500 +0000" stop="20250927005510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927070000 +0000" stop="20250927100000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
@@ -2637,7 +2372,6 @@
  <programme start="20250927071600 +0000" stop="20250927072614 +0000" channel="RUV.is">
   <title lang="is">Háværa ljónið Urri - Vakað fram að háttatíma</title>
   <sub-title lang="is">Raa Raa the Noisy Lion</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a6hgog-tk9bo8.jpg" />
  </programme>
@@ -2648,7 +2382,6 @@
  <programme start="20250927073700 +0000" stop="20250927074224 +0000" channel="RUV.is">
   <title lang="is">Símon</title>
   <sub-title lang="is">Simon</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a47bo9-9nu5m0.jpg" />
  </programme>
@@ -2676,7 +2409,6 @@
  <programme start="20250927081700 +0000" stop="20250927081906 +0000" channel="RUV.is">
   <title lang="is">Ég er fiskur</title>
   <sub-title lang="is">I'm a Fish</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a46eds-bqr1g0.jpg" />
  </programme>
@@ -2698,7 +2430,6 @@
  <programme start="20250927084800 +0000" stop="20250927085503 +0000" channel="RUV.is">
   <title lang="is">Blæja III</title>
   <sub-title lang="is">Bluey</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927085500 +0000" stop="20250927090605 +0000" channel="RUV.is">
   <title lang="is">Skrímslasjúkir snillingar</title>
@@ -2751,29 +2482,24 @@
   <title lang="is">Íslendingar - Fríða Á. Sigurðardóttir</title>
   <sub-title lang="is">Fríða Á. Sigurðardóttir</sub-title>
   <desc lang="is">Fjallað er um Íslendinga sem settu svip sinn á íslenskt samfélag um sína daga með margvíslegum hætti. Þættirnir spegla jafnframt sögu þjóðarinnar og samtíð á ýmsum tímum, menningu, listir, stjórnmál og fleira. Þeir eru byggðir á efni úr safni Rúv á nærfellt hálfrar aldar tímabili. Umsjón og dagskrárgerð: Andrés Indriðason.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/5kg1vg-f1cha0.jpg" />
  </programme>
  <programme start="20250927130000 +0000" stop="20250927132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250927133000 +0000" stop="20250927140400 +0000" channel="RUV.is">
   <title lang="is">Hatur</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927140500 +0000" stop="20250927153203 +0000" channel="RUV.is">
   <title lang="is">Vasulka áhrifin</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/7mmiug-rblr70.jpg" />
  </programme>
  <programme start="20250927153500 +0000" stop="20250927154647 +0000" channel="RUV.is">
   <title lang="is">Pabbasoð - Grænmetislasagna</title>
   <sub-title lang="is">Grænmetislasagna</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927155000 +0000" stop="20250927163742 +0000" channel="RUV.is">
   <title lang="is">Umhverfis jörðina á 80 dögum</title>
@@ -2785,18 +2511,15 @@
  <programme start="20250927164000 +0000" stop="20250927172252 +0000" channel="RUV.is">
   <title lang="is">Uppskriftabókin</title>
   <sub-title lang="is">Lifrapylsa, gerjað korn og kasjúhnetukrem</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927172500 +0000" stop="20250927172831 +0000" channel="RUV.is">
   <title lang="is">Þú sást mig</title>
   <sub-title lang="is">#dusåmeg</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/7vutc0-utrp0.jpg" />
  </programme>
  <programme start="20250927173000 +0000" stop="20250927182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -2840,32 +2563,26 @@
  </programme>
  <programme start="20250927190000 +0000" stop="20250927192000 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250927192500 +0000" stop="20250927193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927193500 +0000" stop="20250927194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250927194500 +0000" stop="20250927205500 +0000" channel="RUV.is">
   <title lang="is">Kappsmál</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927205500 +0000" stop="20250927222703 +0000" channel="RUV.is">
   <title lang="is">Flóttinn yfir landamærin</title>
   <sub-title lang="is">Flukten over grensen</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250927223000 +0000" stop="20250928002608 +0000" channel="RUV.is">
   <title lang="is">Allt upp í loft</title>
   <sub-title lang="is">Hot Fuzz</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>16</value>
   </rating>
@@ -2873,11 +2590,9 @@
  <programme start="20250928002500 +0000" stop="20250928010831 +0000" channel="RUV.is">
   <title lang="is">Shakespeare og Hathaway</title>
   <sub-title lang="is">Shakespeare and Hathaway: Private Investigators</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928011000 +0000" stop="20250928011010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928070000 +0000" stop="20250928100000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
@@ -2924,14 +2639,12 @@
  <programme start="20250928080300 +0000" stop="20250928081419 +0000" channel="RUV.is">
   <title lang="is">Veistu hvað ég elska þig mikið?</title>
   <sub-title lang="is">Guess How Much I love You?</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9v5a5h-99unag.jpg" />
  </programme>
  <programme start="20250928081400 +0000" stop="20250928082044 +0000" channel="RUV.is">
   <title lang="is">Lalli I</title>
   <sub-title lang="is">Teiknaðu hús</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928082100 +0000" stop="20250928083323 +0000" channel="RUV.is">
   <title lang="is">Vinabær Danna tígurs</title>
@@ -2981,29 +2694,24 @@
  </programme>
  <programme start="20250928105500 +0000" stop="20250928120500 +0000" channel="RUV.is">
   <title lang="is">Kappsmál</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928120500 +0000" stop="20250928121952 +0000" channel="RUV.is">
   <title lang="is">Skapalón - Vöruhönnun</title>
   <sub-title lang="is">Vöruhönnun</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9q7r3k-fhgc4o.jpg" />
  </programme>
  <programme start="20250928122500 +0000" stop="20250928125753 +0000" channel="RUV.is">
   <title lang="is">Inndjúpið</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/3uc620-mt6ing.jpg" />
  </programme>
  <programme start="20250928130000 +0000" stop="20250928132000 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250928132000 +0000" stop="20250928135511 +0000" channel="RUV.is">
   <title lang="is">Með okkar augum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928135500 +0000" stop="20250928145326 +0000" channel="RUV.is">
   <title lang="is">Inn í óminnið</title>
@@ -3014,7 +2722,6 @@
  </programme>
  <programme start="20250928145500 +0000" stop="20250928152117 +0000" channel="RUV.is">
   <title lang="is">Sítengd - veröld samfélagsmiðla</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/7lbrok-24s750.jpg" />
  </programme>
@@ -3031,13 +2738,11 @@
  <programme start="20250928164000 +0000" stop="20250928172656 +0000" channel="RUV.is">
   <title lang="is">Dýrin mín stór og smá</title>
   <sub-title lang="is">All Creatures Great and Small IV</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/ai25kg-e2c3g.jpg" />
  </programme>
  <programme start="20250928173000 +0000" stop="20250928182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -3061,21 +2766,18 @@
  </programme>
  <programme start="20250928175100 +0000" stop="20250928181728 +0000" channel="RUV.is">
   <title lang="is">Barnamenningarhátíð heim til þín</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9efi30-m2vsr0.jpg" />
  </programme>
  <programme start="20250928181800 +0000" stop="20250928181942 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV - Tónlist - Salka Sól - Heimskringla</title>
   <sub-title lang="is">Salka Sól - Heimskringla</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9ra0sh-k0mlu0.jpg" />
  </programme>
  <programme start="20250928182000 +0000" stop="20250928182405 +0000" channel="RUV.is">
   <title lang="is">Bækur og staðir 2015 - Rauðisandur</title>
   <sub-title lang="is">Rauðisandur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Menning</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/64dmig-49arno.jpg" />
  </programme>
@@ -3088,31 +2790,25 @@
  </programme>
  <programme start="20250928190000 +0000" stop="20250928192000 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250928192500 +0000" stop="20250928193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928193500 +0000" stop="20250928194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250928194500 +0000" stop="20250928201200 +0000" channel="RUV.is">
   <title lang="is">Landinn</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928201500 +0000" stop="20250928210726 +0000" channel="RUV.is">
   <title lang="is">Riða</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250928211000 +0000" stop="20250928220654 +0000" channel="RUV.is">
   <title lang="is">Ólgandi heimur II</title>
   <sub-title lang="is">World on Fire II</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -3120,7 +2816,6 @@
  <programme start="20250928221000 +0000" stop="20250928230835 +0000" channel="RUV.is">
   <title lang="is">Dægurflugur</title>
   <sub-title lang="is">Mayflies</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -3128,20 +2823,16 @@
  <programme start="20250928231000 +0000" stop="20250929003006 +0000" channel="RUV.is">
   <title lang="is">Veröld Twylu Tharp</title>
   <sub-title lang="is">Twyla Moves</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250929003000 +0000" stop="20250929003010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250929130000 +0000" stop="20250929132000 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250929132000 +0000" stop="20250929132958 +0000" channel="RUV.is">
   <title lang="is">Heimaleikfimi</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fræðsla</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/91pvig-3p3hig.jpg" />
  </programme>
@@ -3187,7 +2878,6 @@
  </programme>
  <programme start="20250929173000 +0000" stop="20250929182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -3205,7 +2895,6 @@
  <programme start="20250929174900 +0000" stop="20250929175400 +0000" channel="RUV.is">
   <title lang="is">Molang V</title>
   <sub-title lang="is">Molang V</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250929175400 +0000" stop="20250929175514 +0000" channel="RUV.is">
   <title lang="is">Jasmín &amp; Jómbi - Tónverksmiðjan I</title>
@@ -3230,7 +2919,6 @@
  </programme>
  <programme start="20250929182000 +0000" stop="20250929182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250929182500 +0000" stop="20250929185200 +0000" channel="RUV.is">
   <title lang="is">Náttúran mín - Dalatangi</title>
@@ -3241,32 +2929,26 @@
  </programme>
  <programme start="20250929190000 +0000" stop="20250929192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250929193000 +0000" stop="20250929193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250929193500 +0000" stop="20250929194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250929194500 +0000" stop="20250929201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250929201500 +0000" stop="20250929210000 +0000" channel="RUV.is">
   <title lang="is">Silfrið</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250929210500 +0000" stop="20250929214638 +0000" channel="RUV.is">
   <title lang="is">Nýtt líf</title>
   <sub-title lang="is">Push</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -3274,23 +2956,19 @@
  <programme start="20250929215000 +0000" stop="20250929232532 +0000" channel="RUV.is">
   <title lang="is">Uppgangur nýbylgjunnar</title>
   <sub-title lang="is">New Wave: Dare to Be Different</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250929232500 +0000" stop="20250930001035 +0000" channel="RUV.is">
   <title lang="is">Vertu sæl, Marianne</title>
   <sub-title lang="is">So Long Marianne</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
  </programme>
  <programme start="20250930001000 +0000" stop="20250930001010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250930130000 +0000" stop="20250930132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250930133000 +0000" stop="20250930133851 +0000" channel="RUV.is">
@@ -3301,7 +2979,6 @@
  </programme>
  <programme start="20250930134000 +0000" stop="20250930140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250930140500 +0000" stop="20250930145216 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Sandgerði - Mosfellsbær</title>
@@ -3312,12 +2989,10 @@
  </programme>
  <programme start="20250930152000 +0000" stop="20250930160500 +0000" channel="RUV.is">
   <title lang="is">Silfrið</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250930160500 +0000" stop="20250930162603 +0000" channel="RUV.is">
   <title lang="is">Spaugstofan</title>
   <desc lang="is">Karl Ágúst, Pálmi, Sigurður og Örn bregða á leik sprellfjörugir að vanda í vinsælasta sjónvarpsþætti á Íslandi. Stjórn upptöku: Björn Emilsson. e.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Gullkistan</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/12ltig-cefdso.jpg" />
  </programme>
@@ -3330,13 +3005,11 @@
  <programme start="20250930171000 +0000" stop="20250930172857 +0000" channel="RUV.is">
   <title lang="is">Á móti straumnum - Meryem er alein</title>
   <sub-title lang="is">Tværs: Meryem alene i verden</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9vnts2-fbdjn8.jpg" />
  </programme>
  <programme start="20250930173000 +0000" stop="20250930182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
@@ -3379,7 +3052,6 @@
  </programme>
  <programme start="20250930182000 +0000" stop="20250930182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250930182500 +0000" stop="20250930182858 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins - Biggi Hilmars - Hurt</title>
@@ -3397,53 +3069,43 @@
  </programme>
  <programme start="20250930190000 +0000" stop="20250930192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250930193000 +0000" stop="20250930193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20250930193500 +0000" stop="20250930194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20250930194500 +0000" stop="20250930201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250930201500 +0000" stop="20250930205500 +0000" channel="RUV.is">
   <title lang="is">Ljóðaland</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20250930210000 +0000" stop="20250930215821 +0000" channel="RUV.is">
   <title lang="is">Morðin í Port Talbot</title>
   <sub-title lang="is">Steeltown Murders</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
  </programme>
  <programme start="20250930220000 +0000" stop="20250930225133 +0000" channel="RUV.is">
   <title lang="is">Jarðsetning</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
  </programme>
  <programme start="20250930225000 +0000" stop="20251001002802 +0000" channel="RUV.is">
   <title lang="is">The Go Go's - Stelpupönk</title>
   <sub-title lang="is">The Go-Go's</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001003000 +0000" stop="20251001003010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001130000 +0000" stop="20251001132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251001133000 +0000" stop="20251001134010 +0000" channel="RUV.is">
@@ -3454,25 +3116,21 @@
  </programme>
  <programme start="20251001134000 +0000" stop="20251001140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001140500 +0000" stop="20251001151445 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Reykjavík - Seltjarnarnes</title>
   <sub-title lang="is">Reykjavík - Seltjarnarnes</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/53tv30-2tg04g.jpg" />
  </programme>
  <programme start="20251001151500 +0000" stop="20251001153758 +0000" channel="RUV.is">
   <title lang="is">Price og Blomsterberg</title>
   <sub-title lang="is">Price og Blomsterberg</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/4oeh90-9p6qf0.jpg" />
  </programme>
  <programme start="20251001154000 +0000" stop="20251001163943 +0000" channel="RUV.is">
   <title lang="is">Tíu fingur</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Menning</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/158a9g-f0mq00.jpg" />
  </programme>
@@ -3483,14 +3141,12 @@
  </programme>
  <programme start="20251001173000 +0000" stop="20251001182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a7m4kg-2bjojo.jpg" />
  </programme>
  <programme start="20251001173100 +0000" stop="20251001174213 +0000" channel="RUV.is">
   <title lang="is">Monsurnar II</title>
   <sub-title lang="is">Svo sætir kristlar</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001174200 +0000" stop="20251001174906 +0000" channel="RUV.is">
   <title lang="is">Ævintýri Tulipop</title>
@@ -3500,7 +3156,6 @@
  <programme start="20251001174900 +0000" stop="20251001175249 +0000" channel="RUV.is">
   <title lang="is">Skrímslin</title>
   <sub-title lang="is">Fiffi Fýluskrímsli</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001175300 +0000" stop="20251001180538 +0000" channel="RUV.is">
   <title lang="is">Konráð og Baldur</title>
@@ -3524,7 +3179,6 @@
  </programme>
  <programme start="20251001182000 +0000" stop="20251001182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001182500 +0000" stop="20251001182823 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins - BSÍ - My Knee Against Kyriarchy</title>
@@ -3536,7 +3190,6 @@
  <programme start="20251001183000 +0000" stop="20251001184957 +0000" channel="RUV.is">
   <title lang="is">Fílalag - 4. Verkamaður - Bergþóra Árnadóttir</title>
   <sub-title lang="is">4. Verkamaður - Bergþóra Árnadóttir</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9ndgfk-7ls1b0.jpg" />
  </programme>
@@ -3546,56 +3199,45 @@
  </programme>
  <programme start="20251001190000 +0000" stop="20251001192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251001193000 +0000" stop="20251001193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20251001193500 +0000" stop="20251001194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251001194500 +0000" stop="20251001201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001201500 +0000" stop="20251001204800 +0000" channel="RUV.is">
   <title lang="is">Með okkar augum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001205000 +0000" stop="20251001213500 +0000" channel="RUV.is">
   <title lang="is">Kiljan</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001214000 +0000" stop="20251001222941 +0000" channel="RUV.is">
   <title lang="is">Ótryggð</title>
   <sub-title lang="is">Trolösa</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001223000 +0000" stop="20251001232148 +0000" channel="RUV.is">
   <title lang="is">Stríð á norðurslóðum II</title>
   <sub-title lang="is">Untold Arctic Wars II</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251001232500 +0000" stop="20251002000807 +0000" channel="RUV.is">
   <title lang="is">Ísalög</title>
   <sub-title lang="is">Tunn is</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/8gq57g-9sg3jg.jpg" />
  </programme>
  <programme start="20251002001000 +0000" stop="20251002001010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251002130000 +0000" stop="20251002132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251002133000 +0000" stop="20251002133900 +0000" channel="RUV.is">
@@ -3606,7 +3248,6 @@
  </programme>
  <programme start="20251002134000 +0000" stop="20251002140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251002140500 +0000" stop="20251002151609 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Kópavogur - Fljótsdalshérað</title>
@@ -3631,12 +3272,10 @@
  </programme>
  <programme start="20251002164000 +0000" stop="20251002171300 +0000" channel="RUV.is">
   <title lang="is">Með okkar augum</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251002171500 +0000" stop="20251002172627 +0000" channel="RUV.is">
   <title lang="is">Villtir leikfélagar</title>
   <sub-title lang="is">Ville videoer</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Skemmtun</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9hie57-eq2970.jpg" />
  </programme>
@@ -3660,27 +3299,23 @@
  <programme start="20251002180800 +0000" stop="20251002180900 +0000" channel="RUV.is">
   <title lang="is">Jógastund - Froskur og hundur</title>
   <sub-title lang="is">Froskur og hundur</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/96thuj-75bj60.jpg" />
  </programme>
  <programme start="20251002180900 +0000" stop="20251002181608 +0000" channel="RUV.is">
   <title lang="is">Jasmín &amp; Jómbi - Ég fann taktinn</title>
   <sub-title lang="is">Jasmine &amp; Jómbi</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/a2p946-4e918g.jpg" />
  </programme>
  <programme start="20251002181600 +0000" stop="20251002181928 +0000" channel="RUV.is">
   <title lang="is">Eldhugar - Annette Kellermann - hafmeyja</title>
   <sub-title lang="is">Brazen</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Börn</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/9c1e31-35a04g.jpg" />
  </programme>
  <programme start="20251002182000 +0000" stop="20251002182500 +0000" channel="RUV.is">
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251002182500 +0000" stop="20251002182847 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins - Jóhanna Guðrún - Tvær stjörnur</title>
@@ -3698,33 +3333,27 @@
  </programme>
  <programme start="20251002190000 +0000" stop="20251002192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251002193000 +0000" stop="20251002193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20251002193500 +0000" stop="20251002194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251002194500 +0000" stop="20251002201000 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251002201500 +0000" stop="20251002205900 +0000" channel="RUV.is">
   <title lang="is">Uppskriftabókin</title>
   <sub-title lang="is">Pylsa, Heiðmörk og sveppir</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251002210500 +0000" stop="20251002213917 +0000" channel="RUV.is">
   <title lang="is">Úr viðjum</title>
   <sub-title lang="is">Flus</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>16</value>
   </rating>
@@ -3732,7 +3361,6 @@
  <programme start="20251002214000 +0000" stop="20251002221500 +0000" channel="RUV.is">
   <title lang="is">Þau sem ekki fóru</title>
   <sub-title lang="is">Those Who Stayed</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <rating>
    <value>12</value>
   </rating>
@@ -3747,7 +3375,6 @@
  <programme start="20251002231500 +0000" stop="20251002234346 +0000" channel="RUV.is">
   <title lang="is">Misrétti</title>
   <sub-title lang="is">Berövad</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarþættir</category>
   <rating>
    <value>12</value>
@@ -3756,11 +3383,9 @@
  </programme>
  <programme start="20251002234500 +0000" stop="20251002234510 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251003130000 +0000" stop="20251003132700 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251003133000 +0000" stop="20251003133935 +0000" channel="RUV.is">
@@ -3771,7 +3396,6 @@
  </programme>
  <programme start="20251003134000 +0000" stop="20251003140500 +0000" channel="RUV.is">
   <title lang="is">Kastljós</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251003140500 +0000" stop="20251003151238 +0000" channel="RUV.is">
   <title lang="is">Útsvar 2013-2014 - Akranes - Reykjanesbær</title>
@@ -3848,18 +3472,15 @@
  </programme>
  <programme start="20251003190000 +0000" stop="20251003192700 +0000" channel="RUV.is">
   <title lang="is">Fréttir</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251003193000 +0000" stop="20251003193500 +0000" channel="RUV.is">
   <title lang="is">Íþróttir</title>
   <desc lang="is">Íþróttafréttir.</desc>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Íþróttir</category>
  </programme>
  <programme start="20251003193500 +0000" stop="20251003194000 +0000" channel="RUV.is">
   <title lang="is">Veður</title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20251003194500 +0000" stop="20251003200514 +0000" channel="RUV.is">
@@ -3869,12 +3490,10 @@
  </programme>
  <programme start="20251003201000 +0000" stop="20251003210500 +0000" channel="RUV.is">
   <title lang="is">Vikan með Gísla Marteini</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
  <programme start="20251003211000 +0000" stop="20251003215432 +0000" channel="RUV.is">
   <title lang="is">Séra Brown</title>
   <sub-title lang="is">Father Brown X</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Leiknir þættir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/akoha0-at1veg.jpg" />
  </programme>
@@ -3889,13 +3508,10 @@
  <programme start="20251003232500 +0000" stop="20251004010156 +0000" channel="RUV.is">
   <title lang="is">Ennþá Alice</title>
   <sub-title lang="is">Still Alice</sub-title>
-  <episode-num system="onscreen">1/1</episode-num>
   <category lang="is">Heimildarmyndir</category>
   <icon src="https://d38kdhuogyllre.cloudfront.net/hd_posters/adqvf0-kkols8.jpg" />
  </programme>
  <programme start="20251004010000 +0000" stop="20251004010010 +0000" channel="RUV.is">
   <title lang="is">Dagskrárlok</title>
-  <episode-num system="onscreen">1/1</episode-num>
  </programme>
 </tv>
-
