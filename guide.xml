@@ -44,372 +44,6 @@
   <display-name lang="is">Sjónvarp Símans</display-name>
   <display-name lang="is">IS: Sjonvarp Simans HD</display-name>
  </channel>
- <programme start="20261010070000 +0000" stop="20261010100000 +0000" channel="RUV.is">
-  <title lang="is">KrakkaRÚV</title>
-  <desc lang="is">http://dagskra.ruv.is/nanar/34361/</desc>
-  <episode-num system="onscreen">165/200</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010070100 +0000" stop="20261010070421 +0000" channel="RUV.is">
-  <title lang="is">Bursti</title>
-  <sub-title lang="is">Vegasalt með Rut</sub-title>
-  <desc lang="is">Bursti er forvitinn og þrjóskur broddgöltur sem býr þar sem litlir hlutir eru stórir.</desc>
-  <episode-num system="onscreen">17/49</episode-num>
- </programme>
- <programme start="20261010070400 +0000" stop="20261010071129 +0000" channel="RUV.is">
-  <title lang="is">Jasmín &amp; Jómbi</title>
-  <sub-title lang="is">Jasmine &amp; Jómbi</sub-title>
-  <desc lang="is">Jasmín og Jómbi eru góðir vinir sem elska tónlist. Saman njóta þau tónanna sem óma um Hljómbæ.
-http://dagskra.ruv.is/nanar/33849/</desc>
-  <episode-num system="onscreen">17/26</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010071100 +0000" stop="20261010071804 +0000" channel="RUV.is">
-  <title lang="is">Lundaklettur</title>
-  <sub-title lang="is">Puffin Rock</sub-title>
-  <desc lang="is">Litlu lundasystkinin Úna og Bubbi búa á eyjunni Lundakletti. Þau lenda sífellt í nýjum ævintýrum með vinum sínum.</desc>
-  <episode-num system="onscreen">21/39</episode-num>
- </programme>
- <programme start="20261010071800 +0000" stop="20261010072505 +0000" channel="RUV.is">
-  <title lang="is">Litla Ló</title>
-  <sub-title lang="is">Töfrakartan</sub-title>
-  <desc lang="is">Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.</desc>
-  <episode-num system="onscreen">11/26</episode-num>
- </programme>
- <programme start="20261010071800 +0000" stop="20261010072505 +0000" channel="RUV.is">
-  <title lang="is">Litla Ló - Töfrakartan</title>
-  <sub-title lang="is">Töfrakartan</sub-title>
-  <episode-num system="onscreen">12/26</episode-num>
- </programme>
- <programme start="20261010072500 +0000" stop="20261010073000 +0000" channel="RUV.is">
-  <title lang="is">Molang VI</title>
-  <sub-title lang="is">Molang</sub-title>
-  <desc lang="is">Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.</desc>
-  <episode-num system="onscreen">46/52</episode-num>
- </programme>
- <programme start="20261010073000 +0000" stop="20261010073655 +0000" channel="RUV.is">
-  <title lang="is">Lalli I</title>
-  <sub-title lang="is">Teiknaðu lest</sub-title>
-  <desc lang="is">Lalli færir ykkur allan heiminn þegar hann grípur litina sína. Hann er svo flinkur að teikna hann Lalli.</desc>
-  <episode-num system="onscreen">39/39</episode-num>
- </programme>
- <programme start="20261010073700 +0000" stop="20261010074727 +0000" channel="RUV.is">
-  <title lang="is">Andri og Edda II</title>
-  <sub-title lang="is">Andri og Edda rannsaka málið</sub-title>
-  <desc lang="is">Andri og Edda eru á sama leikskóla og eru bestu vinir. Bæði eiga þau tuskudýr sem lifna við og eiga samleið líkt og eigendur þeirra.</desc>
-  <episode-num system="onscreen">5/10</episode-num>
- </programme>
- <programme start="20261010074800 +0000" stop="20261010075158 +0000" channel="RUV.is">
-  <title lang="is">Hundurinn Ibbi</title>
-  <desc lang="is">Ibbi er sjálfsöruggur, forvitinn og hefur ótrúlegan áhuga flest öllu því sem fyrirfinnst í daglegu lífi. Hann er mjög hjálpsamur og hleypur iðulega undir bagga með öllum þeim sem þurfa á aðstoð að halda.</desc>
-  <episode-num system="onscreen">20/26</episode-num>
- </programme>
- <programme start="20261010075200 +0000" stop="20261010080305 +0000" channel="RUV.is">
-  <title lang="is">Jójó &amp; amma</title>
-  <sub-title lang="is">Nú höldum við flóamarkað</sub-title>
-  <desc lang="is">Jojo er alveg að verða fimm ára. Hún er svo heppin að búa í nágrenni við ömmu sína. Saman bralla þær ýmislegt.</desc>
-  <episode-num system="onscreen">42/44</episode-num>
- </programme>
- <programme start="20261010080300 +0000" stop="20261010080548 +0000" channel="RUV.is">
-  <title lang="is">Ofurdýr í náttúrunni</title>
-  <sub-title lang="is">Jesúeðlan - Meistari flóttalista</sub-title>
-  <desc lang="is">Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
-  <episode-num system="onscreen">19/30</episode-num>
- </programme>
- <programme start="20261010080600 +0000" stop="20261010081404 +0000" channel="RUV.is">
-  <title lang="is">Sögur snjómannsins</title>
-  <desc lang="is">Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
-  <episode-num system="onscreen">38/50</episode-num>
- </programme>
- <programme start="20261010081400 +0000" stop="20261010083616 +0000" channel="RUV.is">
-  <title lang="is">Hvolpasveitin IX</title>
-  <sub-title lang="is">Paw Patrol</sub-title>
-  <desc lang="is">Róbert og hressu hvolparnir í Hvolpasveitinni eru komin aftur og takast á við ný verkefni og nýja þorpara eins og þeim einum er lagið.</desc>
-  <episode-num system="onscreen">24/26</episode-num>
- </programme>
- <programme start="20261010083600 +0000" stop="20261010084740 +0000" channel="RUV.is">
-  <title lang="is">Töfratú</title>
-  <sub-title lang="is">Frosin eigingirni</sub-title>
-  <desc lang="is">Töfratú er fantasíuland dásamlegra álfa og hafmeyja þar sem raunveruleg viðfangsefni á borð við systkinaerjur, sanngirni og sjálfstraust eru könnuð nánar.</desc>
-  <episode-num system="onscreen">48/52</episode-num>
- </programme>
- <programme start="20261010084800 +0000" stop="20261010085930 +0000" channel="RUV.is">
-  <title lang="is">Strumparnir II</title>
-  <sub-title lang="is">Svalistrumpur</sub-title>
-  <desc lang="is">Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.
-http://dagskra.ruv.is/nanar/33817/</desc>
-  <episode-num system="onscreen">40/52</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010085900 +0000" stop="20261010090408 +0000" channel="RUV.is">
-  <title lang="is">Rán - Rún</title>
-  <sub-title lang="is">Tish Tash</sub-title>
-  <desc lang="is">Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.
-http://dagskra.ruv.is/nanar/35934/</desc>
-  <episode-num system="onscreen">17/52</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010090400 +0000" stop="20261010091504 +0000" channel="RUV.is">
-  <title lang="is">Skrímslasjúkir snillingar</title>
-  <sub-title lang="is">Múmían</sub-title>
-  <desc lang="is">Þegar afi ykkar er búin að þjálfa ykkur sem skrímslaveiðimenn, þá er ekkert annað í stöðunni en að veiða öll skrímslin! Það er þó eitt vandamál, krakkarnir elska skrímslin og vilja helst bara bjarga þeim. Það geta þau gert á meðan afi blundar, eða hvað?
-http://dagskra.ruv.is/nanar/35851/</desc>
-  <episode-num system="onscreen">40/52</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010091500 +0000" stop="20261010092609 +0000" channel="RUV.is">
-  <title lang="is">Dvergurinn Hár</title>
-  <sub-title lang="is">9. Ískonungurinn</sub-title>
-  <desc lang="is">Drekar, jötnar og norræn goðafræði – hvað gæti mögulega farið úrskeiðis? Komdu með þegar dvergurinn Hár og vinir hans leggja af stað í hættulegan leiðangur um heimana níu til þess að finna stolnu hálsfesti Freyju!</desc>
-  <episode-num system="onscreen">9/26</episode-num>
- </programme>
- <programme start="20261010092600 +0000" stop="20261010093300 +0000" channel="RUV.is">
-  <title lang="is">Fjölskyldufár</title>
-  <sub-title lang="is">Flug-sýningin</sub-title>
-  <desc lang="is">Gamansamir þættir um strútapabbann Edda og áttburana hans. Eddi strútapabbi er fullkomnunarsinni og reynir að gera allt sem í hans valdi stendur til að vernda áttburana sína. Hann á fullt í fangi með það, enda eru ævintýrin hjá stórri fjölskyldu mörg og ímyndunaraflið mikið.
-Eddi strútapabbi er dauðhræddur um að sonur sinn sem heldur flug-sýningu fyrir fjölskyldu sína hrapi!
-http://dagskra.ruv.is/nanar/35919/</desc>
-  <episode-num system="onscreen">7/52</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010093300 +0000" stop="20261010093629 +0000" channel="RUV.is">
-  <title lang="is">Eldhugar</title>
-  <sub-title lang="is">Brazen</sub-title>
-  <desc lang="is">Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
-  <episode-num system="onscreen">7/30</episode-num>
- </programme>
- <programme start="20261010093700 +0000" stop="20261010095820 +0000" channel="RUV.is">
-  <title lang="is">Risaeðlu-Dana III</title>
-  <desc lang="is">Dana er 9 ára stelpa sem elskar risaeðlur. Líf hennar breytist til frambúðar þegar hún fær gefins handbók um risaeðlur, sem kennir henni ekki aðeins nýja hluti um dýrin, heldur gefur henni ofurkrafta sem gera henni kleift að sjá fyrir sér risaeðlur í raunveruleikanum.</desc>
-  <episode-num system="onscreen">6/13</episode-num>
- </programme>
- <programme start="20261010095800 +0000" stop="20261010095917 +0000" channel="RUV.is">
-  <title lang="is">Jasmín &amp; Jómbi - Tónverksmiðjan II</title>
-  <sub-title lang="is">Jasmine &amp; Jambo</sub-title>
-  <desc lang="is">Jasmín og Jómbi eru góðir vinir sem elska tónlist og njóta tónanna sem óma um Hljómbæ.</desc>
-  <episode-num system="onscreen">20/26</episode-num>
- </programme>
- <programme start="20261010095900 +0000" stop="20261010100014 +0000" channel="RUV.is">
-  <title lang="is">Hundalíf</title>
-  <desc lang="is">Stuttir grínþættir um hund sem hegðar sér eins og maður.
-http://dagskra.ruv.is/nanar/22268/</desc>
-  <episode-num system="onscreen">2/7</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010100000 +0000" stop="20261010102624 +0000" channel="RUV.is">
-  <title lang="is">Ævar vísindamaður III</title>
-  <sub-title lang="is">Segulskór</sub-title>
-  <desc lang="is">Þáttaröð frá 2015 úr smiðju Ævars vísindamanns. Í þessari þáttaröð leggur Ævar allt undir. Laufblásara-knúin svifbretti, segulskór og skordýrahamborgari eru bara nokkrar af þeim æsispennandi tilraunum sem koma fyrir. Dagskrárgerð: Ævar Þór Benediktsson og Eggert Gunnarsson
-http://dagskra.ruv.is/nanar/21245/</desc>
-  <episode-num system="onscreen">2/9</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010100000 +0000" stop="20261010102624 +0000" channel="RUV.is">
-  <title lang="is">Ævar vísindamaður III - Segulskór</title>
-  <sub-title lang="is">Segulskór</sub-title>
-  <episode-num system="onscreen">2/9</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010103000 +0000" stop="20261010105717 +0000" channel="RUV.is">
-  <title lang="is">Lífsstíll og heilsa</title>
-  <sub-title lang="is">Streita, svefninn, geðrækt</sub-title>
-  <desc lang="is">Íslensk fræðslumynd í tveimur hlutum um áhrif lífsstíls á heilsufar manna, en á undanförnum árum hefur áherslan á heilbrigt líferni vegið æ þyngra í baráttunni við ýmsa sjúkdóma. Dagskrárgerð: Páll Kristinn Pálsson og Aðalgeir Gestur Vignisson.
-http://dagskra.ruv.is/nanar/26132/</desc>
-  <episode-num system="onscreen">2/2</episode-num>
-  <category lang="is">Fræðsla</category>
- </programme>
- <programme start="20261010103000 +0000" stop="20261010105717 +0000" channel="RUV.is">
-  <title lang="is">Lífsstíll og heilsa - Streita, svefninn, geðrækt</title>
-  <sub-title lang="is">Streita, svefninn, geðrækt</sub-title>
-  <category lang="is">Fræðsla</category>
- </programme>
- <programme start="20261010110000 +0000" stop="20261010115945 +0000" channel="RUV.is">
-  <title lang="is">Vikan með Gísla Marteini</title>
-  <sub-title lang="is">9. október 2026</sub-title>
-  <desc lang="is">Gísli Marteinn tekur á móti góðum gestum á föstudagskvöldum í vetur og fer með þeim yfir helstu atburði vikunnar í stjórnmálum, menningu og mannlífi. Persónur og leikendur koma í spjall og brakandi fersk tónlistaratriði koma landsmönnum í helgarstemninguna. Stjórn útsendingar: Ragnar Eyþórsson.
-Gestir þáttarins eru Ari Eldjárn, Páll Magnússon og Vera Illugadóttir.
-Berglind Festival færir landsmönnum fréttir Vikunnar og Salka Gústafs stendur fyrir söfnun.
-Saxafónsveit Tuma Torfasonar flytur nokkur af helstu stefjum sjónvarpssögunnar. 
-Tatjana frumflytur lagið Loforð í lok þáttar.</desc>
-  <episode-num system="onscreen">3/29</episode-num>
- </programme>
- <programme start="20261010120500 +0000" stop="20261010123532 +0000" channel="RUV.is">
-  <title lang="is">Mannflóran - Menningarnám eða menningarást?</title>
-  <sub-title lang="is">Menningarnám eða menningarást?</sub-title>
-  <episode-num system="onscreen">4/5</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261010120500 +0000" stop="20261010123532 +0000" channel="RUV.is">
-  <title lang="is">Mannflóran</title>
-  <sub-title lang="is">Menningarnám eða menningarást?</sub-title>
-  <desc lang="is">Heimildarþættir um fjölmenningu í íslensku samfélagi. Mannflóran er fjölbreyttari en nokkru sinni fyrr og þjóðarímyndin breytist með auknum fjölda fólks af erlendum uppruna. Ljósi er varpað á erfiðleikana sem fólk af erlendum uppruna mætir í íslensku samfélagi og fjallað um kosti fjölmenningar. Umsjón: Chanel Björk Sturludóttir.
-Menning er fljótandi og flæðir milli samfélaga og þjóðernishópa daglega. Menningarnám hefur verið í deiglunni á síðustu árum og fólk greinir á um réttmæti hugtaksins í baráttunni gegn rasisma. Í þættinum er leitast við að skýra hugtakið og komast að því hvar línan liggur.
-http://dagskra.ruv.is/nanar/33798/</desc>
-  <episode-num system="onscreen">4/5</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261010123500 +0000" stop="20261010130128 +0000" channel="RUV.is">
-  <title lang="is">Landinn</title>
-  <sub-title lang="is">Landinn 4. október 2026</sub-title>
-  <desc lang="is">Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Hafsteinn Vilhelmsson, Þórdís Claessen og Amanda Guðrún Bjarnadóttir. Dagskrárgerð: Jóhannes Jónsson, Björgvin Kolbeinsson, Benedikt Nikulás Anes Ketilsson, Adelina Antal og Hjalti Stefánsson.
-Í Landanum í kvöld kynnumst við bókasöfnum framtíðar, við hittum uppáhalds sláttumann Patreksfirðinga, við tökum sjálfu með hestum og hittum hnífasmið fyrir Norðan.</desc>
-  <episode-num system="onscreen">2/29</episode-num>
- </programme>
- <programme start="20261010130500 +0000" stop="20261010133227 +0000" channel="RUV.is">
-  <title lang="is">Fréttir (með táknmálstúlkun)</title>
-  <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
-Rannsaka möguleg brot Ölgerðarinnar
-http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">202/365</episode-num>
-  <category lang="is">Fréttaefni</category>
- </programme>
- <programme start="20261010133500 +0000" stop="20261010142358 +0000" channel="RUV.is">
-  <title lang="is">Stormur - 5. Landakot</title>
-  <sub-title lang="is">5. Landakot</sub-title>
-  <episode-num system="onscreen">5/8</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261010133500 +0000" stop="20261010142358 +0000" channel="RUV.is">
-  <title lang="is">Stormur</title>
-  <sub-title lang="is">5. Landakot</sub-title>
-  <desc lang="is">Heimildarþáttaröð um baráttuna við COVID-19 þar sem fylgst er með störfum þeirra sem stjórnuðu aðgerðum í faraldrinum. Í þáttunum er einblínt á mannlega hlið faraldursins og sagt frá sorgum og sigrum í baráttu þjóðarinnar við að hemja útbreiðslu veiru sem setti heimsbyggðina á hliðina. Leikstjóri: Sævar Guðmundsson. Framleiðendur: Sævar Guðmundsson, Jóhannes Kr. Kristjánsson, Anna Karen Kristjánsdóttir og Brynja Gísladóttir.
-Reykvíkingar flykkjast á djammið og smitum hríðfjölgar í kjölfarið. Þríeykið ákveður að loka vínveitingastöðum. Sjúklingar á Landakoti smitast einn af öðrum og dánartölur hækka hratt. Smitaðir einstaklingar eru sendir á hjúkrunarheimili á landsbyggðinni.
-http://dagskra.ruv.is/nanar/31556/</desc>
-  <episode-num system="onscreen">5/8</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261010142500 +0000" stop="20261010152003 +0000" channel="RUV.is">
-  <title lang="is">Jón Múli Árnason</title>
-  <desc lang="is">Jón Múli var heimilisvinur landsmanna um áratuga skeið sem útvarpsþulur, dagskrárgerðarmaður og djassunnandi. Hann var líka þjóðkunnur fyrir lög sín eða söngdansa eins og hann kaus að kalla þau. Í þáttabrotum frá liðnum árum flytur fjöldi listamanna tónlist hans, hann segir frá sjálfum sér og tekur líka lagið. 
-Umsjón og dagskrárgerð: Andrés Indriðason.
-http://dagskra.ruv.is/nanar/14383/</desc>
-  <category lang="is">Menning</category>
- </programme>
- <programme start="20261010152000 +0000" stop="20261010154834 +0000" channel="RUV.is">
-  <title lang="is">Matur með Kiru</title>
-  <sub-title lang="is">Mat med Kira</sub-title>
-  <desc lang="is">Matreiðsluþættir með finnsku matreiðslukonunni Kiru sem töfrar fram ólíka rétti frá San Francisco.
-http://dagskra.ruv.is/nanar/22153/</desc>
-  <episode-num system="onscreen">1/8</episode-num>
-  <category lang="is">Skemmtun</category>
- </programme>
- <programme start="20261010155000 +0000" stop="20261010162817 +0000" channel="RUV.is">
-  <title lang="is">Stríð og friður í Reykjavík</title>
-  <desc lang="is">Íslenskir heimildaþættir frá 2026. Í október 1986 ákváðu Ronald Reagan forseti Bandaríkjanna og Mikhail Gorbatsjev leiðtogi Sovétríkjanna að funda í Reykjavík, öllum að óvörum. Í þáttunum er fjallað um hvernig Íslendingar lögðu allt undir við að halda leiðtogafund risaveldanna með aðeins tólf daga fyrirvara. Hvaða áhrif hafði fundurinn á sálarlíf og sjálfsmynd íslensku þjóðarinnar og hverjar voru afleiðingar hans? Leikstjóri: Árni Þór Jónsson. Framleiðsla: Republik.
-Bandaríkjaforseti og leiðtogi Sovétríkjanna ákveða með örskömmum fyrirvara að funda um afvopnun í Reykjavík. Þegar Íslendingar samþykkja að halda fundinn streyma erlendir ferðamenn til landsins í þúsundavís. Þjóðfélagið fer á hvolf og það skellur á sannkölluð gullgrafarastemning.</desc>
-  <episode-num system="onscreen">1/3</episode-num>
- </programme>
- <programme start="20261010163000 +0000" stop="20261010165550 +0000" channel="RUV.is">
-  <title lang="is">Mótorsport</title>
-  <sub-title lang="is">Bikarmót í torfæru og haustrall</sub-title>
-  <desc lang="is">Þáttur um Íslandsmótin í rallý, torfæru og ýmsu öðru. Dagskrárgerð: Bragi Þórðarson.</desc>
-  <episode-num system="onscreen">9/9</episode-num>
- </programme>
- <programme start="20261010170000 +0000" stop="20261010172735 +0000" channel="RUV.is">
-  <title lang="is">Ævi</title>
-  <sub-title lang="is">Fullorðinsár</sub-title>
-  <desc lang="is">Íslensk þáttaröð sem fjallar um ævina frá upphafi til enda. Einblínt er á eitt æviskeið í einu og skoðað hvað hver kynslóð er að fást við. Sagðar eru sögur af fólki á öllum aldri og tekist á við stórar spurningar. Dagskrárgerð: Eiríkur Ingi Böðvarsson og Sigríður Halldórsdóttir.
-Í þessum þætti er fjallað um fullorðinsárin. Þetta er tíminn þar sem maður á að vera allt í öllu; koma sér upp þaki yfir höfuðið, eignast börn (og ala þau upp), standa sig í vinnunni, mæta í ræktina, sinna vinum og fjölskyldu, taka MBA-námið með fram - og ekki fá taugaáfall. Einn, tveir og byrja. Dagskrárgerð: Eiríkur Ingi Böðvarsson og Sigríður Halldórsdóttir.
-http://dagskra.ruv.is/nanar/24097/</desc>
-  <episode-num system="onscreen">4/7</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261010170000 +0000" stop="20261010172735 +0000" channel="RUV.is">
-  <title lang="is">Ævi - Fullorðinsár</title>
-  <sub-title lang="is">Fullorðinsár</sub-title>
-  <episode-num system="onscreen">4/7</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261010173000 +0000" stop="20261010182500 +0000" channel="RUV.is">
-  <title lang="is">KrakkaRÚV</title>
-  <desc lang="is">http://dagskra.ruv.is/nanar/34361/</desc>
-  <episode-num system="onscreen">24/200</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261010173100 +0000" stop="20261010175410 +0000" channel="RUV.is">
-  <title lang="is">Kóngulóarstrákurinn og frábæru vinir hans</title>
-  <sub-title lang="is">Mæðradags martröð</sub-title>
-  <desc lang="is">Kóngulóarstrákurinn og frábæru vinir hans berjast gegn illmennum á götum New York borgar.</desc>
-  <episode-num system="onscreen">6/25</episode-num>
- </programme>
- <programme start="20261010175400 +0000" stop="20261010180113 +0000" channel="RUV.is">
-  <title lang="is">Kraftaflan</title>
-  <sub-title lang="is">Þorparabeltið</sub-title>
-  <desc lang="is">Kraftaflan, stórkostlegasta kartöfluofurhetja heims, tekst á við Slæmu Ertuna á göngum matvörubúðarinnar.</desc>
-  <episode-num system="onscreen">6/52</episode-num>
- </programme>
- <programme start="20261010180100 +0000" stop="20261010182318 +0000" channel="RUV.is">
-  <title lang="is">Hvolpasveitin VI</title>
-  <sub-title lang="is">Paw Patrol</sub-title>
-  <desc lang="is">Sjötta serían af Hvolpsveitinni þar sem uppáhalds hvolparnir okkar lenda í nýjum ævintýrum og leysa skemmtilegt verkefni.</desc>
-  <episode-num system="onscreen">6/26</episode-num>
- </programme>
- <programme start="20261010182500 +0000" stop="20261010184950 +0000" channel="RUV.is">
-  <title lang="is">Meistarinn</title>
-  <sub-title lang="is">Mästaren</sub-title>
-  <desc lang="is">Hvernig hugsa helstu listamenn og hugsuðir Svíþjóðar og hvaðan sækja þau sér innblástur og hvatningu? Í þessum þáttum er rætt við sænska meistara um sköpunarferlið, ákvarðanatöku og það hvernig mistök geta leitt til nýrra sigra.
-http://dagskra.ruv.is/nanar/31259/</desc>
-  <episode-num system="onscreen">4/8</episode-num>
-  <category lang="is">Fræðsla</category>
- </programme>
- <programme start="20261010182500 +0000" stop="20261010184950 +0000" channel="RUV.is">
-  <title lang="is">Meistarinn - Suzanne Osten</title>
-  <sub-title lang="is">Mästaren</sub-title>
-  <episode-num system="onscreen">4/8</episode-num>
-  <category lang="is">Fræðsla</category>
- </programme>
- <programme start="20261010185200 +0000" stop="20261010185520 +0000" channel="RUV.is">
-  <title lang="is">Lottó</title>
-  <desc lang="is">Lottó-útdráttur vikunnar.</desc>
-  <episode-num system="onscreen">41/52</episode-num>
- </programme>
- <programme start="20261010190000 +0000" stop="20261010192000 +0000" channel="RUV.is">
-  <title lang="is">Fréttir</title>
-  <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
-http://dagskra.ruv.is/nanar/30762/</desc>
-  <episode-num system="onscreen">81/377</episode-num>
-  <category lang="is">Fréttaefni</category>
- </programme>
- <programme start="20261010192500 +0000" stop="20261010193500 +0000" channel="RUV.is">
-  <title lang="is">Íþróttir</title>
-  <desc lang="is">Íþróttafréttir.
-http://dagskra.ruv.is/nanar/30657/</desc>
-  <episode-num system="onscreen">80/120</episode-num>
-  <category lang="is">Íþróttir</category>
- </programme>
- <programme start="20261010193500 +0000" stop="20261010194000 +0000" channel="RUV.is">
-  <title lang="is">Veður</title>
-  <desc lang="is">Veðurfréttir.
-http://dagskra.ruv.is/nanar/30766/</desc>
-  <episode-num system="onscreen">271/367</episode-num>
-  <category lang="is">Fréttaefni</category>
- </programme>
- <programme start="20261010194500 +0000" stop="20261010204500 +0000" channel="RUV.is">
-  <title lang="is">Landsleikarnir</title>
-  <sub-title lang="is">Reykjavík austur- Vesturbyggð</sub-title>
-  <desc lang="is">Spennandi spurningaþáttur í beinni útsendingu þar sem baggalúturinn Guðmundur Pálsson og sjónvarpskonan Sigrún Ósk Kristjánsdóttir halda um stjórnartaumana. Fulltrúar bæjarfélaga um allt land spreyta sig á spurningum, glíma við heilabrot og leysa ýmsar þrautir. Hvaða lið stendur uppi sem landsmeistari? Stjórn útsendingar: Sturla Skúlason.
-Reykjavík austur mætir Vesturbyggð. Keppendur frá Reykjavík austur eru Birgir Ólafsson, Lilja Katrín Gunnarsdóttir og Guðmundur R. Einarsson. Keppendur frá Vesturbyggð eru Bergdís Þrastardóttir, Bjarni Snæbjörnsson og Gísli Ægir Ágústsson.</desc>
-  <episode-num system="onscreen">3/15</episode-num>
- </programme>
- <programme start="20261010205500 +0000" stop="20261010222309 +0000" channel="RUV.is">
-  <title lang="is">Í takt við tímann</title>
-  <sub-title lang="is">Íslenskt bíóhaust</sub-title>
-  <desc lang="is">Gamanmynd frá 2004 úr smiðju Stuðmanna. Myndin segir að mestu frá sömu persónum og komu fram í Með allt á hreinu en nú eru þær rúmum tveimur áratugum eldri. Engum þeirra hefur tekist að slá í gegn nema kannski rótaranum Dúdda sem hefur snúið sér að andlegum málefnum. Harpa Sjöfn og Kristinn Styrkársson Proppé eiga enn í nokkuð spennuþrungnum samskiptum. Leikstjóri: Ágúst Guðmundsson. Aðalhlutverk: Egill Ólafsson, Ragnhildur Gísladóttir, Eggert Þorleifsson, Jakob Frímann Magnússon, Ásgeir Óskarsson, Tómas M. Tómasson, Þórður Árnason og Höskuldur Ólafsson.</desc>
- </programme>
- <programme start="20261010222500 +0000" stop="20261010235826 +0000" channel="RUV.is">
-  <title lang="is">Manglehorn</title>
-  <sub-title lang="is">Manglehorn</sub-title>
-  <desc lang="is">Bandarískt drama frá 2014 í leikstjórn Davids Gordon Green. Manglehorn er sérvitur lásasmiður í smábæ í Bandaríkjunum. Hann lifir fábreyttu lífi sem hefur litast af ástarsorg frá því að ástin í lífi hans rann honum úr greipum fyrir mörgum árum. Líf hans tekur stakkaskiptum þegar hann kynnist hinni góðhjörtuðu Dawn. Aðalhlutverk: Al Pacino, Holly Hunter og Harmony Korine.</desc>
- </programme>
- <programme start="20261011000000 +0000" stop="20261011004731 +0000" channel="RUV.is">
-  <title lang="is">Sonarást</title>
-  <sub-title lang="is">Playing Nice</sub-title>
-  <desc lang="is">Breskt drama frá 2025 um tvö pör sem komast að því sonum þeirra var víxlað á fæðingardeildinni. Eiga þau að halda barninu sem þau ólu upp eða fá líffræðilegt barn sitt aftur? Aðalhlutverk: James Norton, Niamh Algar, James McArdle og Jessica Brown Findlay. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  <episode-num system="onscreen">2/4</episode-num>
-  <rating>
-   <value>12</value>
-  </rating>
- </programme>
  <programme start="20261011070000 +0000" stop="20261011100000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
   <desc lang="is">http://dagskra.ruv.is/nanar/34361/</desc>
@@ -485,7 +119,7 @@ http://dagskra.ruv.is/nanar/36786/</desc>
   <title lang="is">Einu sinni var... Lífið</title>
   <sub-title lang="is">Heilinn</sub-title>
   <desc lang="is">Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir. Að þessu sinni fræðumst við um mannslíkamann.</desc>
-  <episode-num system="onscreen">9/26</episode-num>
+  <episode-num system="onscreen">8/26</episode-num>
  </programme>
  <programme start="20261011085600 +0000" stop="20261011090121 +0000" channel="RUV.is">
   <title lang="is">Eplabær</title>
@@ -507,7 +141,7 @@ http://dagskra.ruv.is/nanar/35838/</desc>
 Þegar litlir stubbar fá hiksta hringir lítil bjalla í húsi Hikstaskrímslisins. Þá stekkur hann af stað, fer í freyðibað og lagar þannig hikstann. Eins gott að hann festist ekki í of þröngri peysu og komist þar af leiðandi ekki í bað!</desc>
   <episode-num system="onscreen">4/5</episode-num>
  </programme>
- <programme start="20261011092800 +0000" stop="20261011100000 +0000" channel="RUV.is">
+ <programme start="20261011092800 +0000" stop="20261011100020 +0000" channel="RUV.is">
   <title lang="is">Stundin okkar-Tökum á loft V</title>
   <sub-title lang="is">Leikur að læra</sub-title>
   <desc lang="is">Elsti sjónvarpsþáttur landsins snýr aftur með ný ævintýri! 
@@ -515,7 +149,7 @@ http://dagskra.ruv.is/nanar/35838/</desc>
 Loft snýr endurnært heim frá Satúrnusi, Tenerife veðurguðanna, en afslöppunin endist ekki lengi. Áróra vill vita allt um leikhús og fær að skyggnast á bak við tjöldin. Á meðan kveðja krakkarnir í sumarbúðunum Mána og taka á móti nýjum félögum.</desc>
   <episode-num system="onscreen">1/11</episode-num>
  </programme>
- <programme start="20261011100000 +0000" stop="20261011110000 +0000" channel="RUV.is">
+ <programme start="20261011100000 +0000" stop="20261011110729 +0000" channel="RUV.is">
   <title lang="is">Landsleikarnir</title>
   <sub-title lang="is">Reykjavík austur- Vesturbyggð</sub-title>
   <desc lang="is">Spennandi spurningaþáttur í beinni útsendingu þar sem baggalúturinn Guðmundur Pálsson og sjónvarpskonan Sigrún Ósk Kristjánsdóttir halda um stjórnartaumana. Fulltrúar bæjarfélaga um allt land spreyta sig á spurningum, glíma við heilabrot og leysa ýmsar þrautir. Hvaða lið stendur uppi sem landsmeistari? Stjórn útsendingar: Sturla Skúlason.
@@ -567,9 +201,10 @@ http://dagskra.ruv.is/nanar/31291/</desc>
 http://dagskra.ruv.is/nanar/19780/</desc>
   <category lang="is">Fræðsla</category>
  </programme>
- <programme start="20261011125500 +0000" stop="20261011131500 +0000" channel="RUV.is">
+ <programme start="20261011125500 +0000" stop="20261011131429 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+Samningur Trumps og Pútíns um dísilolíu
 http://dagskra.ruv.is/nanar/31575/</desc>
   <episode-num system="onscreen">75/120</episode-num>
   <category lang="is">Fréttaefni</category>
@@ -626,13 +261,19 @@ http://dagskra.ruv.is/nanar/28476/</desc>
   <episode-num system="onscreen">50/200</episode-num>
   <category lang="is">Börn</category>
  </programme>
- <programme start="20261011173100 +0000" stop="20261011180300 +0000" channel="RUV.is">
+ <programme start="20261011173100 +0000" stop="20261011180320 +0000" channel="RUV.is">
   <title lang="is">Stundin okkar-Tökum á loft V</title>
   <sub-title lang="is">Leikur að læra</sub-title>
   <desc lang="is">Elsti sjónvarpsþáttur landsins snýr aftur með ný ævintýri! 
 Áróra heldur áfram að kanna heiminn og takast á við ný verkefni. Þegar Máni og fleiri vinir flytja burt tekur nýr kafli við og Áróra kynnist nýjum krökkum í sumarbúðunum. Með Loft og Sjón sér við hlið uppgötvar hún að  ný ævintýri bíða alltaf handan við hornið.
 Loft snýr endurnært heim frá Satúrnusi, Tenerife veðurguðanna, en afslöppunin endist ekki lengi. Áróra vill vita allt um leikhús og fær að skyggnast á bak við tjöldin. Á meðan kveðja krakkarnir í sumarbúðunum Mána og taka á móti nýjum félögum.</desc>
   <episode-num system="onscreen">1/11</episode-num>
+ </programme>
+ <programme start="20261011180300 +0000" stop="20261011181024 +0000" channel="RUV.is">
+  <title lang="is">Leiðangurinn - Leitin að ósýnilega prakkaranum</title>
+  <sub-title lang="is">Leitin að ósýnilega prakkaranum</sub-title>
+  <episode-num system="onscreen">8/9</episode-num>
+  <category lang="is">Börn</category>
  </programme>
  <programme start="20261011180300 +0000" stop="20261011181024 +0000" channel="RUV.is">
   <title lang="is">Leiðangurinn</title>
@@ -644,12 +285,6 @@ Við erum stödd á Hólmavík. Sagan segir að hér hafi horfið strákur fyrir
 Emilía Rut Ómarsdóttir Guðný Sverrisdóttir
 http://dagskra.ruv.is/nanar/27893/</desc>
   <episode-num system="onscreen">8/11</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261011180300 +0000" stop="20261011181024 +0000" channel="RUV.is">
-  <title lang="is">Leiðangurinn - Leitin að ósýnilega prakkaranum</title>
-  <sub-title lang="is">Leitin að ósýnilega prakkaranum</sub-title>
-  <episode-num system="onscreen">8/9</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261011181000 +0000" stop="20261011181520 +0000" channel="RUV.is">
@@ -716,7 +351,7 @@ http://dagskra.ruv.is/nanar/30766/</desc>
   <desc lang="is">Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Hafsteinn Vilhelmsson, Þórdís Claessen og Amanda Guðrún Bjarnadóttir. Dagskrárgerð: Jóhannes Jónsson, Björgvin Kolbeinsson, Benedikt Nikulás Anes Ketilsson, Adelina Antal og Hjalti Stefánsson.</desc>
   <episode-num system="onscreen">3/29</episode-num>
  </programme>
- <programme start="20261011202000 +0000" stop="20261011205200 +0000" channel="RUV.is">
+ <programme start="20261011202000 +0000" stop="20261011205221 +0000" channel="RUV.is">
   <title lang="is">Á gamans aldri II</title>
   <sub-title lang="is">Guðrún Fjeldsted</sub-title>
   <desc lang="is">Íslenskir viðtalsþættir þar sem skyggnst er inn í líf fólks sem nýtur eftirlaunaáranna á aðdáunarverðan og jákvæðan hátt. Í hverjum þætti fáum við innsýn í líf einnar manneskju, heyrum sögu hennar, lífssýn og lærdóm sem hún hefur dregið af lífinu, auk þess sem við ræðum þær áskoranir sem fylgja því að eldast. Dagskrárgerð: Ragnhildur Steinunn Jónsdóttir. Framleiðsla: Elín Sveinsdóttir.
@@ -749,7 +384,7 @@ http://dagskra.ruv.is/nanar/31575/</desc>
   <desc lang="is">Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
 Standandi æfingar. Æft í 20 sekúndur með 10 sekúndna hvíld á milli æfinga.
 http://dagskra.ruv.is/nanar/30389/</desc>
-  <episode-num system="onscreen">13/15</episode-num>
+  <episode-num system="onscreen">18/20</episode-num>
   <category lang="is">Fræðsla</category>
  </programme>
  <programme start="20261012133000 +0000" stop="20261012142829 +0000" channel="RUV.is">
@@ -867,7 +502,7 @@ http://dagskra.ruv.is/nanar/31684/</desc>
   <sub-title lang="is">12. október 2026</sub-title>
   <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. 
 Umsjón: Ari Páll Karlsson, Embla Bachmann og Snæ Humadóttir. Ritstjórn: Ari Páll Karlsson.</desc>
-  <episode-num system="onscreen">111/162</episode-num>
+  <episode-num system="onscreen">120/162</episode-num>
  </programme>
  <programme start="20261012182500 +0000" stop="20261012185253 +0000" channel="RUV.is">
   <title lang="is">Basl er búskapur</title>
@@ -938,7 +573,7 @@ Leiðtogarnir eru mættir til landsins og loka sig inni í Höfða. Rússar koma
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">203/365</episode-num>
+  <episode-num system="onscreen">203/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261013133000 +0000" stop="20261013133825 +0000" channel="RUV.is">
@@ -988,7 +623,7 @@ http://dagskra.ruv.is/nanar/21116/</desc>
   <desc lang="is">Sænsk þáttaröð frá 2023. Marie Olsson Nylander heldur í ævintýraferð með systur sinni þar sem þær ferðast frá Svíþjóð niður til Sikileyjar. Á leiðinni stoppa þær á ýmsum stöðum í leit að forngripum fyrir heimili Marie á Sikiley.</desc>
   <episode-num system="onscreen">6/6</episode-num>
  </programme>
- <programme start="20261013165500 +0000" stop="20261013172700 +0000" channel="RUV.is">
+ <programme start="20261013165500 +0000" stop="20261013172721 +0000" channel="RUV.is">
   <title lang="is">Á gamans aldri II</title>
   <sub-title lang="is">Guðrún Fjeldsted</sub-title>
   <desc lang="is">Íslenskir viðtalsþættir þar sem skyggnst er inn í líf fólks sem nýtur eftirlaunaáranna á aðdáunarverðan og jákvæðan hátt. Í hverjum þætti fáum við innsýn í líf einnar manneskju, heyrum sögu hennar, lífssýn og lærdóm sem hún hefur dregið af lífinu, auk þess sem við ræðum þær áskoranir sem fylgja því að eldast. Dagskrárgerð: Ragnhildur Steinunn Jónsdóttir. Framleiðsla: Elín Sveinsdóttir.
@@ -1038,7 +673,7 @@ http://dagskra.ruv.is/nanar/33849/</desc>
   <sub-title lang="is">Tish Tash</sub-title>
   <desc lang="is">Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.
 http://dagskra.ruv.is/nanar/35934/</desc>
-  <episode-num system="onscreen">29/41</episode-num>
+  <episode-num system="onscreen">42/52</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261013182000 +0000" stop="20261013182500 +0000" channel="RUV.is">
@@ -1144,7 +779,7 @@ http://dagskra.ruv.is/nanar/29104/</desc>
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">204/377</episode-num>
+  <episode-num system="onscreen">204/365</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261014133000 +0000" stop="20261014134018 +0000" channel="RUV.is">
@@ -1189,16 +824,16 @@ http://dagskra.ruv.is/nanar/34940/</desc>
   <episode-num system="onscreen">6/6</episode-num>
  </programme>
  <programme start="20261014155000 +0000" stop="20261014164610 +0000" channel="RUV.is">
-  <title lang="is">Manstu gamla daga? - Djassgeggjararnir</title>
-  <sub-title lang="is">Djassgeggjararnir</sub-title>
-  <episode-num system="onscreen">7/16</episode-num>
-  <category lang="is">Menning</category>
- </programme>
- <programme start="20261014155000 +0000" stop="20261014164610 +0000" channel="RUV.is">
   <title lang="is">Manstu gamla daga?</title>
   <sub-title lang="is">Djassgeggjararnir</sub-title>
   <desc lang="is">Þáttaröð frá 1991 um sögu íslenskrar dægurtónlistar. Umsjón: Helgi Pétursson og Jónatan Garðarsson. Dagskrárgerð: Tage Ammendrup.
 http://dagskra.ruv.is/nanar/28071/</desc>
+  <episode-num system="onscreen">7/16</episode-num>
+  <category lang="is">Menning</category>
+ </programme>
+ <programme start="20261014155000 +0000" stop="20261014164610 +0000" channel="RUV.is">
+  <title lang="is">Manstu gamla daga? - Djassgeggjararnir</title>
+  <sub-title lang="is">Djassgeggjararnir</sub-title>
   <episode-num system="onscreen">7/16</episode-num>
   <category lang="is">Menning</category>
  </programme>
@@ -1227,7 +862,7 @@ http://dagskra.ruv.is/nanar/16784/</desc>
   <sub-title lang="is">NEI-hatturinn</sub-title>
   <desc lang="is">Karla er 8 ára kjúklingur, sem hefur það að markmiði að halda öllum ánægðum, svo lengi sem það kemur ekki niður á lífi hennar. Hún elskar skólann sinn og alla vini sína. Hún leggur hart að sér til að þóknast öllum, en stundum ganga hlutirnir ekki alveg eins og áætlað var. Í þessum þáttum eru félagsleg samskipti og tilfinningar þeim tengd könnuð út frá heimi krakkanna. Hvað er rétt og hvað er rangt? Getur maður átt fleiri en einn besta vin?
 http://dagskra.ruv.is/nanar/35841/</desc>
-  <episode-num system="onscreen">39/52</episode-num>
+  <episode-num system="onscreen">44/52</episode-num>
  </programme>
  <programme start="20261014173800 +0000" stop="20261014174905 +0000" channel="RUV.is">
   <title lang="is">Krílin</title>
@@ -1240,7 +875,7 @@ http://dagskra.ruv.is/nanar/35841/</desc>
   <sub-title lang="is">Lalli, teiknaðu moldvörpu</sub-title>
   <desc lang="is">Önnur þáttaröð um Lalla, sem færir ykkur allan heiminn þegar hann grípur litina sína. Hann er svo flinkur að teikna hann Lalli!
 http://dagskra.ruv.is/nanar/35983/</desc>
-  <episode-num system="onscreen">37/39</episode-num>
+  <episode-num system="onscreen">34/39</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261014175600 +0000" stop="20261014180121 +0000" channel="RUV.is">
@@ -1381,15 +1016,15 @@ http://dagskra.ruv.is/nanar/29846/</desc>
   <episode-num system="onscreen">4/6</episode-num>
  </programme>
  <programme start="20261015152500 +0000" stop="20261015160956 +0000" channel="RUV.is">
+  <title lang="is">George Clarke skoðar bandaríska hönnun - Austurströnd Bandaríkjanna</title>
+  <sub-title lang="is">George Clarke's Adventures in Americana</sub-title>
+  <episode-num system="onscreen">4/4</episode-num>
+ </programme>
+ <programme start="20261015152500 +0000" stop="20261015160956 +0000" channel="RUV.is">
   <title lang="is">George Clarke skoðar bandaríska hönnun</title>
   <sub-title lang="is">George Clarke's Adventures in Americana</sub-title>
   <desc lang="is">Ný bresk heimildarþáttaröð þar sem arkitektinn og sjónvarpsmaðurinn George Clarke ferðast um Bandaríkin og kynnir sér einkenni bandarískrar hönnunnar.
 http://dagskra.ruv.is/nanar/36632/</desc>
-  <episode-num system="onscreen">4/4</episode-num>
- </programme>
- <programme start="20261015152500 +0000" stop="20261015160956 +0000" channel="RUV.is">
-  <title lang="is">George Clarke skoðar bandaríska hönnun - Austurströnd Bandaríkjanna</title>
-  <sub-title lang="is">George Clarke's Adventures in Americana</sub-title>
   <episode-num system="onscreen">4/4</episode-num>
  </programme>
  <programme start="20261015161000 +0000" stop="20261015165746 +0000" channel="RUV.is">
@@ -1445,6 +1080,11 @@ Við getum alltaf gefið okkur sól í hjarta, gefið öðrum og okkur sjálfum 
   <episode-num system="onscreen">3/8</episode-num>
  </programme>
  <programme start="20261015181600 +0000" stop="20261015182028 +0000" channel="RUV.is">
+  <title lang="is">Matargat - Mexíkó veisla</title>
+  <sub-title lang="is">Mexíkó veisla</sub-title>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261015181600 +0000" stop="20261015182028 +0000" channel="RUV.is">
   <title lang="is">Matargat</title>
   <sub-title lang="is">Mexíkó veisla</sub-title>
   <desc lang="is">Þau Ylfa og Máni standa vaktina í eldhúsinu og kenna okkur hvernig á að elda og baka ýmislegt góðgæti. Dagskrárgerð: Eva Rún Þorgeirsdóttir. Umsjón: Ylfa Blöndal og Hilmar Máni Magnússon.
@@ -1463,11 +1103,6 @@ Hrærðu allt saman.
 Búðu svo til mexíkóvefju eins og þér þykir best!
 http://dagskra.ruv.is/nanar/31166/</desc>
   <episode-num system="onscreen">8/17</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261015181600 +0000" stop="20261015182028 +0000" channel="RUV.is">
-  <title lang="is">Matargat - Mexíkó veisla</title>
-  <sub-title lang="is">Mexíkó veisla</sub-title>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261015182000 +0000" stop="20261015182500 +0000" channel="RUV.is">
@@ -1567,7 +1202,7 @@ http://dagskra.ruv.is/nanar/28022/</desc>
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">206/365</episode-num>
+  <episode-num system="onscreen">206/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261016133000 +0000" stop="20261016133958 +0000" channel="RUV.is">
@@ -1575,7 +1210,7 @@ http://dagskra.ruv.is/nanar/31575/</desc>
   <desc lang="is">Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
 Áhersla æfinganna eru kvið- og bakæfingar sem eru gerðar sitjandi.
 http://dagskra.ruv.is/nanar/30389/</desc>
-  <episode-num system="onscreen">2/15</episode-num>
+  <episode-num system="onscreen">7/20</episode-num>
   <category lang="is">Fræðsla</category>
  </programme>
  <programme start="20261016134000 +0000" stop="20261016140500 +0000" channel="RUV.is">
@@ -1645,7 +1280,7 @@ http://dagskra.ruv.is/nanar/30950/</desc>
   <sub-title lang="is">Silverpoint</sub-title>
   <desc lang="is">Önnur sería af Silfruskógi, sem er bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Lous, Meg, Glen og Kaz uppgötva að hópurinn þeirra er bara einn þeirra fjögurra sem taka þátt í leiknum um að bjarga heiminum.
 http://dagskra.ruv.is/nanar/35470/</desc>
-  <episode-num system="onscreen">2/13</episode-num>
+  <episode-num system="onscreen">3/13</episode-num>
  </programme>
  <programme start="20261016175300 +0000" stop="20261016180139 +0000" channel="RUV.is">
   <title lang="is">Eilíft drama II</title>
@@ -1764,7 +1399,7 @@ http://dagskra.ruv.is/nanar/30766/</desc>
   <sub-title lang="is">Jasmine &amp; Jómbi</sub-title>
   <desc lang="is">Jasmín og Jómbi eru góðir vinir sem elska tónlist. Saman njóta þau tónanna sem óma um Hljómbæ.
 http://dagskra.ruv.is/nanar/33849/</desc>
-  <episode-num system="onscreen">18/26</episode-num>
+  <episode-num system="onscreen">21/26</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261017071100 +0000" stop="20261017071804 +0000" channel="RUV.is">
@@ -1774,15 +1409,15 @@ http://dagskra.ruv.is/nanar/33849/</desc>
   <episode-num system="onscreen">22/39</episode-num>
  </programme>
  <programme start="20261017071800 +0000" stop="20261017072505 +0000" channel="RUV.is">
-  <title lang="is">Litla Ló - Fiðrildið</title>
-  <sub-title lang="is">Fiðrildið</sub-title>
-  <episode-num system="onscreen">13/26</episode-num>
- </programme>
- <programme start="20261017071800 +0000" stop="20261017072505 +0000" channel="RUV.is">
   <title lang="is">Litla Ló</title>
   <sub-title lang="is">Fiðrildið</sub-title>
   <desc lang="is">Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.</desc>
   <episode-num system="onscreen">12/26</episode-num>
+ </programme>
+ <programme start="20261017071800 +0000" stop="20261017072505 +0000" channel="RUV.is">
+  <title lang="is">Litla Ló - Fiðrildið</title>
+  <sub-title lang="is">Fiðrildið</sub-title>
+  <episode-num system="onscreen">13/26</episode-num>
  </programme>
  <programme start="20261017072500 +0000" stop="20261017073000 +0000" channel="RUV.is">
   <title lang="is">Molang VI</title>
@@ -1845,7 +1480,7 @@ http://dagskra.ruv.is/nanar/33849/</desc>
   <sub-title lang="is">Villistrumpur lærir lexíu</sub-title>
   <desc lang="is">Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.
 http://dagskra.ruv.is/nanar/33817/</desc>
-  <episode-num system="onscreen">33/52</episode-num>
+  <episode-num system="onscreen">41/52</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261017090100 +0000" stop="20261017090608 +0000" channel="RUV.is">
@@ -1940,17 +1575,17 @@ http://dagskra.ruv.is/nanar/33798/</desc>
   <category lang="is">Heimildarmyndir</category>
  </programme>
  <programme start="20261017170000 +0000" stop="20261017172712 +0000" channel="RUV.is">
+  <title lang="is">Ævi - Miður aldur</title>
+  <sub-title lang="is">Miður aldur</sub-title>
+  <episode-num system="onscreen">5/7</episode-num>
+  <category lang="is">Heimildarmyndir</category>
+ </programme>
+ <programme start="20261017170000 +0000" stop="20261017172712 +0000" channel="RUV.is">
   <title lang="is">Ævi</title>
   <sub-title lang="is">Miður aldur</sub-title>
   <desc lang="is">Íslensk þáttaröð sem fjallar um ævina frá upphafi til enda. Einblínt er á eitt æviskeið í einu og skoðað hvað hver kynslóð er að fást við. Sagðar eru sögur af fólki á öllum aldri og tekist á við stórar spurningar. Dagskrárgerð: Eiríkur Ingi Böðvarsson og Sigríður Halldórsdóttir.
 Í þessum þætti er fjallað um miðjan aldur. Af hverju er alltaf talað eins og það sé alveg glatað að vera miðaldra? Er þetta ekki einmitt aldurinn þar sem margir endurheimta frelsi og tíma - og fá rýmri fjárráð, eftir að hafa komið börnum til manns. Tíminn þar sem fólk er orðið uppfullt af reynslu og þekkingu; veit hvað það vill og hvað það getur? Er þetta mögulega besta tímabil ævinnar? Dagskrárgerð: Eiríkur Ingi Böðvarsson og Sigríður Halldórsdóttir.
 http://dagskra.ruv.is/nanar/24097/</desc>
-  <episode-num system="onscreen">5/7</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261017170000 +0000" stop="20261017172712 +0000" channel="RUV.is">
-  <title lang="is">Ævi - Miður aldur</title>
-  <sub-title lang="is">Miður aldur</sub-title>
   <episode-num system="onscreen">5/7</episode-num>
   <category lang="is">Heimildarmyndir</category>
  </programme>
@@ -1979,16 +1614,16 @@ http://dagskra.ruv.is/nanar/24097/</desc>
   <episode-num system="onscreen">7/26</episode-num>
  </programme>
  <programme start="20261017182500 +0000" stop="20261017184743 +0000" channel="RUV.is">
-  <title lang="is">Meistarinn</title>
+  <title lang="is">Meistarinn - Sven Wollter</title>
   <sub-title lang="is">Mästaren</sub-title>
-  <desc lang="is">Hvernig hugsa helstu listamenn og hugsuðir Svíþjóðar og hvaðan sækja þau sér innblástur og hvatningu? Í þessum þáttum er rætt við sænska meistara um sköpunarferlið, ákvarðanatöku og það hvernig mistök geta leitt til nýrra sigra.
-http://dagskra.ruv.is/nanar/31259/</desc>
   <episode-num system="onscreen">5/8</episode-num>
   <category lang="is">Fræðsla</category>
  </programme>
  <programme start="20261017182500 +0000" stop="20261017184743 +0000" channel="RUV.is">
-  <title lang="is">Meistarinn - Sven Wollter</title>
+  <title lang="is">Meistarinn</title>
   <sub-title lang="is">Mästaren</sub-title>
+  <desc lang="is">Hvernig hugsa helstu listamenn og hugsuðir Svíþjóðar og hvaðan sækja þau sér innblástur og hvatningu? Í þessum þáttum er rætt við sænska meistara um sköpunarferlið, ákvarðanatöku og það hvernig mistök geta leitt til nýrra sigra.
+http://dagskra.ruv.is/nanar/31259/</desc>
   <episode-num system="onscreen">5/8</episode-num>
   <category lang="is">Fræðsla</category>
  </programme>
@@ -2224,7 +1859,7 @@ http://dagskra.ruv.is/nanar/31291/</desc>
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">77/120</episode-num>
+  <episode-num system="onscreen">83/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261018131000 +0000" stop="20261018135409 +0000" channel="RUV.is">
@@ -2268,7 +1903,7 @@ http://dagskra.ruv.is/nanar/28476/</desc>
  <programme start="20261018173000 +0000" stop="20261018182000 +0000" channel="RUV.is">
   <title lang="is">KrakkaRÚV</title>
   <desc lang="is">http://dagskra.ruv.is/nanar/34361/</desc>
-  <episode-num system="onscreen">51/200</episode-num>
+  <episode-num system="onscreen">47/100</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261018173100 +0000" stop="20261018175100 +0000" channel="RUV.is">
@@ -2430,16 +2065,16 @@ http://dagskra.ruv.is/nanar/29846/</desc>
   <category lang="is">Gullkistan</category>
  </programme>
  <programme start="20261019144000 +0000" stop="20261019152450 +0000" channel="RUV.is">
+  <title lang="is">Sofðu vel - Anna Mannheimer - undirmeðvitundin</title>
+  <sub-title lang="is">Sov Gott</sub-title>
+  <category lang="is">Heimildarþættir</category>
+ </programme>
+ <programme start="20261019144000 +0000" stop="20261019152450 +0000" channel="RUV.is">
   <title lang="is">Sofðu vel</title>
   <sub-title lang="is">Sov Gott</sub-title>
   <desc lang="is">Sænskir heimildarþættir frá 2023 þar sem svefnsérfræðingurinn Christian Benedict aðstoðar fjóra einstaklinga sem öll glíma við mismunandi svefnvandamál.
 http://dagskra.ruv.is/nanar/35161/</desc>
   <episode-num system="onscreen">3/4</episode-num>
-  <category lang="is">Heimildarþættir</category>
- </programme>
- <programme start="20261019144000 +0000" stop="20261019152450 +0000" channel="RUV.is">
-  <title lang="is">Sofðu vel - Anna Mannheimer - undirmeðvitundin</title>
-  <sub-title lang="is">Sov Gott</sub-title>
   <category lang="is">Heimildarþættir</category>
  </programme>
  <programme start="20261019152500 +0000" stop="20261019161200 +0000" channel="RUV.is">
@@ -2527,7 +2162,7 @@ http://dagskra.ruv.is/nanar/31684/</desc>
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. 
 Umsjón: Ari Páll Karlsson, Embla Bachmann og Snæ Humadóttir. Ritstjórn: Ari Páll Karlsson.</desc>
-  <episode-num system="onscreen">115/162</episode-num>
+  <episode-num system="onscreen">124/162</episode-num>
  </programme>
  <programme start="20261019182500 +0000" stop="20261019185225 +0000" channel="RUV.is">
   <title lang="is">Basl er búskapur</title>
@@ -2716,17 +2351,17 @@ Fram koma Soffía, Inspector Spacetime, Spacestation , Kári Egils og Gosi.</des
   <episode-num system="onscreen">3/5</episode-num>
  </programme>
  <programme start="20261020185000 +0000" stop="20261020185447 +0000" channel="RUV.is">
+  <title lang="is">Lag dagsins - HAM - Haf trú</title>
+  <sub-title lang="is">HAM - Haf trú</sub-title>
+  <episode-num system="onscreen">16/163</episode-num>
+  <category lang="is">Menning</category>
+ </programme>
+ <programme start="20261020185000 +0000" stop="20261020185447 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins</title>
   <sub-title lang="is">HAM - Haf trú</sub-title>
   <desc lang="is">Íslensk tónlistarmyndbönd.
 http://dagskra.ruv.is/nanar/32122/</desc>
   <episode-num system="onscreen">50/163</episode-num>
-  <category lang="is">Menning</category>
- </programme>
- <programme start="20261020185000 +0000" stop="20261020185447 +0000" channel="RUV.is">
-  <title lang="is">Lag dagsins - HAM - Haf trú</title>
-  <sub-title lang="is">HAM - Haf trú</sub-title>
-  <episode-num system="onscreen">16/163</episode-num>
   <category lang="is">Menning</category>
  </programme>
  <programme start="20261020190000 +0000" stop="20261020192700 +0000" channel="RUV.is">
@@ -2839,16 +2474,16 @@ http://dagskra.ruv.is/nanar/15215/</desc>
   <category lang="is">Heimildarmyndir</category>
  </programme>
  <programme start="20261021153000 +0000" stop="20261021161417 +0000" channel="RUV.is">
-  <title lang="is">Manstu gamla daga? - Grínararnir</title>
-  <sub-title lang="is">Grínararnir</sub-title>
-  <episode-num system="onscreen">8/16</episode-num>
-  <category lang="is">Menning</category>
- </programme>
- <programme start="20261021153000 +0000" stop="20261021161417 +0000" channel="RUV.is">
   <title lang="is">Manstu gamla daga?</title>
   <sub-title lang="is">Grínararnir</sub-title>
   <desc lang="is">Þáttaröð frá 1991 um sögu íslenskrar dægurtónlistar. Umsjón: Helgi Pétursson og Jónatan Garðarsson. Dagskrárgerð: Tage Ammendrup.
 http://dagskra.ruv.is/nanar/28071/</desc>
+  <episode-num system="onscreen">8/16</episode-num>
+  <category lang="is">Menning</category>
+ </programme>
+ <programme start="20261021153000 +0000" stop="20261021161417 +0000" channel="RUV.is">
+  <title lang="is">Manstu gamla daga? - Grínararnir</title>
+  <sub-title lang="is">Grínararnir</sub-title>
   <episode-num system="onscreen">8/16</episode-num>
   <category lang="is">Menning</category>
  </programme>
@@ -2883,20 +2518,20 @@ http://dagskra.ruv.is/nanar/16784/</desc>
   <sub-title lang="is">Karla sjónvarpsstjarna</sub-title>
   <desc lang="is">Karla er 8 ára kjúklingur, sem hefur það að markmiði að halda öllum ánægðum, svo lengi sem það kemur ekki niður á lífi hennar. Hún elskar skólann sinn og alla vini sína. Hún leggur hart að sér til að þóknast öllum, en stundum ganga hlutirnir ekki alveg eins og áætlað var. Í þessum þáttum eru félagsleg samskipti og tilfinningar þeim tengd könnuð út frá heimi krakkanna. Hvað er rétt og hvað er rangt? Getur maður átt fleiri en einn besta vin?
 http://dagskra.ruv.is/nanar/35841/</desc>
-  <episode-num system="onscreen">40/52</episode-num>
+  <episode-num system="onscreen">45/52</episode-num>
  </programme>
  <programme start="20261021173800 +0000" stop="20261021174905 +0000" channel="RUV.is">
   <title lang="is">Krílin</title>
   <sub-title lang="is">Skreytinga spæjararnir</sub-title>
   <desc lang="is">Leikföngin í Háaloftsbæ lifna við og breyta hversdagslegum hlutum í stórskemmtilegar uppfinningar. Krílin eru nefnilega snillingar í að nota ímyndunaraflið og um leið hvetja börn til þess að skapa og prófa sig áfram.</desc>
-  <episode-num system="onscreen">21/51</episode-num>
+  <episode-num system="onscreen">20/51</episode-num>
  </programme>
  <programme start="20261021174900 +0000" stop="20261021175550 +0000" channel="RUV.is">
   <title lang="is">Lalli II</title>
   <sub-title lang="is">Lalli, teiknaðu draug</sub-title>
   <desc lang="is">Önnur þáttaröð um Lalla, sem færir ykkur allan heiminn þegar hann grípur litina sína. Hann er svo flinkur að teikna hann Lalli!
 http://dagskra.ruv.is/nanar/35983/</desc>
-  <episode-num system="onscreen">38/39</episode-num>
+  <episode-num system="onscreen">35/39</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261021175600 +0000" stop="20261021180120 +0000" channel="RUV.is">
@@ -3125,7 +2760,7 @@ http://dagskra.ruv.is/nanar/31166/</desc>
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. 
 Umsjón: Ari Páll Karlsson, Embla Bachmann og Snæ Humadóttir. Ritstjórn: Ari Páll Karlsson.</desc>
-  <episode-num system="onscreen">127/162</episode-num>
+  <episode-num system="onscreen">118/162</episode-num>
  </programme>
  <programme start="20261022182500 +0000" stop="20261022185233 +0000" channel="RUV.is">
   <title lang="is">Orðbragð II</title>
@@ -3199,7 +2834,7 @@ Karen heldur upp á afmælið sitt með stæl. Vöntun á víni setur stórt str
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">211/377</episode-num>
+  <episode-num system="onscreen">211/365</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261023133000 +0000" stop="20261023133844 +0000" channel="RUV.is">
@@ -3216,11 +2851,6 @@ http://dagskra.ruv.is/nanar/30389/</desc>
   <episode-num system="onscreen">38/200</episode-num>
  </programme>
  <programme start="20261023140500 +0000" stop="20261023150945 +0000" channel="RUV.is">
-  <title lang="is">Gettu betur 1999 - MA - MS</title>
-  <sub-title lang="is">MA - MS</sub-title>
-  <category lang="is">Gullkistan</category>
- </programme>
- <programme start="20261023140500 +0000" stop="20261023150945 +0000" channel="RUV.is">
   <title lang="is">Gettu betur 1999</title>
   <sub-title lang="is">MA - MS</sub-title>
   <desc lang="is">Spurningakeppni framhaldsskólanna frá 1999. Spyrill: Logi Bergmann Eiðsson. Dómari og spurningahöfundur: Illugi Jökulsson. Stigavörður: Þóra Arnórsdóttir. Dagskrárgerð: Andrés Indriðason.
@@ -3229,6 +2859,16 @@ http://dagskra.ruv.is/nanar/29848/</desc>
   <episode-num system="onscreen">4/7</episode-num>
   <category lang="is">Gullkistan</category>
  </programme>
+ <programme start="20261023140500 +0000" stop="20261023150945 +0000" channel="RUV.is">
+  <title lang="is">Gettu betur 1999 - MA - MS</title>
+  <sub-title lang="is">MA - MS</sub-title>
+  <category lang="is">Gullkistan</category>
+ </programme>
+ <programme start="20261023151000 +0000" stop="20261023152957 +0000" channel="RUV.is">
+  <title lang="is">Fílalag - 4. Verkamaður - Bergþóra Árnadóttir</title>
+  <sub-title lang="is">4. Verkamaður - Bergþóra Árnadóttir</sub-title>
+  <category lang="is">Skemmtun</category>
+ </programme>
  <programme start="20261023151000 +0000" stop="20261023152957 +0000" channel="RUV.is">
   <title lang="is">Fílalag</title>
   <sub-title lang="is">4. Verkamaður - Bergþóra Árnadóttir</sub-title>
@@ -3236,11 +2876,6 @@ http://dagskra.ruv.is/nanar/29848/</desc>
 Bergþóra Árnadóttir söngvaskáld samdi og flutti mörg lög sem hafa lifað með þjóðinni. Eitt þeirra, Verkamaður, sem upphaflega kom út á plötunni Eintak árið 1977, var samið við vinsælt ljóð Steins Steinarrs frá 1934. Snorri Helgason og Bergur Ebbi fíla lagið og fara yfir sögu lagsins og þá merkilegu tengingu sem það hefur við íslenska þjóðarsál. Leikstjórn: Allan Sigurðsson.
 http://dagskra.ruv.is/nanar/32655/</desc>
   <episode-num system="onscreen">4/8</episode-num>
-  <category lang="is">Skemmtun</category>
- </programme>
- <programme start="20261023151000 +0000" stop="20261023152957 +0000" channel="RUV.is">
-  <title lang="is">Fílalag - 4. Verkamaður - Bergþóra Árnadóttir</title>
-  <sub-title lang="is">4. Verkamaður - Bergþóra Árnadóttir</sub-title>
   <category lang="is">Skemmtun</category>
  </programme>
  <programme start="20261023153000 +0000" stop="20261023162839 +0000" channel="RUV.is">
@@ -3252,17 +2887,17 @@ http://dagskra.ruv.is/nanar/27948/</desc>
   <category lang="is">Heimildarþættir</category>
  </programme>
  <programme start="20261023163000 +0000" stop="20261023170102 +0000" channel="RUV.is">
+  <title lang="is">Ímynd - Listin er löng</title>
+  <sub-title lang="is">Listin er löng</sub-title>
+  <episode-num system="onscreen">4/6</episode-num>
+  <category lang="is">Heimildarmyndir</category>
+ </programme>
+ <programme start="20261023163000 +0000" stop="20261023170102 +0000" channel="RUV.is">
   <title lang="is">Ímynd</title>
   <sub-title lang="is">Listin er löng</sub-title>
   <desc lang="is">Heimildarþáttaröð í sex þáttum þar sem íslensk ljósmyndun er skoðuð út frá sjónarhorni lista, landslags, samtímans, skrásetningar, fréttaflutnings, fortíðar og framtíðar. Umsjón: Anna Gyða Sigurgísladóttir og Katrín Ásmundsdóttir. Stjórn upptöku og framleiðsla: Hrafnhildur Gunnarsdóttir.
 Í þættinum er fjallað um myndlistarljósmyndun. Löngum hefur verið dregið í efa að ljósmyndun geti verið list og þar sem einfalt er að fjölfalda ljósmyndir hefur verðmæti þeirra verið umdeilt. Nokkrir ljósmyndarar á Íslandi hafa þó skapað sér þá sérstöðu að selja myndir sínar sem list og eru jafnvel á mála hjá listagalleríum.
 http://dagskra.ruv.is/nanar/30950/</desc>
-  <episode-num system="onscreen">4/6</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261023163000 +0000" stop="20261023170102 +0000" channel="RUV.is">
-  <title lang="is">Ímynd - Listin er löng</title>
-  <sub-title lang="is">Listin er löng</sub-title>
   <episode-num system="onscreen">4/6</episode-num>
   <category lang="is">Heimildarmyndir</category>
  </programme>
@@ -3289,7 +2924,7 @@ http://dagskra.ruv.is/nanar/35470/</desc>
   <sub-title lang="is">8. Svindlið</sub-title>
   <desc lang="is">Önnur þáttaröð af Eilífu drama. Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
 Alexa og Ella vilja koma upp um Oliviu í eitt skipti fyrir öll. Þær hrinda áætlun sinni í framkvæmd og hún gengur betur en þær þorðu að vona.</desc>
-  <episode-num system="onscreen">7/12</episode-num>
+  <episode-num system="onscreen">8/12</episode-num>
  </programme>
  <programme start="20261023180300 +0000" stop="20261023181705 +0000" channel="RUV.is">
   <title lang="is">Kameljón I</title>
@@ -3400,7 +3035,7 @@ http://dagskra.ruv.is/nanar/30766/</desc>
   <sub-title lang="is">Jasmine &amp; Jómbi</sub-title>
   <desc lang="is">Jasmín og Jómbi eru góðir vinir sem elska tónlist. Saman njóta þau tónanna sem óma um Hljómbæ.
 http://dagskra.ruv.is/nanar/33849/</desc>
-  <episode-num system="onscreen">19/26</episode-num>
+  <episode-num system="onscreen">22/26</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261024071100 +0000" stop="20261024071805 +0000" channel="RUV.is">
@@ -3410,15 +3045,15 @@ http://dagskra.ruv.is/nanar/33849/</desc>
   <episode-num system="onscreen">23/39</episode-num>
  </programme>
  <programme start="20261024071800 +0000" stop="20261024072505 +0000" channel="RUV.is">
+  <title lang="is">Litla Ló - Þokudísin</title>
+  <sub-title lang="is">Þokudísin</sub-title>
+  <episode-num system="onscreen">14/26</episode-num>
+ </programme>
+ <programme start="20261024071800 +0000" stop="20261024072505 +0000" channel="RUV.is">
   <title lang="is">Litla Ló</title>
   <sub-title lang="is">Þokudísin</sub-title>
   <desc lang="is">Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.</desc>
   <episode-num system="onscreen">13/26</episode-num>
- </programme>
- <programme start="20261024071800 +0000" stop="20261024072505 +0000" channel="RUV.is">
-  <title lang="is">Litla Ló - Þokudísin</title>
-  <sub-title lang="is">Þokudísin</sub-title>
-  <episode-num system="onscreen">14/26</episode-num>
  </programme>
  <programme start="20261024072500 +0000" stop="20261024073000 +0000" channel="RUV.is">
   <title lang="is">Molang VI</title>
@@ -3444,20 +3079,20 @@ http://dagskra.ruv.is/nanar/33849/</desc>
   <episode-num system="onscreen">44/44</episode-num>
  </programme>
  <programme start="20261024075600 +0000" stop="20261024080303 +0000" channel="RUV.is">
-  <title lang="is">Blæja III - Þrautabraut</title>
-  <sub-title lang="is">Bluey</sub-title>
- </programme>
- <programme start="20261024075600 +0000" stop="20261024080303 +0000" channel="RUV.is">
   <title lang="is">Blæja III</title>
   <sub-title lang="is">Bluey</sub-title>
   <desc lang="is">Þriðja þáttaröðin um hina vinsælu Blæju og Hælbein fjölskylduna. Daglegt líf fjölskyldunnar gengur sinn vanagang, en hins vegar er enginn dagur eins þegar Blæja og Bára eiga í hlut.</desc>
   <episode-num system="onscreen">2/25</episode-num>
  </programme>
+ <programme start="20261024075600 +0000" stop="20261024080303 +0000" channel="RUV.is">
+  <title lang="is">Blæja III - Þrautabraut</title>
+  <sub-title lang="is">Bluey</sub-title>
+ </programme>
  <programme start="20261024080300 +0000" stop="20261024080600 +0000" channel="RUV.is">
   <title lang="is">Ofurdýr í náttúrunni</title>
   <sub-title lang="is">Náhvalurinn - Enginn klaki hér</sub-title>
   <desc lang="is">Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
-  <episode-num system="onscreen">22/30</episode-num>
+  <episode-num system="onscreen">21/30</episode-num>
  </programme>
  <programme start="20261024080600 +0000" stop="20261024081355 +0000" channel="RUV.is">
   <title lang="is">Sögur snjómannsins</title>
@@ -3489,7 +3124,7 @@ http://dagskra.ruv.is/nanar/33817/</desc>
   <sub-title lang="is">Tish Tash</sub-title>
   <desc lang="is">Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.
 http://dagskra.ruv.is/nanar/35934/</desc>
-  <episode-num system="onscreen">20/52</episode-num>
+  <episode-num system="onscreen">19/52</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261024090500 +0000" stop="20261024091605 +0000" channel="RUV.is">
@@ -3533,17 +3168,17 @@ http://dagskra.ruv.is/nanar/35919/</desc>
   <episode-num system="onscreen">22/26</episode-num>
  </programme>
  <programme start="20261024100000 +0000" stop="20261024102844 +0000" channel="RUV.is">
+  <title lang="is">Ævar vísindamaður III - Geimurinn</title>
+  <sub-title lang="is">Geimurinn</sub-title>
+  <episode-num system="onscreen">3/9</episode-num>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261024100000 +0000" stop="20261024102844 +0000" channel="RUV.is">
   <title lang="is">Ævar vísindamaður III</title>
   <sub-title lang="is">Geimurinn</sub-title>
   <desc lang="is">Þáttaröð frá 2015 úr smiðju Ævars vísindamanns. Í þessari þáttaröð leggur Ævar allt undir. Laufblásara-knúin svifbretti, segulskór og skordýrahamborgari eru bara nokkrar af þeim æsispennandi tilraunum sem koma fyrir. Dagskrárgerð: Ævar Þór Benediktsson og Eggert Gunnarsson
 Í þessum þætti lítum við til himins og týnum okkur í stjörnunum. Við fjöllum um geiminn og geimverur, hvað gerist ef geimfari deyr í geimnum og hittum alvöru geimfara. Sævar Helgi stjörnufræðingur kíkir í heimsókn, Sprengjugengið gerir allt vitlaust og svo rannsökum við fyrstu konuna sem fór út í geim.
 http://dagskra.ruv.is/nanar/21245/</desc>
-  <episode-num system="onscreen">3/9</episode-num>
-  <category lang="is">Börn</category>
- </programme>
- <programme start="20261024100000 +0000" stop="20261024102844 +0000" channel="RUV.is">
-  <title lang="is">Ævar vísindamaður III - Geimurinn</title>
-  <sub-title lang="is">Geimurinn</sub-title>
   <episode-num system="onscreen">3/9</episode-num>
   <category lang="is">Börn</category>
  </programme>
@@ -3567,12 +3202,6 @@ http://dagskra.ruv.is/nanar/31575/</desc>
   <episode-num system="onscreen">5/6</episode-num>
  </programme>
  <programme start="20261024160500 +0000" stop="20261024165821 +0000" channel="RUV.is">
-  <title lang="is">Stormur - 6. Jaðarhópar</title>
-  <sub-title lang="is">6. Jaðarhópar</sub-title>
-  <episode-num system="onscreen">6/8</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261024160500 +0000" stop="20261024165821 +0000" channel="RUV.is">
   <title lang="is">Stormur</title>
   <sub-title lang="is">6. Jaðarhópar</sub-title>
   <desc lang="is">Heimildarþáttaröð um baráttuna við COVID-19 þar sem fylgst er með störfum þeirra sem stjórnuðu aðgerðum í faraldrinum. Í þáttunum er einblínt á mannlega hlið faraldursins og sagt frá sorgum og sigrum í baráttu þjóðarinnar við að hemja útbreiðslu veiru sem setti heimsbyggðina á hliðina. Leikstjóri: Sævar Guðmundsson. Framleiðendur: Sævar Guðmundsson, Jóhannes Kr. Kristjánsson, Anna Karen Kristjánsdóttir og Brynja Gísladóttir.
@@ -3581,18 +3210,24 @@ http://dagskra.ruv.is/nanar/31556/</desc>
   <episode-num system="onscreen">6/8</episode-num>
   <category lang="is">Heimildarmyndir</category>
  </programme>
+ <programme start="20261024160500 +0000" stop="20261024165821 +0000" channel="RUV.is">
+  <title lang="is">Stormur - 6. Jaðarhópar</title>
+  <sub-title lang="is">6. Jaðarhópar</sub-title>
+  <episode-num system="onscreen">6/8</episode-num>
+  <category lang="is">Heimildarmyndir</category>
+ </programme>
+ <programme start="20261024170000 +0000" stop="20261024172721 +0000" channel="RUV.is">
+  <title lang="is">Ævi - Efri ár</title>
+  <sub-title lang="is">Efri ár</sub-title>
+  <episode-num system="onscreen">6/7</episode-num>
+  <category lang="is">Heimildarmyndir</category>
+ </programme>
  <programme start="20261024170000 +0000" stop="20261024172721 +0000" channel="RUV.is">
   <title lang="is">Ævi</title>
   <sub-title lang="is">Efri ár</sub-title>
   <desc lang="is">Íslensk þáttaröð sem fjallar um ævina frá upphafi til enda. Einblínt er á eitt æviskeið í einu og skoðað hvað hver kynslóð er að fást við. Sagðar eru sögur af fólki á öllum aldri og tekist á við stórar spurningar. Dagskrárgerð: Eiríkur Ingi Böðvarsson og Sigríður Halldórsdóttir.
 Í þessum þætti er fjallað um hin svokölluðu efri ár, en rannsóknir á hamingju Íslendinga sýna að fólk er aldrei hamingjusamara en einmitt á þessu æviskeiði. Og kannski ástæða til. Þarna geta margir litið stoltir um öxl, hallað sér aftur og notið ávaxtanna af öllu streðinu. Það er að segja, ef heilsan leyfir. Dagskrárgerð: Eiríkur Ingi Böðvarsson og Sigríður Halldórsdóttir.
 http://dagskra.ruv.is/nanar/24097/</desc>
-  <episode-num system="onscreen">6/7</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261024170000 +0000" stop="20261024172721 +0000" channel="RUV.is">
-  <title lang="is">Ævi - Efri ár</title>
-  <sub-title lang="is">Efri ár</sub-title>
   <episode-num system="onscreen">6/7</episode-num>
   <category lang="is">Heimildarmyndir</category>
  </programme>
@@ -3643,7 +3278,7 @@ http://dagskra.ruv.is/nanar/31259/</desc>
   <title lang="is">Fréttir</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/30762/</desc>
-  <episode-num system="onscreen">85/377</episode-num>
+  <episode-num system="onscreen">85/120</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261024192500 +0000" stop="20261024193500 +0000" channel="RUV.is">
@@ -3743,7 +3378,7 @@ http://dagskra.ruv.is/nanar/35983/</desc>
   <title lang="is">Leynilundur</title>
   <sub-title lang="is">Hullet i Hækken</sub-title>
   <desc lang="is">Flóra er níu ára og finnur gat í limgerðinu úti í garði. Hún skríður í gegn og er skyndilega stödd í skóginum endalausa – galdraheimi þar sem allt getur gerst. Þar ráfa um skrítnar og stórkostlegar verur. Þær lenda í ýmiss konar vandræðum og enginn getur hjálpað þeim – nema kannski Flóra sjálf?</desc>
-  <episode-num system="onscreen">7/26</episode-num>
+  <episode-num system="onscreen">6/26</episode-num>
  </programme>
  <programme start="20261025075000 +0000" stop="20261025075705 +0000" channel="RUV.is">
   <title lang="is">Blæja I</title>
@@ -4022,16 +3657,16 @@ http://dagskra.ruv.is/nanar/91333/</desc>
   <category lang="is">Heimildarþættir</category>
  </programme>
  <programme start="20261026151000 +0000" stop="20261026155502 +0000" channel="RUV.is">
-  <title lang="is">Sofðu vel</title>
+  <title lang="is">Sofðu vel - Loui Sand - umhverfi</title>
   <sub-title lang="is">Sov Gott</sub-title>
-  <desc lang="is">Sænskir heimildarþættir frá 2023 þar sem svefnsérfræðingurinn Christian Benedict aðstoðar fjóra einstaklinga sem öll glíma við mismunandi svefnvandamál.
-http://dagskra.ruv.is/nanar/35161/</desc>
   <episode-num system="onscreen">4/4</episode-num>
   <category lang="is">Heimildarþættir</category>
  </programme>
  <programme start="20261026151000 +0000" stop="20261026155502 +0000" channel="RUV.is">
-  <title lang="is">Sofðu vel - Loui Sand - umhverfi</title>
+  <title lang="is">Sofðu vel</title>
   <sub-title lang="is">Sov Gott</sub-title>
+  <desc lang="is">Sænskir heimildarþættir frá 2023 þar sem svefnsérfræðingurinn Christian Benedict aðstoðar fjóra einstaklinga sem öll glíma við mismunandi svefnvandamál.
+http://dagskra.ruv.is/nanar/35161/</desc>
   <episode-num system="onscreen">4/4</episode-num>
   <category lang="is">Heimildarþættir</category>
  </programme>
@@ -4211,7 +3846,7 @@ http://dagskra.ruv.is/nanar/30766/</desc>
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">213/365</episode-num>
+  <episode-num system="onscreen">213/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261027133000 +0000" stop="20261027134002 +0000" channel="RUV.is">
@@ -4468,16 +4103,16 @@ http://dagskra.ruv.is/nanar/28071/</desc>
   <category lang="is">Menning</category>
  </programme>
  <programme start="20261028165000 +0000" stop="20261028172809 +0000" channel="RUV.is">
-  <title lang="is">Eyðibýli - Heiði</title>
-  <sub-title lang="is">Heiði</sub-title>
-  <episode-num system="onscreen">5/6</episode-num>
-  <category lang="is">Fræðsla</category>
- </programme>
- <programme start="20261028165000 +0000" stop="20261028172809 +0000" channel="RUV.is">
   <title lang="is">Eyðibýli</title>
   <sub-title lang="is">Heiði</sub-title>
   <desc lang="is">Þáttaröð um eyðibýli á Íslandi. Þar sem á árum áður voru reisulegir sveitabæir með iðandi mannlífi standa nú húsin tóm. Rætt er um byggingu bæjanna og talað við fólk sem tengist stöðunum á einn eða annan hátt. Farið er í Suðurhús í Suðursveit, Hamra á Mýrum, Múlakot í Fljótshlíð, Öxney á Breiðafirði, Heiði á Langanesi og Vatnshorn í Skorradal. Umsjónamaður er Guðni Kolbeinsson og dagskrárgerð annaðist Björn Emilsson.
 http://dagskra.ruv.is/nanar/16784/</desc>
+  <episode-num system="onscreen">5/6</episode-num>
+  <category lang="is">Fræðsla</category>
+ </programme>
+ <programme start="20261028165000 +0000" stop="20261028172809 +0000" channel="RUV.is">
+  <title lang="is">Eyðibýli - Heiði</title>
+  <sub-title lang="is">Heiði</sub-title>
   <episode-num system="onscreen">5/6</episode-num>
   <category lang="is">Fræðsla</category>
  </programme>
@@ -4505,7 +4140,7 @@ http://dagskra.ruv.is/nanar/35841/</desc>
   <sub-title lang="is">Lalli, teiknaðu galdranorn</sub-title>
   <desc lang="is">Önnur þáttaröð um Lalla, sem færir ykkur allan heiminn þegar hann grípur litina sína. Hann er svo flinkur að teikna hann Lalli!
 http://dagskra.ruv.is/nanar/35983/</desc>
-  <episode-num system="onscreen">36/39</episode-num>
+  <episode-num system="onscreen">39/39</episode-num>
   <category lang="is">Börn</category>
  </programme>
  <programme start="20261028175600 +0000" stop="20261028180120 +0000" channel="RUV.is">
@@ -4532,7 +4167,7 @@ http://dagskra.ruv.is/nanar/35851/</desc>
   <title lang="is">Krakkafréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir settar fram á einfaldan og aðgengilegan hátt. 
 Umsjón: Ari Páll Karlsson, Embla Bachmann og Snæ Humadóttir. Ritstjórn: Ari Páll Karlsson.</desc>
-  <episode-num system="onscreen">121/162</episode-num>
+  <episode-num system="onscreen">130/162</episode-num>
  </programme>
  <programme start="20261028182500 +0000" stop="20261028184918 +0000" channel="RUV.is">
   <title lang="is">Ísþjóðin með Ragnhildi Steinunni - Gylfi Þór Sigurðsson</title>
@@ -4615,7 +4250,7 @@ http://dagskra.ruv.is/nanar/30766/</desc>
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">215/365</episode-num>
+  <episode-num system="onscreen">215/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261029133000 +0000" stop="20261029133902 +0000" channel="RUV.is">
@@ -4812,7 +4447,7 @@ Karen er boðið í spennandi óvissuferð út fyrir bæinn. Hún er óörugg yf
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">216/365</episode-num>
+  <episode-num system="onscreen">216/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261030133000 +0000" stop="20261030133900 +0000" channel="RUV.is">
@@ -4928,14 +4563,14 @@ Allir vinna hörðum höndum að því að komast inn í dansdeildina í Edvard 
   <episode-num system="onscreen">3/10</episode-num>
  </programme>
  <programme start="20261030184500 +0000" stop="20261030184910 +0000" channel="RUV.is">
-  <title lang="is">Landakort - Þörungauppskera í Hólmavík</title>
-  <sub-title lang="is">Þörungauppskera í Hólmavík</sub-title>
- </programme>
- <programme start="20261030184500 +0000" stop="20261030184910 +0000" channel="RUV.is">
   <title lang="is">Landakort</title>
   <sub-title lang="is">Þörungauppskera í Hólmavík</sub-title>
   <desc lang="is">Valin myndskeið úr Landanum þar sem áhugaverðir staðir eru skoðaðir og merkilegir Íslendingar heimsóttir. Dagskrárgerð: Gísli Einarsson og Karl Sigtryggsson.</desc>
   <episode-num system="onscreen">10/38</episode-num>
+ </programme>
+ <programme start="20261030184500 +0000" stop="20261030184910 +0000" channel="RUV.is">
+  <title lang="is">Landakort - Þörungauppskera í Hólmavík</title>
+  <sub-title lang="is">Þörungauppskera í Hólmavík</sub-title>
  </programme>
  <programme start="20261030185000 +0000" stop="20261030185328 +0000" channel="RUV.is">
   <title lang="is">Lag dagsins</title>
@@ -5228,17 +4863,17 @@ http://dagskra.ruv.is/nanar/31575/</desc>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261031133000 +0000" stop="20261031142112 +0000" channel="RUV.is">
-  <title lang="is">Stormur - 7. Jólakúlan</title>
-  <sub-title lang="is">7. Jólakúlan</sub-title>
-  <episode-num system="onscreen">7/8</episode-num>
-  <category lang="is">Heimildarmyndir</category>
- </programme>
- <programme start="20261031133000 +0000" stop="20261031142112 +0000" channel="RUV.is">
   <title lang="is">Stormur</title>
   <sub-title lang="is">7. Jólakúlan</sub-title>
   <desc lang="is">Heimildarþáttaröð um baráttuna við COVID-19 þar sem fylgst er með störfum þeirra sem stjórnuðu aðgerðum í faraldrinum. Í þáttunum er einblínt á mannlega hlið faraldursins og sagt frá sorgum og sigrum í baráttu þjóðarinnar við að hemja útbreiðslu veiru sem setti heimsbyggðina á hliðina. Leikstjóri: Sævar Guðmundsson. Framleiðendur: Sævar Guðmundsson, Jóhannes Kr. Kristjánsson, Anna Karen Kristjánsdóttir og Brynja Gísladóttir.
 Gylfi er orðinn þreyttur og tekur á móti gesti í farsóttarhúsið rétt fyrir klukkan sex á aðfangadagskvöld. Kári og Þórólfur gera lokatilraun til að ná samningi við Pfizer. Bóluefnin koma til landsins og hópur fólks mótmælir þeim.
 http://dagskra.ruv.is/nanar/31556/</desc>
+  <episode-num system="onscreen">7/8</episode-num>
+  <category lang="is">Heimildarmyndir</category>
+ </programme>
+ <programme start="20261031133000 +0000" stop="20261031142112 +0000" channel="RUV.is">
+  <title lang="is">Stormur - 7. Jólakúlan</title>
+  <sub-title lang="is">7. Jólakúlan</sub-title>
   <episode-num system="onscreen">7/8</episode-num>
   <category lang="is">Heimildarmyndir</category>
  </programme>
@@ -5359,12 +4994,316 @@ Selfoss mætir Laugum. Keppendur frá Selfossi eru Katrín Aagestad Gunnarsdótt
   <title lang="is">Óráð</title>
   <desc lang="is">Íslensk hrollvekja frá 2023. Ingi er ungur fjölskyldufaðir sem reynir að koma undir sig fótunum eftir að hafa valdið hræðilegu slysi. Hann finnur leigjanda látinn í Airbnb íbúð sinni og þegar hann reynir að púsla fortíð hans saman hefst dularfull atburðarás. Leikstjóri: Arró Stefánsson. Aðalhlutverk: Hjörtur Jóhann Jónsson, Heiðdís Chadwick Hlynsdóttir og Steinþór Hróar Steinþórsson. Myndin er ekki við hæfi barna yngri en 16 ára.</desc>
  </programme>
- <programme start="20261010190000 +0000" stop="20261010192000 +0000" channel="RUV2.is">
+ <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="RUV.is">
+  <title lang="is">KrakkaRÚV</title>
+  <desc lang="is">http://dagskra.ruv.is/nanar/34361/</desc>
+  <episode-num system="onscreen">169/200</episode-num>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261101070100 +0000" stop="20261101070546 +0000" channel="RUV.is">
+  <title lang="is">Smástund II</title>
+  <sub-title lang="is">Kanína og hrista litlar hristur</sub-title>
+  <desc lang="is">Smástund hentar vel fyrir þau allra yngstu, í hverjum þætti lærum við orð, liti, tölur og tónlist. Dagskrárgerð: Agnes Wild. Tónlist: Sigrún Harðardóttir.
+http://dagskra.ruv.is/nanar/34298/</desc>
+  <episode-num system="onscreen">1/8</episode-num>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261101070100 +0000" stop="20261101070546 +0000" channel="RUV.is">
+  <title lang="is">Smástund II - Kanína og hrista litlar hristur</title>
+  <sub-title lang="is">Kanína og hrista litlar hristur</sub-title>
+  <episode-num system="onscreen">1/8</episode-num>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261101070600 +0000" stop="20261101070905 +0000" channel="RUV.is">
+  <title lang="is">Sandkassinn</title>
+  <sub-title lang="is">Sulta</sub-title>
+  <desc lang="is">Í Sandkassanum er fjallað um samvinnu og ágreining systkina. Brói og Mæja eru ólík systkini og lenda í ýmsum ævintýrum í sandkassanum.</desc>
+  <episode-num system="onscreen">8/26</episode-num>
+ </programme>
+ <programme start="20261101070900 +0000" stop="20261101071400 +0000" channel="RUV.is">
+  <title lang="is">Molang V</title>
+  <sub-title lang="is">Molang V</sub-title>
+  <desc lang="is">Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.</desc>
+  <episode-num system="onscreen">42/52</episode-num>
+ </programme>
+ <programme start="20261101071400 +0000" stop="20261101072050 +0000" channel="RUV.is">
+  <title lang="is">Fílsi og eldhústækin</title>
+  <sub-title lang="is">Brauðrist</sub-title>
+  <desc lang="is">Fílsi lærir ýmislegt um mismunandi eldhústæki, sem getur svo sannarlega komið sér vel að kunna þegar útbúa skal mat!</desc>
+  <episode-num system="onscreen">7/8</episode-num>
+ </programme>
+ <programme start="20261101072100 +0000" stop="20261101072749 +0000" channel="RUV.is">
+  <title lang="is">Lalli II</title>
+  <sub-title lang="is">Lalli, teiknaðu sjóræningjaskip</sub-title>
+  <desc lang="is">Önnur þáttaröð um Lalla, sem færir ykkur allan heiminn þegar hann grípur litina sína. Hann er svo flinkur að teikna hann Lalli!
+http://dagskra.ruv.is/nanar/35983/</desc>
+  <episode-num system="onscreen">27/39</episode-num>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261101072800 +0000" stop="20261101073507 +0000" channel="RUV.is">
+  <title lang="is">Hæ Sámur III</title>
+  <sub-title lang="is">Hey Duggee III</sub-title>
+  <desc lang="is">Þriðja þáttaröðin um vinalega hundinn Sám og krílin sem vinna sér inn merki á leikskólanum hans.</desc>
+  <episode-num system="onscreen">20/52</episode-num>
+ </programme>
+ <programme start="20261101073500 +0000" stop="20261101074258 +0000" channel="RUV.is">
+  <title lang="is">Sögur snjómannsins 4</title>
+  <sub-title lang="is">Yeti Tales</sub-title>
+  <desc lang="is">Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
+  <episode-num system="onscreen">34/52</episode-num>
+ </programme>
+ <programme start="20261101074300 +0000" stop="20261101075019 +0000" channel="RUV.is">
+  <title lang="is">Leynilundur</title>
+  <sub-title lang="is">Hullet i Hækken</sub-title>
+  <desc lang="is">Flóra er níu ára og finnur gat í limgerðinu úti í garði. Hún skríður í gegn og er skyndilega stödd í skóginum endalausa – galdraheimi þar sem allt getur gerst. Þar ráfa um skrítnar og stórkostlegar verur. Þær lenda í ýmiss konar vandræðum og enginn getur hjálpað þeim – nema kannski Flóra sjálf?</desc>
+  <episode-num system="onscreen">5/26</episode-num>
+ </programme>
+ <programme start="20261101075000 +0000" stop="20261101075705 +0000" channel="RUV.is">
+  <title lang="is">Blæja I</title>
+  <sub-title lang="is">Bluey</sub-title>
+  <desc lang="is">Fyrsta þáttaröðin af hinni vinsælu Blæju. Blæja er sex ára hundur sem er stútfull af óstöðvandi gleði. Allir venjulegir hlutir geta orðið ævintýri hjá Blæju og fjölskyldu hennar.
+http://dagskra.ruv.is/nanar/31684/</desc>
+  <episode-num system="onscreen">32/52</episode-num>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261101075700 +0000" stop="20261101082004 +0000" channel="RUV.is">
+  <title lang="is">Kúlugúbbarnir</title>
+  <sub-title lang="is">Bubble Guppies III</sub-title>
+  <desc lang="is">Krúttlegir teiknimyndaþættir um litla hafbúa sem eru saman í bekk og elska að syngja og dansa. Kennarinn þeirra er hress gullfiskur sem kennir þeim ýmislegt um lífið og tilveruna.
+http://dagskra.ruv.is/nanar/36786/</desc>
+  <episode-num system="onscreen">18/25</episode-num>
+ </programme>
+ <programme start="20261101082000 +0000" stop="20261101083105 +0000" channel="RUV.is">
+  <title lang="is">Krílin</title>
+  <sub-title lang="is">Tvíliða tiltekt</sub-title>
+  <desc lang="is">Leikföngin í Háaloftsbæ lifna við og breyta hversdagslegum hlutum í stórskemmtilegar uppfinningar. Krílin eru nefnilega snillingar í að nota ímyndunaraflið og um leið hvetja börn til þess að skapa og prófa sig áfram.</desc>
+  <episode-num system="onscreen">29/51</episode-num>
+ </programme>
+ <programme start="20261101083100 +0000" stop="20261101085622 +0000" channel="RUV.is">
+  <title lang="is">Einu sinni var... Lífið</title>
+  <sub-title lang="is">Eyrað</sub-title>
+  <desc lang="is">Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir. Að þessu sinni fræðumst við um mannslíkamann.</desc>
+  <episode-num system="onscreen">12/26</episode-num>
+ </programme>
+ <programme start="20261101085600 +0000" stop="20261101090318 +0000" channel="RUV.is">
+  <title lang="is">Karla og Regnbogaskólinn - Kúng fú</title>
+  <sub-title lang="is">Kúng fú</sub-title>
+  <episode-num system="onscreen">15/52</episode-num>
+ </programme>
+ <programme start="20261101085600 +0000" stop="20261101090318 +0000" channel="RUV.is">
+  <title lang="is">Karla og Regnbogaskólinn</title>
+  <sub-title lang="is">Kúng fú</sub-title>
+  <desc lang="is">Karla er 8 ára kjúklingur, sem hefur það að markmiði að halda öllum ánægðum, svo lengi sem það kemur ekki niður á lífi hennar. Hún elskar skólann sinn og alla vini sína. Hún leggur hart að sér til að þóknast öllum, en stundum ganga hlutirnir ekki alveg eins og áætlað var. Í þessum þáttum eru félagsleg samskipti og tilfinningar þeim tengd könnuð út frá heimi krakkanna. Hvað er rétt og hvað er rangt? Getur maður átt fleiri en einn besta vin?
+http://dagskra.ruv.is/nanar/35841/</desc>
+  <episode-num system="onscreen">15/52</episode-num>
+ </programme>
+ <programme start="20261101090300 +0000" stop="20261101091318 +0000" channel="RUV.is">
+  <title lang="is">Bjössi Brunabangsi III</title>
+  <sub-title lang="is">Skógareldur</sub-title>
+  <desc lang="is">Ný sería um hinn vinsæla Bjössa Brunabangsa! Í þessari seríu fylgjumst við með hetjunni Bjössa brunabangsa, sem elskar að keyra slökkviliðsbíl og slökkva elda. Á hverjum einasta degi leysir hann spennandi verkefni með hjálp frá samstarfsfólki sínu.</desc>
+  <episode-num system="onscreen">2/10</episode-num>
+ </programme>
+ <programme start="20261101091300 +0000" stop="20261101091820 +0000" channel="RUV.is">
+  <title lang="is">Eplabær</title>
+  <sub-title lang="is">Knútur frændi stuðbolti</sub-title>
+  <desc lang="is">Velkomin til Eplabæjar. Eplabær er svo daufur og óspennandi að hann hefur verið tekinn út af landakortum. En ef betur er að gáð fela jafnvel mestu leiðindin í sér ævintýri. Stundum getur ómerkilegasti staðurinn orðið vettvangur stórkostlegra uppátækja – ef ímyndunaraflið fær að ráða.</desc>
+  <episode-num system="onscreen">19/20</episode-num>
+ </programme>
+ <programme start="20261101091800 +0000" stop="20261101093927 +0000" channel="RUV.is">
+  <title lang="is">Sögur úr Andabæ</title>
+  <sub-title lang="is">Vúhúú!</sub-title>
+  <desc lang="is">Teiknimyndaþættir um moldríku öndina Jóakim aðalönd, seinheppna frænda hans, Andrés önd, og félaga þeirra í Andabæ.</desc>
+  <episode-num system="onscreen">1/25</episode-num>
+ </programme>
+ <programme start="20261101094000 +0000" stop="20261101100000 +0000" channel="RUV.is">
+  <title lang="is">Stundin okkar-Tökum á loft V</title>
+  <sub-title lang="is">Bannað að ÖSKRA!</sub-title>
+  <desc lang="is">Elsti sjónvarpsþáttur landsins snýr aftur með ný ævintýri! 
+Áróra heldur áfram að kanna heiminn og takast á við ný verkefni. Þegar Máni og fleiri vinir flytja burt tekur nýr kafli við og Áróra kynnist nýjum krökkum í sumarbúðunum. Með Loft og Sjón sér við hlið uppgötvar hún að  ný ævintýri bíða alltaf handan við hornið.
+Hrekkjavakan er gengin í garð og Loft er svo skíthrætt að það flýr alla leið til tunglsins! Fret sér sér leik á borði og mætir í þess stað, staðráðið í að hrekkja krakkana. Í sumarbúðunum reynir svo heldur betur á taugarnar þegar krakkarnir fara í Bannað að ÖSKRA!... eða hlæja.</desc>
+  <episode-num system="onscreen">4/11</episode-num>
+ </programme>
+ <programme start="20261101100000 +0000" stop="20261101110000 +0000" channel="RUV.is">
+  <title lang="is">Landsleikarnir</title>
+  <sub-title lang="is">Selfoss- Laugar</sub-title>
+  <desc lang="is">Spennandi spurningaþáttur í beinni útsendingu þar sem baggalúturinn Guðmundur Pálsson og sjónvarpskonan Sigrún Ósk Kristjánsdóttir halda um stjórnartaumana. Fulltrúar bæjarfélaga um allt land spreyta sig á spurningum, glíma við heilabrot og leysa ýmsar þrautir. Hvaða lið stendur uppi sem landsmeistari? Stjórn útsendingar: Sturla Skúlason.
+Selfoss mætir Laugum. Keppendur frá Selfossi eru Katrín Aagestad Gunnarsdóttir, Grímur Hergeirsson og Páll Óli Ólason. Keppendur frá Laugum eru Sigurbjörn Árni Arngrímsson, Andri Hnikarr Jónsson og Vala Fannell.</desc>
+  <episode-num system="onscreen">6/15</episode-num>
+ </programme>
+ <programme start="20261101111500 +0000" stop="20261101115745 +0000" channel="RUV.is">
+  <title lang="is">Ég sé þig</title>
+  <desc lang="is">Íslenskur heimildarþáttur um hvernig hægt er að nýta skapandi tónlistarmiðlun til að hjálpa fólki til virkni í samfélaginu. Í þættinum fylgjumst við með stofnun Kodu Samfóníu, 35 manna hljómsveitar sem samanstendur af fólki sem hefur leitað sér hjálpar hjá starfsendurhæfingarstöðvum, hljóðfæraleikurum úr Sinfóníuhljómsveit Íslands og nemendum og starfsfólki við skapandi tónlistarmiðlun í Listaháskóla Íslands. Dagskrárgerð: Anna Hildur Hildibrandsdóttir.
+http://dagskra.ruv.is/nanar/33289/</desc>
+  <category lang="is">Heimildarmyndir</category>
+ </programme>
+ <programme start="20261101120500 +0000" stop="20261101125650 +0000" channel="RUV.is">
+  <title lang="is">Ljósmóðirin</title>
+  <sub-title lang="is">Call the Midwife XIII</sub-title>
+  <desc lang="is">Þrettánda þáttaröð breska myndaflokksins Ljósmóðurinnar, sem er byggður á sannsögulegum heimildum um ljósmæður og skjólstæðinga þeirra í fátækrahverfi í austurborg London á sjöunda áratugnum. Meðal leikenda eru Vanessa Redgrave, Laura Main, Jenny Agutter og Stephen McGann.</desc>
+  <episode-num system="onscreen">3/8</episode-num>
+ </programme>
+ <programme start="20261101130000 +0000" stop="20261101132000 +0000" channel="RUV.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">81/377</episode-num>
+  <episode-num system="onscreen">87/377</episode-num>
   <category lang="is">Fréttaefni</category>
+ </programme>
+ <programme start="20261101132000 +0000" stop="20261101142906 +0000" channel="RUV.is">
+  <title lang="is">Óskalög Norðmanna</title>
+  <sub-title lang="is">Önskekonsert med Kork</sub-title>
+  <desc lang="is">Útitónleikar með hljómsveit norska ríkissjónvarpsins sem leikur þekkta kvikmyndatónlist, tónlist úr söngleikjum og klassískar perlur.
+http://dagskra.ruv.is/nanar/25900/</desc>
+  <category lang="is">Menning</category>
+ </programme>
+ <programme start="20261101143000 +0000" stop="20261101151500 +0000" channel="RUV.is">
+  <title lang="is">Kiljan</title>
+  <desc lang="is">Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Egill og bókelskir félagar hans fjalla sem fyrr um forvitnilegar bækur af ýmsum toga og úr öllum áttum. Umsjón: Egill Helgason. Dagskrárgerð: Jón Víðir Hauksson.</desc>
+  <episode-num system="onscreen">5/25</episode-num>
+ </programme>
+ <programme start="20261101151500 +0000" stop="20261101163704 +0000" channel="RUV.is">
+  <title lang="is">Á skjön - verk og dagar Magnúsar Pálssonar</title>
+  <desc lang="is">Heimildarmynd um myndlistarmanninn Magnús Pálsson. Magnúsi er fylgt eftir við iðju sína yfir nokkurra ára tímabil undir lok starfsævinnar. Leikstjóri: Steinþór Birgisson.</desc>
+ </programme>
+ <programme start="20261101163500 +0000" stop="20261101172627 +0000" channel="RUV.is">
+  <title lang="is">Handritin - Veskú</title>
+  <desc lang="is">Fyrstu íslensku miðaldahandritin komu heim frá Danmörku 21. apríl 1971. Þúsundir manna á öllum aldri fögnuðu því á hafnarbakkanum. Í þættinum verður saga heimkomu handritanna sögð með því að heyra margar ólíkar raddir, bæði íslenskar og danskar, sem rekja ástæður þess að það tók frændþjóðirnar langan tíma að semja um hvar þau skyldu varðveitt. Nú þegar helmingur handritasafns Árna Magnússonar hefur verið á Íslandi í hálfa öld er einnig horft til framtíðar og spurt hvaða vitnisburð handritin geyma fyrir komandi kynslóðir.
+http://dagskra.ruv.is/nanar/30892/</desc>
+  <category lang="is">Heimildarþættir</category>
+ </programme>
+ <programme start="20261101173000 +0000" stop="20261101182000 +0000" channel="RUV.is">
+  <title lang="is">KrakkaRÚV</title>
+  <desc lang="is">http://dagskra.ruv.is/nanar/34361/</desc>
+  <episode-num system="onscreen">53/200</episode-num>
+  <category lang="is">Börn</category>
+ </programme>
+ <programme start="20261101173100 +0000" stop="20261101175100 +0000" channel="RUV.is">
+  <title lang="is">Stundin okkar-Tökum á loft V</title>
+  <sub-title lang="is">Bannað að ÖSKRA!</sub-title>
+  <desc lang="is">Elsti sjónvarpsþáttur landsins snýr aftur með ný ævintýri! 
+Áróra heldur áfram að kanna heiminn og takast á við ný verkefni. Þegar Máni og fleiri vinir flytja burt tekur nýr kafli við og Áróra kynnist nýjum krökkum í sumarbúðunum. Með Loft og Sjón sér við hlið uppgötvar hún að  ný ævintýri bíða alltaf handan við hornið.
+Hrekkjavakan er gengin í garð og Loft er svo skíthrætt að það flýr alla leið til tunglsins! Fret sér sér leik á borði og mætir í þess stað, staðráðið í að hrekkja krakkana. Í sumarbúðunum reynir svo heldur betur á taugarnar þegar krakkarnir fara í Bannað að ÖSKRA!... eða hlæja.</desc>
+  <episode-num system="onscreen">4/11</episode-num>
+ </programme>
+ <programme start="20261101175100 +0000" stop="20261101180028 +0000" channel="RUV.is">
+  <title lang="is">Björgunarhundurinn Bessí</title>
+  <sub-title lang="is">Kanósigling</sub-title>
+  <desc lang="is">Anne Dorothea á mjög sérstakan besta vin, björgunarhundinn Bessa!
+http://dagskra.ruv.is/nanar/35786/</desc>
+  <episode-num system="onscreen">4/24</episode-num>
+ </programme>
+ <programme start="20261101175800 +0000" stop="20261101180204 +0000" channel="RUV.is">
+  <title lang="is">Undraveröld villtu dýranna</title>
+  <sub-title lang="is">Úr karlfiski í kvenfisk</sub-title>
+  <desc lang="is">Dýralífsþættir sem gefa okkur dásamlega innsýn inn í undraveröld villtu dýranna.</desc>
+  <episode-num system="onscreen">16/40</episode-num>
+ </programme>
+ <programme start="20261101180200 +0000" stop="20261101180905 +0000" channel="RUV.is">
+  <title lang="is">Blæja III</title>
+  <sub-title lang="is">Bluey</sub-title>
+  <desc lang="is">Þriðja þáttaröðin um hina vinsælu Blæju og Hælbein fjölskylduna. Daglegt líf fjölskyldunnar gengur sinn vanagang, en hins vegar er enginn dagur eins þegar Blæja og Bára eiga í hlut.</desc>
+  <episode-num system="onscreen">12/25</episode-num>
+ </programme>
+ <programme start="20261101180200 +0000" stop="20261101180905 +0000" channel="RUV.is">
+  <title lang="is">Blæja III - Húsverk</title>
+  <sub-title lang="is">Bluey</sub-title>
+  <episode-num system="onscreen">4/17</episode-num>
+ </programme>
+ <programme start="20261101180900 +0000" stop="20261101181543 +0000" channel="RUV.is">
+  <title lang="is">Heimilisfræði II</title>
+  <sub-title lang="is">Svampkökur viktoríutímans</sub-title>
+  <desc lang="is">Sumarliði hefur tekið við heimilisfræðikennslunni og fer með nemendur sína í tímflakk, þar sem við kynnumst hinum ótrúlegustu réttum frá mismunandi tímabilum í sögunni.
+Viktoríu svampkaka var mjög vinsæl á Viktoríutímanum en hún var nefnd eftir Viktoríu Bretadrottningu þar sem þetta var talið hennar uppáhalds kaka. 
+
+Kakan er einföld: tveir svampbotnar og á milli fer krem eða sætur rjómi og hindberjasulta. Flórsykri er svo dreyft yfir.</desc>
+  <episode-num system="onscreen">2/5</episode-num>
+ </programme>
+ <programme start="20261101180900 +0000" stop="20261101181543 +0000" channel="RUV.is">
+  <title lang="is">Heimilisfræði II - Viktoríutímabilið</title>
+  <sub-title lang="is">Svampkökur viktoríutímans</sub-title>
+ </programme>
+ <programme start="20261101181600 +0000" stop="20261101182032 +0000" channel="RUV.is">
+  <title lang="is">Skrýtna kaffiævintýrið</title>
+  <sub-title lang="is">Sögur - stuttmyndir</sub-title>
+  <desc lang="is">Leiknar stuttmyndir úr smiðju ungra höfunda sem framleiddar voru í tengslum við verkefnið Sögur hjá KrakkaRÚV 2024.
+Handrit eftir Ástríði Grímu Ásgrímsdóttur.</desc>
+  <episode-num system="onscreen">1/2</episode-num>
+ </programme>
+ <programme start="20261101181600 +0000" stop="20261101182032 +0000" channel="RUV.is">
+  <title lang="is">Skrýtna kaffiævintýrið - Skrýtna kaffiævintýrið</title>
+  <sub-title lang="is">Sögur - stuttmyndir</sub-title>
+ </programme>
+ <programme start="20261101182000 +0000" stop="20261101184500 +0000" channel="RUV.is">
+  <title lang="is">Miðstöðin</title>
+  <desc lang="is">Siggi Gunnars stýrir lifandi þætti um dægurmenningu og tekur stöðuna á því sem við horfum á, hlustum á og tölum um. Góðir gestir, skoðanir, húmor og leikgleði í fyrirrúmi. Stjórn upptöku: Þórunn Guðjónsdóttir.</desc>
+  <episode-num system="onscreen">5/25</episode-num>
+ </programme>
+ <programme start="20261101185000 +0000" stop="20261101185402 +0000" channel="RUV.is">
+  <title lang="is">Lag dagsins</title>
+  <sub-title lang="is">Snorri Helgason - Ingileif</sub-title>
+  <desc lang="is">Íslensk tónlistarmyndbönd.
+http://dagskra.ruv.is/nanar/32122/</desc>
+  <episode-num system="onscreen">56/163</episode-num>
+  <category lang="is">Menning</category>
+ </programme>
+ <programme start="20261101185000 +0000" stop="20261101185402 +0000" channel="RUV.is">
+  <title lang="is">Lag dagsins - Snorri Helgason - Ingileif</title>
+  <sub-title lang="is">Snorri Helgason - Ingileif</sub-title>
+  <episode-num system="onscreen">22/163</episode-num>
+  <category lang="is">Menning</category>
+ </programme>
+ <programme start="20261101190000 +0000" stop="20261101192000 +0000" channel="RUV.is">
+  <title lang="is">Fréttir</title>
+  <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+http://dagskra.ruv.is/nanar/30762/</desc>
+  <episode-num system="onscreen">88/377</episode-num>
+  <category lang="is">Fréttaefni</category>
+ </programme>
+ <programme start="20261101192500 +0000" stop="20261101193500 +0000" channel="RUV.is">
+  <title lang="is">Íþróttir</title>
+  <desc lang="is">Íþróttafréttir.
+http://dagskra.ruv.is/nanar/30657/</desc>
+  <episode-num system="onscreen">87/120</episode-num>
+  <category lang="is">Íþróttir</category>
+ </programme>
+ <programme start="20261101193500 +0000" stop="20261101194000 +0000" channel="RUV.is">
+  <title lang="is">Veður</title>
+  <desc lang="is">Veðurfréttir.
+http://dagskra.ruv.is/nanar/30766/</desc>
+  <episode-num system="onscreen">293/367</episode-num>
+  <category lang="is">Fréttaefni</category>
+ </programme>
+ <programme start="20261101194500 +0000" stop="20261101201200 +0000" channel="RUV.is">
+  <title lang="is">Landinn</title>
+  <desc lang="is">Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Hafsteinn Vilhelmsson, Þórdís Claessen og Amanda Guðrún Bjarnadóttir. Dagskrárgerð: Jóhannes Jónsson, Björgvin Kolbeinsson, Benedikt Nikulás Anes Ketilsson, Adelina Antal og Hjalti Stefánsson.</desc>
+  <episode-num system="onscreen">6/29</episode-num>
+ </programme>
+ <programme start="20261101201500 +0000" stop="20261101205500 +0000" channel="RUV.is">
+  <title lang="is">Svona er lífið</title>
+  <sub-title lang="is">Ingólfur Snær Víðisson</sub-title>
+  <desc lang="is">Viðtalsþáttur þar sem Viktoría Hermannsdóttir spjallar við áhugavert fólk á einlægum nótum og fær að heyra alls konar sögur. Dagskrárgerð: Fannar Scheving Edwardsson og Viktoría Hermannsdóttir.
+Þegar Ingólfur Snær Víðisson var fjórtán ára hafði hann misst báða foreldra sína og var í umsjá barnaverndaryfirvalda. Unglingsárunum eyddi hann að mestu á fósturheimilum og úrræðum á vegum barnaverndaryfirvalda þar til hann var dæmdur í fangelsi 17 ára gamall. Rúmlega tvítugur sneri hann við blaðinu og vinnur nú við að hjálpa hinum ýmsu jaðarsettu hópum. Við fylgjum Ingólfi eftir í starfi hans í fangelsi og fáum að heyra hans mögnuðu sögu.</desc>
+  <episode-num system="onscreen">3/20</episode-num>
+ </programme>
+ <programme start="20261101210000 +0000" stop="20261101215000 +0000" channel="RUV.is">
+  <title lang="is">Fleiri pabbahelgar</title>
+  <desc lang="is">Önnur þáttaröð leikinna íslenskra þátta. Karen hefur fengið sig fullsadda af Tinder og leitinni að hinni einu sönnu ást. Hún ákveður að segja skilið við stefnumótabransann og læra frekar að elska sjálfa sig en klisjan um að setja sjálfa sig í fyrsta sæti reynist flóknari en sýndist í fyrstu. Aðalhlutverk: Nanna Kristín Magnúsdóttir og Sveinn Ólafur Gunnarsson. Leikstjóri: Nanna Kristín Magnúsdóttir. Framleiðsla: Cubs Production og Vintage Pictures. Þættirnir eru ekki við hæfi barna yngri en 14 ára.
+Karen lætur afbrýðisemi hlaupa með sig í gönur og fer gjörsamlega fram úr sér á endanum. Það getur verið flókið fyrir sterka konu að vera lítil í sér.</desc>
+  <episode-num system="onscreen">3/6</episode-num>
+ </programme>
+ <programme start="20261101215500 +0000" stop="20261101223748 +0000" channel="RUV.is">
+  <title lang="is">Vaka</title>
+  <sub-title lang="is">Vaka</sub-title>
+  <desc lang="is">Sænsk leikin þáttaröð frá 2026 eftir Brynju Björk Garðarsdóttur. Banvænn svefnleysisfaraldur herjar á Stokkhólm og setur samfélagið á hliðina. Íbúar borgarinnar neyðast til að takast á við nýjan og ógnvænlegan veruleika. Leikstjóri: Henrik Georgsson. Aðalhlutverk: Jonas Karlsson, Aliette Opheim og Gizem Erdogan. Þættirnir eru ekki við hæfi barna yngri en 16 ára.</desc>
+  <episode-num system="onscreen">3/6</episode-num>
+  <rating>
+   <value>16</value>
+  </rating>
+ </programme>
+ <programme start="20261101224000 +0000" stop="20261102002803 +0000" channel="RUV.is">
+  <title lang="is">Allt fór vel</title>
+  <sub-title lang="is">Tout s'est bien passé</sub-title>
+  <desc lang="is">Frönsk kvikmynd frá 2021 byggð á samnefndri bók með endurminningum höfundarins Emmanuèle Bernheim. Þegar faðir Emmanuèle lamast af völdum heilablóðfalls biður hann hana að aðstoða sig við að binda enda á líf sitt. Hún samþykkir að hjálpa honum en þarf að leita leiða til að verða við ósk hans þar sem líknardráp er ólöglegt í Frakklandi. Leikstjóri: François Ozon. Aðalhlutverk: Sophie Marceau, Andé Dussollier og Féraldine Pailhas.</desc>
  </programme>
  <programme start="20261011190000 +0000" stop="20261011192000 +0000" channel="RUV2.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
@@ -5431,14 +5370,14 @@ http://dagskra.ruv.is/nanar/31575/</desc>
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">83/377</episode-num>
+  <episode-num system="onscreen">83/120</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261018190000 +0000" stop="20261018192000 +0000" channel="RUV2.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">84/120</episode-num>
+  <episode-num system="onscreen">84/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261019192000 +0000" stop="20261019213000 +0000" channel="RUV2.is">
@@ -5536,21 +5475,21 @@ http://dagskra.ruv.is/nanar/31575/</desc>
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">214/365</episode-num>
+  <episode-num system="onscreen">214/377</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261028190000 +0000" stop="20261028192700 +0000" channel="RUV2.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">215/377</episode-num>
+  <episode-num system="onscreen">215/365</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261029190000 +0000" stop="20261029192700 +0000" channel="RUV2.is">
   <title lang="is">Fréttir (með táknmálstúlkun)</title>
   <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 http://dagskra.ruv.is/nanar/31575/</desc>
-  <episode-num system="onscreen">216/377</episode-num>
+  <episode-num system="onscreen">216/365</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261030190000 +0000" stop="20261030192700 +0000" channel="RUV2.is">
@@ -5567,163 +5506,12 @@ http://dagskra.ruv.is/nanar/31575/</desc>
   <episode-num system="onscreen">87/120</episode-num>
   <category lang="is">Fréttaefni</category>
  </programme>
- <programme start="20261010100500 +0000" stop="20261010120000 +0000" channel="Stod2.is">
-  <title lang="is">Bold and the Beautiful</title>
-  <sub-title lang="is">9439/750</sub-title>
-  <desc lang="is">Forrester-fjölskyldan er leiðandi í tískuheiminum en með miklum vinsældum fylgir líka mikil ábyrgð og pressa á að standa sig. Endalaus valdabarátta og erjur utan sem innan fyrirtækisins setja stundum mark sitt starfsemina og ekki hjálpa flóknu fjölskyldutengslin til sér í lagi þegar Spencer klanið fléttast inn í daglegt líf þeirra.</desc>
-  <episode-num system="xmltv_ns">34.9438.</episode-num>
-  <episode-num system="onscreen">9439/750</episode-num>
-  <category lang="is">Drama</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010120000 +0000" stop="20261010125500 +0000" channel="Stod2.is">
-  <title lang="is">The Love Triangle UK</title>
-  <sub-title lang="is">The Love Triangle UK</sub-title>
-  <desc lang="is">Raunveruleikaþættir þar sem reynt er á grunnhyggju einhleypra einstaklinga með því para þá saman byggt á tengingu í gegn um skilaboð. Óvæntur viðsnúningur hrærir svo hressilega upp í  stefnumótunum.</desc>
-  <episode-num system="xmltv_ns">1.2.</episode-num>
-  <episode-num system="onscreen">3/10</episode-num>
-  <category lang="is">Reality-TV</category>
-  <category lang="is">Romance</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010125500 +0000" stop="20261010134500 +0000" channel="Stod2.is">
-  <title lang="is">Ísskápastríð</title>
-  <sub-title lang="is">Ísskápastríð</sub-title>
-  <desc lang="is">Eva Laufey og Gummi Ben eru mætt aftur og fá til sín þjóðþekkta einstaklinga sem keppa í matargerð. Dómarar í þáttunum eru þau Siggi Hall og Hrefna Sætran.</desc>
-  <episode-num system="xmltv_ns">5.9.</episode-num>
-  <episode-num system="onscreen">10/12</episode-num>
-  <category lang="is">Entertainment</category>
-  <category lang="is">Reality-TV</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010134500 +0000" stop="20261010142500 +0000" channel="Stod2.is">
-  <title lang="is">Masterchef USA</title>
-  <sub-title lang="is">Finale Part 2</sub-title>
-  <desc lang="is">Það að er komið að þáttaröð 16 og núna er þemað "heimsins lystisemdir" þar sem ferðast er um heiminn í keppninni um titilinn Meistarakokkurinn.</desc>
-  <episode-num system="xmltv_ns">15.17.</episode-num>
-  <episode-num system="onscreen">18/18</episode-num>
-  <category lang="is">Reality-TV</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010142500 +0000" stop="20261010151500 +0000" channel="Stod2.is">
-  <title lang="is">The Dog House</title>
-  <sub-title lang="is">The Dog House</sub-title>
-  <desc lang="is">Raunveruleikaþættir um starfsfólk Wood Green sem er góðgerðastofnun sem sérhæfir sig í að finna hið fullkomna heimili fyrir heimilislausa hunda. Ómissandi þáttur fyrir alla dýravini.</desc>
-  <episode-num system="xmltv_ns">5.8.</episode-num>
-  <episode-num system="onscreen">9/9</episode-num>
-  <category lang="is">Documentary</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010151500 +0000" stop="20261010153000 +0000" channel="Stod2.is">
-  <title lang="is">Litlu hlutirnir</title>
-  <sub-title lang="is">Saga Sig</sub-title>
-  <desc lang="is">Í þessum þætti hittum við Sögu Sig, skapandi konu með sterka tengingu við líkama, huga og daglegt líf.</desc>
-  <episode-num system="xmltv_ns">2025.0.</episode-num>
-  <episode-num system="onscreen">1/8</episode-num>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010153000 +0000" stop="20261010160000 +0000" channel="Stod2.is">
-  <title lang="is">Impractical Jokers</title>
-  <sub-title lang="is">Rob Riggle</sub-title>
-  <desc lang="is">Hlægilegir bandarískir þættir þar sem æskuvinir skiptast á að vera þátttakendur í hrekk í falinni myndavél.</desc>
-  <episode-num system="xmltv_ns">12.20.</episode-num>
-  <episode-num system="onscreen">21/26</episode-num>
-  <category lang="is">Comedy</category>
-  <category lang="is">Reality-TV</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010160000 +0000" stop="20261010170500 +0000" channel="Stod2.is">
-  <title lang="is">Idol</title>
-  <sub-title lang="is">Fjórði hluti miðstigs</sub-title>
-  <desc lang="is">Glæsilegur skemmtiþáttur þar sem keppendur freista þess að verða næsta Idol-stjarna. Í dómnefnd sitja Birgitta Haukdal, Herra Hnetusmjör, Bríet og Daníel Ágúst og kynnar eru þau Aron Már og Sigrún Ósk.</desc>
-  <episode-num system="xmltv_ns">2022.6.</episode-num>
-  <episode-num system="onscreen">7/12</episode-num>
-  <category lang="is">Reality-TV</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010170500 +0000" stop="20261010180000 +0000" channel="Stod2.is">
-  <title lang="is">The Graham Norton Show</title>
-  <sub-title lang="is">The Graham Norton Show</sub-title>
-  <desc lang="is">Spjallþáttur írska grínistans Graham Norton. Þar sem hann, á sinn skemmtilega hátt, segir brandara og spjallar við frægt fólk.</desc>
-  <episode-num system="xmltv_ns">31.17.</episode-num>
-  <episode-num system="onscreen">18/22</episode-num>
-  <category lang="is">Talk-show</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010180000 +0000" stop="20261010185500 +0000" channel="Stod2.is">
-  <title lang="is">The Office</title>
-  <sub-title lang="is">Counseling</sub-title>
-  <desc lang="is">Bandarískir gamanþættir um lífið á Dunder Mifflin pappírsskrifstofunni í Scranton Pennsylvaníu með Steve Carell í aðalhlutverki.</desc>
-  <episode-num system="xmltv_ns">6.1.</episode-num>
-  <episode-num system="onscreen">2/27</episode-num>
-  <category lang="is">Comedy</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010185500 +0000" stop="20261011000000 +0000" channel="Stod2.is">
-  <title lang="is">Ofur Kalli</title>
-  <desc lang="is">Villa hefur alltaf dreymt um að verða ofurhetja og berjast við glæpi við hlið föður síns. Þessi draumur verður að engu þegar litli bróðir Villa, Kalli, fæðist. Kalli fær alla athyglina og að auki hefur hann ofurkrafta. Þegar ofur- illmenni og illur vísindamaður stefna á að taka yfir borgina, verða Villi og Kalli að leggja ágreining sinn til hliðar og vinna saman sem teymi. Geta ungabarn og öfundsjúkur bróðir hans bjargað borginni?</desc>
-  <episode-num system="xmltv_ns">2023.0.</episode-num>
-  <episode-num system="onscreen">0/0</episode-num>
-  <category lang="is">Animation</category>
-  <category lang="is">Family</category>
-  <category lang="is">Adventure</category>
-  <category lang="is">Drama</category>
-  <category lang="is">Action</category>
-  <category lang="is">Thriller</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261011000000 +0000" stop="20261011005000 +0000" channel="Stod2.is">
-  <title lang="is">The Office</title>
-  <sub-title lang="is">Sex Ed</sub-title>
-  <desc lang="is">Bandarískir gamanþættir um lífið á Dunder Mifflin pappírsskrifstofunni í Scranton Pennsylvaníu með Steve Carell í aðalhlutverki.</desc>
-  <episode-num system="xmltv_ns">6.3.</episode-num>
-  <episode-num system="onscreen">4/27</episode-num>
-  <category lang="is">Comedy</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261011005000 +0000" stop="20261011023500 +0000" channel="Stod2.is">
-  <title lang="is">After the Wedding</title>
-  <desc lang="is">Michelle Williams og Julianne Moore fara með aðalhlutverk í þessari spennuþrungnu og dramatísku mynd frá 2019. Isabelle hefur helgað líf sitt til að starfa með börnum á munaðarleysingjahæli á Indland. Hún fer til New York til að hitta hina vellauðugu Theresu í þeim tilgangi að safna fjármunum fyrir munaðarleysingjahælið. Þegar Theresa býður henni í brúðkaup fer af stað atburðarás þar sem fortíð og nútíð skarast og ráðgátur koma fram í dagsljósið.</desc>
-  <episode-num system="xmltv_ns">2018.0.</episode-num>
-  <episode-num system="onscreen">0/0</episode-num>
-  <category lang="is">Drama</category>
-  <rating>
-   <value>Yellow</value>
-  </rating>
- </programme>
- <programme start="20261011023500 +0000" stop="20261011044000 +0000" channel="Stod2.is">
-  <title lang="is">Dagskrárlok</title>
-  <sub-title lang="is">Dagskrárlok á Sýn</sub-title>
-  <desc lang="is">Dagskrárlok</desc>
-  <episode-num system="xmltv_ns">0.241.</episode-num>
-  <episode-num system="onscreen">242/365</episode-num>
-  <rating>
-   <value>Green</value>
-  </rating>
+ <programme start="20261101190000 +0000" stop="20261101192000 +0000" channel="RUV2.is">
+  <title lang="is">Fréttir (með táknmálstúlkun)</title>
+  <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+http://dagskra.ruv.is/nanar/31575/</desc>
+  <episode-num system="onscreen">88/377</episode-num>
+  <category lang="is">Fréttaefni</category>
  </programme>
  <programme start="20261011100000 +0000" stop="20261011120000 +0000" channel="Stod2.is">
   <title lang="is">Sprengisandur</title>
@@ -8373,165 +8161,6 @@ Logi Pedro leitar svara og sest niður í sófanum heima með einstaklingum sem 
   <desc lang="is">Dagskrárlok</desc>
   <episode-num system="xmltv_ns">0.252.</episode-num>
   <episode-num system="onscreen">253/365</episode-num>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010070500 +0000" stop="20261010080000 +0000" channel="Stod2Sport.is">
-  <title lang="is">The Goalscorers: Alan Shearer &amp; Ian Wright</title>
-  <sub-title lang="is">The Goalscorers: Alan Shearer &amp; Ian Wright</sub-title>
-  <desc lang="is">Alan Shearer &amp; Ian Wright</desc>
-  <episode-num system="xmltv_ns">2024.2.</episode-num>
-  <episode-num system="onscreen">3/5</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Documentary</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010080000 +0000" stop="20261010085000 +0000" channel="Stod2Sport.is">
-  <title lang="is">Soccerbox: Steven Gerrard</title>
-  <sub-title lang="is">Soccerbox: Steven Gerrard</sub-title>
-  <desc lang="is">Fyrrverandi knattspyrnumaðurinn Gary Neville fær til sín gamlar kempur í spjall um fótbolta.</desc>
-  <episode-num system="xmltv_ns">0.6.</episode-num>
-  <episode-num system="onscreen">7/12</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Documentary</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010085000 +0000" stop="20261010094500 +0000" channel="Stod2Sport.is">
-  <title lang="is">The Catch-up show</title>
-  <sub-title lang="is">The Catch-up show</sub-title>
-  <desc lang="is">Fjallað um allt það helsta í enska boltanum þessa vikuna. Frumsýnt 8. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.6.</episode-num>
-  <episode-num system="onscreen">7/40</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Talk-show</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010094500 +0000" stop="20261010101500 +0000" channel="Stod2Sport.is">
-  <title lang="is">The Big Interview: Emersonn</title>
-  <sub-title lang="is">The Big Interview: Emersonn</sub-title>
-  <desc lang="is">Skemmtileg þáttaröð þar sem núverandi og fyrrverandi leikmenn og þjálfarar liða í úrvalsdeildinni sitja fyrir svörum. Í þessum þætti er rætt við sóknarmann Ipswich, Emersonn.</desc>
-  <episode-num system="xmltv_ns">2025.6.</episode-num>
-  <episode-num system="onscreen">7/41</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Documentary</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010101500 +0000" stop="20261010104000 +0000" channel="Stod2Sport.is">
-  <title lang="is">PL Stories: A Family United</title>
-  <sub-title lang="is">PL Stories: A Family United</sub-title>
-  <desc lang="is">Áhugaverðar sögur um núverandi og fyrrverandi leikmenn og þjálfarar liða í ensku úrvalsdeildinni.</desc>
-  <episode-num system="xmltv_ns">2025.7.</episode-num>
-  <episode-num system="onscreen">8/52</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Documentary</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010104000 +0000" stop="20261010111000 +0000" channel="Stod2Sport.is">
-  <title lang="is">PL Preview</title>
-  <sub-title lang="is">PL Preview</sub-title>
-  <desc lang="is">Hitað upp fyrir leiki helgarinnar í ensku úrvalsdeildinni. Viðtöl við leikmenn, þjálfara liðanna og spáð í spilin fyrir leikina framundan. Frumsýnt 19. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.5.</episode-num>
-  <episode-num system="onscreen">6/36</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010111000 +0000" stop="20261010134000 +0000" channel="Stod2Sport.is">
-  <title lang="is">Arsenal - Leeds</title>
-  <sub-title lang="is">Arsenal - Leeds</sub-title>
-  <desc lang="is">Bein útsending frá leik Arsenal og Leeds í 6. umferð ensku úrvalsdeildinni, Premier League. Frumsýnt 10. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.50.</episode-num>
-  <episode-num system="onscreen">51/382</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010134000 +0000" stop="20261010162000 +0000" channel="Stod2Sport.is">
-  <title lang="is">Doc Zone</title>
-  <sub-title lang="is">Doc Zone</sub-title>
-  <desc lang="is">Bein útsending frá myndveri Sýnar Sports laugardaginn 10. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.5.</episode-num>
-  <episode-num system="onscreen">6/38</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Talk-show</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010162000 +0000" stop="20261010184500 +0000" channel="Stod2Sport.is">
-  <title lang="is">Man. Utd. - Tottenham</title>
-  <sub-title lang="is">Man. Utd. - Tottenham</sub-title>
-  <desc lang="is">Bein útsending frá leik Man. Utd. og Tottenham í 6. umferð ensku úrvalsdeildinni, Premier League. Frumsýnt 10. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.58.</episode-num>
-  <episode-num system="onscreen">59/382</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010184500 +0000" stop="20261010195500 +0000" channel="Stod2Sport.is">
-  <title lang="is">Lokasóknin</title>
-  <sub-title lang="is">Lokasóknin</sub-title>
-  <desc lang="is">Fjallað um allt það helsta úr 4. umferð NFL-deildarinnar. Frumsýnt 6.október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.4.</episode-num>
-  <episode-num system="onscreen">5/24</episode-num>
-  <category lang="is">Sport</category>
-  <category lang="is">Talk-show</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010195500 +0000" stop="20261010205000 +0000" channel="Stod2Sport.is">
-  <title lang="is">The Catch-up show</title>
-  <sub-title lang="is">The Catch-up show</sub-title>
-  <desc lang="is">Fjallað um allt það helsta í enska boltanum þessa vikuna. Frumsýnt 8. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.6.</episode-num>
-  <episode-num system="onscreen">7/40</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Talk-show</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010205000 +0000" stop="20261010211500 +0000" channel="Stod2Sport.is">
-  <title lang="is">PL Stories: A Family United</title>
-  <sub-title lang="is">PL Stories: A Family United</sub-title>
-  <desc lang="is">Áhugaverðar sögur um núverandi og fyrrverandi leikmenn og þjálfarar liða í ensku úrvalsdeildinni.</desc>
-  <episode-num system="xmltv_ns">2025.7.</episode-num>
-  <episode-num system="onscreen">8/52</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Documentary</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010211500 +0000" stop="20261011002500 +0000" channel="Stod2Sport.is">
-  <title lang="is">Masters</title>
-  <sub-title lang="is">Masters</sub-title>
-  <desc lang="is">Útsending frá öðrum keppnisdegi á Masters 2026.</desc>
-  <episode-num system="xmltv_ns">2025.3.</episode-num>
-  <episode-num system="onscreen">4/9</episode-num>
-  <category lang="is">Golf</category>
-  <category lang="is">Sport</category>
   <rating>
    <value>Green</value>
   </rating>
@@ -12018,43 +11647,6 @@ Logi Pedro leitar svara og sest niður í sófanum heima með einstaklingum sem 
    <value>Green</value>
   </rating>
  </programme>
- <programme start="20261010134000 +0000" stop="20261010160500 +0000" channel="Stod2Sport2.is">
-  <title lang="is">Chelsea - Bournemouth</title>
-  <sub-title lang="is">Chelsea - Bournemouth</sub-title>
-  <desc lang="is">Bein útsending frá leik Chelsea og Bournemouth í 6. umferð ensku úrvalsdeildinni, Premier League. Frumsýnt 10. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.52.</episode-num>
-  <episode-num system="onscreen">53/382</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010160500 +0000" stop="20261010162500 +0000" channel="Stod2Sport2.is">
-  <title lang="is">Laugardagsmörkin</title>
-  <sub-title lang="is">Laugardagsmörkin</sub-title>
-  <desc lang="is">Öll helstu atvik laugardagsins 10. október 2026 gerð upp.</desc>
-  <episode-num system="xmltv_ns">2025.5.</episode-num>
-  <episode-num system="onscreen">6/38</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Talk-show</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010162500 +0000" stop="20261010165500 +0000" channel="Stod2Sport2.is">
-  <title lang="is">The Big Interview: Hayden Hackney</title>
-  <sub-title lang="is">The Big Interview: Hayden Hackney</sub-title>
-  <desc lang="is">Skemmtileg þáttaröð þar sem núverandi og fyrrverandi leikmenn og þjálfarar liða í úrvalsdeildinni sitja fyrir svörum.</desc>
-  <episode-num system="xmltv_ns">2025.7.</episode-num>
-  <episode-num system="onscreen">8/41</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Documentary</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
  <programme start="20261011133000 +0000" stop="20261011165500 +0000" channel="Stod2Sport2.is">
   <title lang="is">Jaguars - Eagles</title>
   <sub-title lang="is">Jaguars - Eagles</sub-title>
@@ -12426,29 +12018,6 @@ Logi Pedro leitar svara og sest niður í sófanum heima með einstaklingum sem 
    <value>Green</value>
   </rating>
  </programme>
- <programme start="20261010134000 +0000" stop="20261010162500 +0000" channel="Stod2Sport3.is">
-  <title lang="is">Aston Villa - Brentford</title>
-  <sub-title lang="is">Aston Villa - Brentford</sub-title>
-  <desc lang="is">Bein útsending frá leik Aston Villa og Brentford í 6. umferð ensku úrvalsdeildinni, Premier League. Frumsýnt 10. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.51.</episode-num>
-  <episode-num system="onscreen">52/382</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010162500 +0000" stop="20261010172000 +0000" channel="Stod2Sport3.is">
-  <title lang="is">PL Goats: The Enforcers</title>
-  <sub-title lang="is">PL Goats: The Enforcers</sub-title>
-  <desc lang="is">Premier League GOATS</desc>
-  <episode-num system="xmltv_ns">0.6.</episode-num>
-  <episode-num system="onscreen">7/12</episode-num>
-  <category lang="is">Football</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
  <programme start="20261011124000 +0000" stop="20261011150500 +0000" channel="Stod2Sport3.is">
   <title lang="is">Hull - Everton</title>
   <sub-title lang="is">Hull - Everton</sub-title>
@@ -12726,30 +12295,6 @@ Logi Pedro leitar svara og sest niður í sófanum heima með einstaklingum sem 
   <episode-num system="xmltv_ns">2025.6.</episode-num>
   <episode-num system="onscreen">7/18</episode-num>
   <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010135000 +0000" stop="20261010163000 +0000" channel="Stod2Sport4.is">
-  <title lang="is">Ipswich - Fulham</title>
-  <sub-title lang="is">Ipswich - Fulham</sub-title>
-  <desc lang="is">Bein útsending frá leik Ipswich og Fulham í 6. umferð ensku úrvalsdeildinni, Premier League. Frumsýnt 10. október 2026.</desc>
-  <episode-num system="xmltv_ns">2025.56.</episode-num>
-  <episode-num system="onscreen">57/382</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Sport</category>
-  <rating>
-   <value>Green</value>
-  </rating>
- </programme>
- <programme start="20261010163000 +0000" stop="20261010170000 +0000" channel="Stod2Sport4.is">
-  <title lang="is">Soccerbox: Dimitar Berbatov</title>
-  <sub-title lang="is">Soccerbox: Dimitar Berbatov</sub-title>
-  <desc lang="is">Fyrrverandi knattspyrnumaðurinn Gary Neville fær til sín gamlar kempur í spjall um fótbolta.</desc>
-  <episode-num system="xmltv_ns">0.8.</episode-num>
-  <episode-num system="onscreen">9/12</episode-num>
-  <category lang="is">Football</category>
-  <category lang="is">Documentary</category>
   <rating>
    <value>Green</value>
   </rating>
@@ -13368,66 +12913,6 @@ Umsjónarmenn þáttarins eru Hlynur Sigurðsson, Ólafía Þórunn Kristinsdót
    <value>Green</value>
   </rating>
  </programme>
- <programme start="20261009234000 +0000" stop="20261010020000 +0000" channel="Siminn.is">
-  <title lang="is">Dungeons &amp; Dragons: Honor Among Thieves</title>
-  <desc lang="is">Heillandi þjófur og mislitur hópur ævintýramanna heldur af stað í sögulega ferð til að endurheimta týndan helgigrip. En allt fer illilega úrskeiðis þegar þeir lenda upp á kant við óvinveitta aðila.</desc>
- </programme>
- <programme start="20261010020000 +0000" stop="20261010040500 +0000" channel="Siminn.is">
-  <title lang="is">Fathers and Daughters</title>
-  <desc lang="is">Kvikmynd frá 2015 með Russell Crowe og Amanda Seyfried í aðalhlutverkum. Þekktur rithöfundur, Pulitzer-verðlaunahafi, ekkill og einstæður faðir lendir í erfiðum aðstæðum þegar hann fær taugaáfall og veikist alvarlega í kjölfarið. Aðalpersónan er hin rúmlega þrítuga Katie Davis sem varð fyrir miklu tilfinningaáfalli í æsku þegar hún missti föður sinn, rithöfundinn Jake Davis.</desc>
- </programme>
- <programme start="20261010040500 +0000" stop="20261010060000 +0000" channel="Siminn.is">
-  <title lang="is">Tónlist</title>
- </programme>
- <programme start="20261010060000 +0000" stop="20261010152000 +0000" channel="Siminn.is">
-  <title lang="is">Tónlist</title>
- </programme>
- <programme start="20261010152000 +0000" stop="20261010161500 +0000" channel="Siminn.is">
-  <title lang="is">Tough As Nails</title>
-  <sub-title lang="is">Man Made It, These Hands Can Fix It</sub-title>
-  <desc lang="is">Phil Keoghan úr Amazing Race stýrir spennandi keppni þar sem hversdagslegar hetjur keppa í raunverulegum aðstæðum.</desc>
-  <episode-num system="xmltv_ns">4.3.</episode-num>
-  <episode-num system="onscreen">4/10</episode-num>
- </programme>
- <programme start="20261010161500 +0000" stop="20261010173500 +0000" channel="Siminn.is">
-  <title lang="is">The Block</title>
-  <sub-title lang="is">Guest Ensuite Reveals</sub-title>
-  <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.</desc>
-  <episode-num system="xmltv_ns">19.27.</episode-num>
-  <episode-num system="onscreen">20/28</episode-num>
- </programme>
- <programme start="20261010173500 +0000" stop="20261010180500 +0000" channel="Siminn.is">
-  <title lang="is">Man With a Plan</title>
-  <sub-title lang="is">Yeah, Maybe</sub-title>
-  <desc lang="is">Adam kemst að því að það er erfiðara en að segja það að ala upp þrjú ung börn sín. Þegar konan hans fer aftur að vinna kemst hann að því að nýja starfsskylda hans heima við hans sé erfiðari en hann bjóst við. En hann gefst ekki upp.</desc>
-  <episode-num system="xmltv_ns">2.1.</episode-num>
-  <episode-num system="onscreen">2/13</episode-num>
- </programme>
- <programme start="20261010180500 +0000" stop="20261010183500 +0000" channel="Siminn.is">
-  <title lang="is">Poppa’s House</title>
-  <sub-title lang="is">Elevator Friend</sub-title>
-  <desc lang="is">Gamanþáttur með Wayans feðgum í aðalhlutverki um fúllynda útvarpsmanninn Poppa og fullorðinn son hans, sem reynir að elta drauma sína á sama tíma og hann sinnir fjölskyldunni.</desc>
-  <episode-num system="xmltv_ns">0.9.</episode-num>
-  <episode-num system="onscreen">1/10</episode-num>
- </programme>
- <programme start="20261010183500 +0000" stop="20261010190500 +0000" channel="Siminn.is">
-  <title lang="is">The King of Queens</title>
-  <sub-title lang="is">Time Share</sub-title>
-  <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.</desc>
-  <episode-num system="xmltv_ns">0.21.</episode-num>
-  <episode-num system="onscreen">22/25</episode-num>
- </programme>
- <programme start="20261010190500 +0000" stop="20261010200000 +0000" channel="Siminn.is">
-  <title lang="is">Beverly Hills, 90210</title>
-  <sub-title lang="is">Confession</sub-title>
-  <desc lang="is">Dramatísk þáttaröð um líf, ástir og vináttu ungs fólks í Beverly Hills þar sem áskoranir dagsins móta framtíðina. Klassísk þáttaröð sem skilgreindi heila kynslóð.</desc>
-  <episode-num system="xmltv_ns">8.5.</episode-num>
-  <episode-num system="onscreen">6/26</episode-num>
- </programme>
- <programme start="20261010200000 +0000" stop="20261010215000 +0000" channel="Siminn.is">
-  <title lang="is">Brad's Status</title>
-  <desc lang="is">Kvikmynd frá 2017 með Ben Stiller í aðalhlutverki. Þótt Brad Sloan lifi í sjálfu sér ágætu millistéttarlífi hugsar hann oft til þess hvað hefði getað orðið úr honum ef hann hefði fetað í sömu spor og fjórir af æskuvinum hans sem hefur öllum tekist að verða ríkir. Þegar sonur hans, Troy, segir honum að hann ætli í Harvard-háskóla fær Brad þá hugmynd að kannski geti hann bætt fyrir metnaðarleysi sitt á árum áður í gegnum hann.</desc>
- </programme>
  <programme start="20261010215000 +0000" stop="20261011000500 +0000" channel="Siminn.is">
   <title lang="is">Ballerina</title>
   <desc lang="is">Ungur kvenkyns leigumorðingi leitar hefnda gegn fólkinu sem drap fjölskyldu hennar. Myndin gerist á sama tíma og atburðirnir í John Wick: Chapter 3 - Parabellum.</desc>
@@ -13837,7 +13322,7 @@ Umsjónarmenn þáttarins eru Hlynur Sigurðsson, Ólafía Þórunn Kristinsdót
   <sub-title lang="is">What I'm Smellin' Is Stinky</sub-title>
   <desc lang="is">Jeff Probst hefur marga fjöruna sopið þegar kemur að því að pína venjulegt fólk í óvenjulegum aðstæðum. Baktjaldamakk, ást, hatur og gott sjónvarp einkennir Survivor.</desc>
   <episode-num system="xmltv_ns">50.2.</episode-num>
-  <episode-num system="onscreen">51/3</episode-num>
+  <episode-num system="onscreen">3/3</episode-num>
  </programme>
  <programme start="20261014210000 +0000" stop="20261014215000 +0000" channel="Siminn.is">
   <title lang="is">Chicago Med</title>
@@ -13997,6 +13482,63 @@ Umsjónarmenn þáttarins eru Hlynur Sigurðsson, Ólafía Þórunn Kristinsdót
   <episode-num system="onscreen">7/10</episode-num>
  </programme>
  <programme start="20261016033500 +0000" stop="20261016060000 +0000" channel="Siminn.is">
+  <title lang="is">Tónlist</title>
+ </programme>
+ <programme start="20261016060000 +0000" stop="20261016165500 +0000" channel="Siminn.is">
+  <title lang="is">Tónlist</title>
+ </programme>
+ <programme start="20261016165500 +0000" stop="20261016175500 +0000" channel="Siminn.is">
+  <title lang="is">The Block</title>
+  <sub-title lang="is">Office Rumpus Week (2)</sub-title>
+  <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.</desc>
+  <episode-num system="xmltv_ns">19.33.</episode-num>
+  <episode-num system="onscreen">20/34</episode-num>
+ </programme>
+ <programme start="20261016175500 +0000" stop="20261016182000 +0000" channel="Siminn.is">
+  <title lang="is">Man With a Plan</title>
+  <sub-title lang="is">Adam's Ribs</sub-title>
+  <desc lang="is">Adam kemst að því að það er erfiðara en að segja það að ala upp þrjú ung börn sín. Þegar konan hans fer aftur að vinna kemst hann að því að nýja starfsskylda hans heima við hans sé erfiðari en hann bjóst við. En hann gefst ekki upp.</desc>
+  <episode-num system="xmltv_ns">2.7.</episode-num>
+  <episode-num system="onscreen">8/13</episode-num>
+ </programme>
+ <programme start="20261016182000 +0000" stop="20261016184500 +0000" channel="Siminn.is">
+  <title lang="is">Poppa’s House</title>
+  <sub-title lang="is">Game of Phones</sub-title>
+  <desc lang="is">Gamanþáttur með Wayans feðgum í aðalhlutverki um fúllynda útvarpsmanninn Poppa og fullorðinn son hans, sem reynir að elta drauma sína á sama tíma og hann sinnir fjölskyldunni.</desc>
+  <episode-num system="xmltv_ns">0.15.</episode-num>
+  <episode-num system="onscreen">1/16</episode-num>
+ </programme>
+ <programme start="20261016184500 +0000" stop="20261016191000 +0000" channel="Siminn.is">
+  <title lang="is">The King of Queens</title>
+  <sub-title lang="is">Assaulted Nuts</sub-title>
+  <desc lang="is">Doug og Carrie Heffernan, par úr verkamannastétt frá Queens í New York, deila heimili sínu með Arthuri, sérvitrum föður hennar.</desc>
+  <episode-num system="xmltv_ns">1.2.</episode-num>
+  <episode-num system="onscreen">3/25</episode-num>
+ </programme>
+ <programme start="20261016191000 +0000" stop="20261016200000 +0000" channel="Siminn.is">
+  <title lang="is">Beverly Hills, 90210</title>
+  <sub-title lang="is">Trials and Tribulations</sub-title>
+  <desc lang="is">Dramatísk þáttaröð um líf, ástir og vináttu ungs fólks í Beverly Hills þar sem áskoranir dagsins móta framtíðina. Klassísk þáttaröð sem skilgreindi heila kynslóð.</desc>
+  <episode-num system="xmltv_ns">8.11.</episode-num>
+  <episode-num system="onscreen">12/26</episode-num>
+ </programme>
+ <programme start="20261016200000 +0000" stop="20261016214500 +0000" channel="Siminn.is">
+  <title lang="is">Float</title>
+  <desc lang="is">Waverly hélt hún hefði alla hluti á hreinu, en hún er nýbyrjuð í læknisfræði í Toronto eftir að hafa verið í heimsókn um sumarið hjá foreldrum sínum í Taipei. Þegar áætlanir hennar breytast skyndilega fer hún allt í einu til kanadísks bæjar þar sem hún hittir strandvörðinn Blake. Þegar hann bjargar henni næstum frá drukknun í strandpartý, þá býðst Blake til að kenna Waverly að synda. Eftir því sem kennslunni vindur fram byrja ástarblossarnir að kvikna.</desc>
+ </programme>
+ <programme start="20261016214500 +0000" stop="20261016233500 +0000" channel="Siminn.is">
+  <title lang="is">Sovereign</title>
+  <desc lang="is">Jerry, einstæður baslandi faðir, innrætir syni sínum, Joe, hugmyndafræði sjálfstæðra borgara og kennir honum að lög séu aðeins blekking og frelsi sé eitthvað sem maður tekur sér.  En eftir því sem þeir sökkva dýpra í hugmyndafræðina lenda þeir upp á kant við lögreglustjóra sem hefur helgað líf sitt því að halda uppi reglunum sem Jerry hefur varið sínu lífi í að rífa niður.</desc>
+ </programme>
+ <programme start="20261016233500 +0000" stop="20261017011500 +0000" channel="Siminn.is">
+  <title lang="is">Prospect</title>
+  <desc lang="is">Cee er á táningsaldri og er ásamt föður sínum á leiðinni til græna tunglsins Bakhroma þar sem þau ætla að leita að fágætum og gríðarlega verðmætum eðalsteinum sem leynast í jarðvegi skóglendis. En þetta er hættuspil því fyrir utan baneitrað andrúmsloftið á Bakhroma þurfa þau að takast á við vægðarlausa samkeppni græðgisdrifinna manna sem eru til alls vísir.</desc>
+ </programme>
+ <programme start="20261017011500 +0000" stop="20261017032000 +0000" channel="Siminn.is">
+  <title lang="is">Knives Out</title>
+  <desc lang="is">Spæjari rannsakar dauða ættföðurs í sérkennilegri og átakagjarnri fjölskyldu. Þegar hinn þekkti glæpasagnahöfundur Harlan Thrombley finnst látinn á heimili sínu, rétt eftir 85 ára afmæli sitt, þá er hinn hnýsni en jafnframt háttprúði rannsóknarlögreglumaður Benoit Blanc ráðinn til að rannsaka málið.</desc>
+ </programme>
+ <programme start="20261017032000 +0000" stop="20261017060000 +0000" channel="Siminn.is">
   <title lang="is">Tónlist</title>
  </programme>
 </tv>
